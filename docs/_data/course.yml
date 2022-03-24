@@ -1,0 +1,78 @@
+week-01:
+  title: 'Week 1'
+  sessions: 3
+  items:
+  - title: 'Syllabus'
+    header: info
+  - title: 'Table of Content'
+    header: info
+  - title: 'Polemics over Soteriology'
+    header: assignment
+    session: 1
+    url: 'session-01'
+  - title: 'Depravity of Man'
+    header: assignment
+    session: 2
+    url: 'session-02'
+  - title: 'Regeneration'
+    header: assignment
+    session: 3
+    url: 'session-03'
+
+week-02:
+  title: Week 2
+  sessions: 3
+  items:
+  - title: 'Justification'
+    header: assignment
+    session: 4
+    part: A
+  - title: 'Justification'
+    header: assignment
+    session: 5
+    part: B
+  - title: 'Redemption'
+    header: assignment
+    session: 6
+    part: A
+
+week-03:
+  title: Week 3
+  sessions: 3
+  items:
+  - title: 'Redemption'
+    header: assignment
+    session: 7
+    part: B
+  - title: 'Predestination'
+    header: assignment
+    session: 8
+  - title: 'Introduction to Sanctification'
+    header: assignment
+    session: 9
+    part: 1
+
+week-04:
+  title: Week 4
+  sessions: 3
+  items:
+  - title: 'Standing Before Christ'
+    header: assignment
+    session: 10
+    part: A
+  - title: 'Standing Before Christ'
+    header: assignment
+    session: 11
+    part: B
+  - title: 'Key to Sanctification'
+    header: assignment
+    session: 12
+    part: 2
+
+week-05:
+  title: Week 5
+  sessions: 1
+  items:
+  - title: 'Christology'
+    header: optional
+    session: 13
