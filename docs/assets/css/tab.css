@@ -61,7 +61,7 @@
 .body .item {
   margin-bottom: 20px;
   text-align: left;
-  font-size: 16px;
+  font-size: var(--fontSize);
   border-top: 3px outset;
   line-height: normal;
 }
@@ -77,10 +77,11 @@
 
 .control a, .control a:visited {
   text-decoration: none;
-  background-color: #d15684;
+  background-color: var(--secondaryColor);
   color: white;
   border-radius: 5px;
-  padding: 0 5px;
+  padding: 5px 10px;
+  font-size: var(--fontSize);
 }
 .current .control {
   background-color: var(--secondaryBg);

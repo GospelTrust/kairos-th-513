@@ -12,9 +12,9 @@ layout: index
     {% assign info = site.data.course[week.label] %}
     {% if info %}
       <li class="card-tab">
-        <div class="top-bar">sections</div>
-        <div class="tab">{{ info.items | size }}</div>
-        <div class="header"><a href="/{{ week.label }}">{{ info.title }}</a></div>
+        <div class="top-bar">week</div>
+        <div class="tab">{{ forloop.index0 }}</div>
+        <div class="header"><a href="/{{ week.label }}">{{ info.date }}</a></div>
         <div class="body">
           {% for item in info.items %}
             <div class="item">
@@ -48,6 +48,9 @@ layout: index
               {% endif %}
             </div>
           {% endfor %}
+        </div>
+        <div class="control">
+          <a href="/{{ week.label }}">{{ info.title }}</a>
         </div>
       </li>
     {% endif %}

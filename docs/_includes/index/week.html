@@ -1,9 +1,10 @@
 {% assign info = site.data.course[page.collection] %}
 
-<a class="center-align" href="/">
-  <img src="/assets/logo.svg" width="100" title="{{ site.title }}"/>
+<div class="center-align">
+  <a href="/"><img src="/assets/logo.svg" width="100" title="{{ site.title }}"/></a>
   <div class="special-head">{{ info.title }}</div>
-</a>
+  <div>{{ info.date }}</div>
+</div>
 
 <ul>
   {% for item in info.items %}

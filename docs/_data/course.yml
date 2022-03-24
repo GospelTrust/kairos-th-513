@@ -1,5 +1,6 @@
 week-01:
   title: 'Week 1'
+  date: 'Mar 14 - Mar 18'
   sessions: 3
   items:
   - title: 'Syllabus'
@@ -21,6 +22,7 @@ week-01:
 
 week-02:
   title: Week 2
+  date: 'Mar 21 - Mar 25'
   sessions: 3
   items:
   - title: 'Justification'
@@ -38,6 +40,7 @@ week-02:
 
 week-03:
   title: Week 3
+  date: 'Mar 28 - Apr 1'
   sessions: 3
   items:
   - title: 'Redemption'
@@ -54,6 +57,7 @@ week-03:
 
 week-04:
   title: Week 4
+  date: 'Apr 4 - Apr 8'
   sessions: 3
   items:
   - title: 'Standing Before Christ'
@@ -71,6 +75,7 @@ week-04:
 
 week-05:
   title: Week 5
+  date: 'Apr 11 - Apr 15'
   sessions: 1
   items:
   - title: 'Christology'
