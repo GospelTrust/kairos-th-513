@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ### Session 2
 
 {% include youtube.html id='VbTd0sngbrQ' %}

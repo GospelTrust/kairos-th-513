@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Session 1
 
 {% include youtube.html id='AbATYNTHp_E' %}
