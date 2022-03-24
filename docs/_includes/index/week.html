@@ -1,0 +1,36 @@
+{% assign info = site.data.course[page.collection] %}
+
+<a class="center-align" href="/">
+  <img src="/assets/logo.svg" width="100" title="{{ site.title }}"/>
+  <div class="special-head">{{ info.title }}</div>
+</a>
+
+<ul>
+  {% for item in info.items %}
+    <li class="card-tab">
+
+      {% if item.session %}
+        <div class="top-bar">session</div>
+        <div class="tab">{{ item.session }}</div>
+      {% else %}
+        <div class="top-bar">&nbsp;</div>
+      {% endif %}
+
+      <div class="header">{{ item.header }}</div>
+
+      <div class="body">
+        {% if item.url %}
+          <h2><a href="/{{ page.collection }}/{{ item.url }}">{{ item.title }}</a></h2>
+        {% else %}
+          <h2>{{ item.title }}</h2>
+        {% endif %}
+
+        {% if item.part %}
+          <div class="item">
+          Part {{ item.part }}
+          </div>
+        {% endif %}
+      </div>
+    </li>
+  {% endfor %}
+</ul>

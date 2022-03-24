@@ -1,0 +1,127 @@
+html {
+  --specialFont: 'Josefin Sans', sans-serif;
+  --mainFont: 'Open Sans', sans-serif;
+  --secondaryFont: 'Teko', sans-serif;
+  --monoFont: 'Share Tech Mono', monospace;
+  --secondaryColor: dodgerblue;
+  --linkColor: deeppink;
+  --primaryColor: aliceblue;
+  --bgColor: steelblue;
+  --fgColor: ivory;
+}
+
+body {
+  font-family: var(--mainFont);
+  font-size: 1.4em;
+  line-height: 1.3em;
+  background-color: var(--bgColor);
+  color: var(--fgColor);
+}
+
+a, a:visited {
+  color: var(--linkColor);
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--secondaryFont);
+  font-weight: normal;
+  color: var(--secondaryColor);
+}
+
+body::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+body::-webkit-scrollbar-thumb {
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 6px;
+}
+body::-webkit-scrollbar-corner {
+  background-color: transparent;
+}
+
+code, pre {
+  font-family: var(--specialFont);
+}
+
+code {
+  white-space: pre-wrap;
+  font-size: 27px;
+  color: var(--primaryColor);
+}
+
+pre {
+  background: linear-gradient(rgba(0,0,0,0.05),rgba(0,0,0,0.05));
+  padding: 10px;
+}
+
+pre code {
+  color: inherit;
+}
+
+blockquote {
+  border-left: 5px solid var(--primaryColor);
+  padding-left: 10px;
+  margin-left: 20px;
+  font-family: var(--specialFont);
+  font-size: 30px;
+}
+
+.md-18 { font-size: 18px; }
+.md-24 { font-size: 24px; }
+.md-36 { font-size: 36px; }
+.md-48 { font-size: 48px; }
+.md-disabled { color: rgba(0,0,0,0.1); }
+
+.buttons {
+  margin-bottom: 1em;
+}
+.buttons a {
+  text-decoration: none;
+  color: yellowgreen;
+}
+
+.navigation {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: deeppink!important;
+}
+.navigation.right {
+  flex-direction: row-reverse;
+}
+
+.middle-align {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  text-align: center;
+}
+
+.middle-align img {
+  margin-right: 5px;
+}
+
+.spacer {
+  margin-top: 100px;
+}
+.middle-spacer {
+  justify-content: space-around;
+  width: 200px;
+}
+
+.center-align {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  flex-direction: column;
+}
+
+.special-head {
+  font-family: var(--specialFont);
+  font-size: 40px;
+  line-height: 60px;
+  text-align: center;
+  color: var(--primaryColor);
+}

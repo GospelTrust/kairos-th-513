@@ -1,0 +1,55 @@
+---
+layout: index
+---
+
+<div class="center-align">
+  <img src="/assets/logo.svg" width="100" title="{{ site.title }}"/>
+  <div class="special-head">{{ site.title }}</div>
+</div>
+
+<ul>
+  {% for week in site.collections %}
+    {% assign info = site.data.course[week.label] %}
+    {% if info %}
+      <li class="card-tab">
+        <div class="top-bar">sections</div>
+        <div class="tab">{{ info.items | size }}</div>
+        <div class="header"><a href="/{{ week.label }}">{{ info.title }}</a></div>
+        <div class="body">
+          {% for item in info.items %}
+            <div class="item">
+              <div class="middle-align">
+                {% if item.session %}
+                  <span class="material-icons">
+                    {% if item.header == 'assignment' %}
+                      task_alt
+                    {% else %}
+                      flaky
+                    {% endif %}
+                  </span>
+                  <h3>Session {{ item.session }}</h3>
+                {% else if item.header == 'info' %}
+                  <span class="material-icons-outlined">{{ item.header }}</span>
+                  <h3>{{ item.header }}</h3>
+                {% else %}
+                  <span class="material-icons">question_mark</span>
+                  <h3>{{ item.header }}</h3>
+                {% endif %}
+              </div>
+
+              {% if item.url %}
+                <a href="{{ week.label }}/{{ item.url }}">{{ item.title }}</a>
+              {% else %}
+                {{ item.title }}
+              {% endif %}
+
+              {% if item.part %}
+                <small>(Part {{ item.part }})</small>
+              {% endif %}
+            </div>
+          {% endfor %}
+        </div>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
