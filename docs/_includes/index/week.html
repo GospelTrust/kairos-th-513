@@ -1,14 +1,33 @@
 {% assign info = site.data.course[page.collection] %}
 
+{% assign end = info.end | date: '%s' %}
+{% assign begin = info.begin | date: '%s' %}
+{% assign now = 'now' | date: '%s' %}
+
 <div class="center-align">
   <a href="/"><img src="/assets/logo.svg" width="100" title="{{ site.title }}"/></a>
-  <div class="special-head">{{ info.title }}</div>
-  <div>{{ info.date }}</div>
+
+  <h1 class="special">
+    {{ info.title }}
+  </h1>
+
+  <div>
+    {% if info.begin and info.end %}
+      {{ info.begin | date: '%b %e' }} - {{ info.end | date: '%b %e, %Y' }}
+    {% else %}
+      {{ info.date }}
+    {% endif %}
+  </div>
+
+  {% if now >= begin and now <= end %}
+    <small class="special">this week</small>
+    <span class="material-icons md-36">keyboard_double_arrow_down</span>
+  {% endif %}
 </div>
 
 <ul>
   {% for item in info.items %}
-    <li class="card-tab">
+    <li class="card-tab {{ info.theme }}">
 
       {% if item.session %}
         <div class="top-bar">session</div>

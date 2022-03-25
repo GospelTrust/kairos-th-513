@@ -6,7 +6,7 @@ html {
   --secondaryColor: dodgerblue;
   --linkColor: deeppink;
   --primaryColor: aliceblue;
-  --bgColor: steelblue;
+  --bgColor: #444;
   --fgColor: ivory;
 }
 
@@ -18,7 +18,7 @@ body {
   color: var(--fgColor);
 }
 
-a, a:visited {
+a {
   color: var(--linkColor);
   text-decoration: none;
 }
@@ -27,6 +27,13 @@ h1, h2, h3, h4, h5, h6 {
   font-family: var(--secondaryFont);
   font-weight: normal;
   color: var(--secondaryColor);
+}
+
+.special {
+  font-family: var(--specialFont);
+  text-align: center;
+  color: var(--primaryColor);
+  margin: 10px 0 5px 0;
 }
 
 body::-webkit-scrollbar {
@@ -116,12 +123,4 @@ blockquote {
   align-items: center;
   text-decoration: none;
   flex-direction: column;
-}
-
-.special-head {
-  font-family: var(--specialFont);
-  font-size: 40px;
-  line-height: 60px;
-  text-align: center;
-  color: var(--primaryColor);
 }
