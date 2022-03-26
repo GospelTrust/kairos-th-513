@@ -140,3 +140,9 @@ section > div {
   text-decoration: none;
   flex-direction: column;
 }
+
+@media (max-width: 700px) {
+  body {
+    font-size: 18px;
+  }
+}
