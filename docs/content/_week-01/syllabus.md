@@ -1,4 +1,5 @@
 ---
+index: 0
 layout: lesson
 ---
 TH 513 / Soteriology
@@ -109,8 +110,8 @@ The homework is due at the start of the class period of the following session. F
 
 ### The following is Kairos University's standard grading & grade point scale:
 
-Gr | Score | GPA |
---- | --- | ---
+Grade | Score | GPA |
+:--- | :--- | ---:
 A | 95-100 | 4.0
 A- | 90-94 | 3.7
 B+ | 87-89 | 3.3

@@ -8,6 +8,7 @@ html {
   --primaryColor: aliceblue;
   --bgColor: #444;
   --fgColor: ivory;
+  --contentWidth: 600px;
 }
 
 body {
@@ -75,6 +76,18 @@ blockquote {
   font-size: 30px;
 }
 
+section.content {
+  display: flex;
+  justify-content: space-around;
+}
+section > div {
+  max-width: var(--contentWidth);
+}
+section p, section li, section table, section pre, section code {
+  font-size: 16px;
+  line-height: 24px;
+}
+
 .md-18 { font-size: 18px; }
 .md-24 { font-size: 24px; }
 .md-36 { font-size: 36px; }
@@ -113,6 +126,7 @@ blockquote {
 .spacer {
   margin-top: 100px;
 }
+
 .middle-spacer {
   justify-content: space-around;
   width: 200px;

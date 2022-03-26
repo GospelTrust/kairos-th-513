@@ -6,8 +6,7 @@ week-01:
   items:
   - title: 'Syllabus'
     header: info
-  - title: 'Table of Content'
-    header: info
+    url: 'syllabus'
   - title: 'Polemics over Soteriology'
     header: assignment
     session: 1
@@ -85,4 +84,5 @@ week-05:
   items:
   - title: 'Christology'
     header: optional
+    icon: flaky
     session: 13

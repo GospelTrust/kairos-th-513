@@ -1,23 +1,20 @@
 <!doctype html>
 <html>
   <head>
-    <meta content="IE=edge" http-equiv="X-UA-Compatible">
-    <meta charset="utf-8">
-    <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
-    {% assign text = site.data.languages[page.collection] %}
+    {% include head.html %}
+    {% assign week = site.data.course[page.collection] %}
+    {% assign item = week.items[page.index] %}
     <title>
-      {{ text.week | capitalize }} {{ page.week }}: {{ page.title }} ({{ text.day }} {{ page.day }})
+      {{ week.title }}: {{ item.title }}
     </title>
-    <link href="https://fonts.googleapis.com/css2?family=Saira+Condensed&family=Anton&family=Comforter&family=Smooch+Sans&family=Material+Icons&family=Material+Icons+Outlined&display=swap" rel="stylesheet" />
-    <link rel="shortcut icon" type="image/png" href="/assets/favicon.png" />
-    <link href="{{ 'assets/css/lesson.css' |  relative_url }}" rel="stylesheet">
+    <link href="{{ 'assets/css/lesson.css' | relative_url }}" rel="stylesheet"/>
+    <link href="{{ 'assets/css/md.css' | relative_url }}" rel="stylesheet"/>
   </head>
   <body>
-    {% include logo.html %}
-    {% include lesson/title.html %}
+    {% include lesson/header.html %}
 
-    <section style="display: flex; justify-content: space-around">
-      <div style="max-width: 600px">
+    <section class="content">
+      <div>
         {{ content }}
       </div>
     </section>

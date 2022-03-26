@@ -1,0 +1,56 @@
+{% assign week = site.data.course[page.collection] %}
+{% assign item = week.items[page.index] %}
+
+{% assign week_num = page.collection | replace_first: 'week-' %}
+{% assign prev = week_num | minus: 1 | prepend: '00' | slice: -2, 2 | prepend: 'week-' %}
+{% assign next = week_num | plus: 1 | prepend: '00' | slice: -2, 2 | prepend: 'week-' %}
+
+<div class="center-align">
+  <a href="/{{ page.collection }}"><img src="/assets/logo.svg" width="50" title="{{ week.title }}"/></a>
+
+  <h1 class="special">{{ item.title }}</h1>
+
+  <div class="middle-align special">
+    {% if site.data.course[prev] %}
+      <a href="/{{ prev }}" class="material-icons md-48">navigate_before</a>
+    {% else %}
+      <span class="material-icons md-48 md-disabled">navigate_before</span>
+    {% endif %}
+
+    <a href="/{{ page.collection }}">{{ week.title }}</a>
+
+    {% if site.data.course[next] %}
+      <a href="/{{ next }}" class="material-icons md-48">navigate_next</a>
+    {% else %}
+      <span class="material-icons md-48 md-disabled">navigate_next</span>
+    {% endif %}
+  </div>
+
+  <small class="special">
+    {% if week.begin and week.end %}
+      {{ week.begin | date: '%b %e' }} - {{ week.end | date: '%b %e, %Y' }}
+    {% else %}
+      {{ week.date }}
+    {% endif %}
+  </small>
+
+  <div class="middle-align">
+    {% for item in week.items %}
+      {% if item.icon %}
+        {% assign icon = item.icon %}
+      {% elsif item.header %}
+        {% assign icon = item.header %}
+      {% else }
+        {% assign icon = '' %}
+      {% endif %}
+
+      {% if forloop.index0 == page.index %}
+        <span class="material-icons md-24">{{ icon }}</span>
+      {% elsif item.url %}
+        <a href="/{{ page.collection }}/{{ item.url }}" class="material-icons md-24">{{ icon }}</a>
+      {% else %}
+        <span class="material-icons md-24 md-disabled">{{ icon }}</span>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
