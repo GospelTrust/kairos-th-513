@@ -150,7 +150,7 @@ The intent of the law and debt cancellation
 
    - d. The major intent of the law, then, is to show that “no one will be declared righteous in his sight by observing the law; rather, through the law we become conscious of sin” (Rom. 3:20).
 
-   e. g., you shall not steal -> you stole -> therefore, you are a lawbreaker.
+     e. g., you shall not steal -> you stole -> therefore, you are a lawbreaker.
 
      1. That’s how Paul came to recognize that he was a sinner because the law revealed that he had a greedy heart.
 
@@ -163,27 +163,27 @@ The intent of the law and debt cancellation
 
 2. Debt cancellation.
 
-This concept is clearly taught in the parable in Matt. 18:23-27:
+   This concept is clearly taught in the parable in Matt. 18:23-27:
 
-> Therefore, the kingdom of heaven is like a king who wanted to settle accounts with his servants. 24 As he began the settlement, a man who owed him ten thousand bags of gold was brought to him. 25 Since he was not able to pay, the master ordered that he and his wife and his children and all that he had be sold to repay the debt. 26 “At this the servant fell on his knees before him. ‘Be patient with me,’ he begged, ‘and I will pay back everything.’ 27 The servant’s master took pity on him, canceled the debt and let him go.
+   > Therefore, the kingdom of heaven is like a king who wanted to settle accounts with his servants. 24 As he began the settlement, a man who owed him ten thousand bags of gold was brought to him. 25 Since he was not able to pay, the master ordered that he and his wife and his children and all that he had be sold to repay the debt. 26 “At this the servant fell on his knees before him. ‘Be patient with me,’ he begged, ‘and I will pay back everything.’ 27 The servant’s master took pity on him, canceled the debt and let him go.
 
-  - a. The master in the story represents God; the indebted servant is the sinner.
+   - a. The master in the story represents God; the indebted servant is the sinner.
 
-  - b. The 10,000 talents ($20+ million) owed to the master symbolizes the depth and magnitude of ours sins committed against God; it’s an unpayable amount.
+   - b. The 10,000 talents ($20+ million) owed to the master symbolizes the depth and magnitude of ours sins committed against God; it’s an unpayable amount.
 
-    This is another way of saying that salvation cannot be attained “as a result of works” (Eph. 2:8-9) because no “righteous things we had done” (Tit. 3:4) can cancel out the actual amount of debt owed.
+     This is another way of saying that salvation cannot be attained “as a result of works” (Eph. 2:8-9) because no “righteous things we had done” (Tit. 3:4) can cancel out the actual amount of debt owed.
 
-  - c. Cancelling the unpayable debt means that God has unilaterally forgiven our sins; accepting this offer of cancellation in faith makes us “guilt-free,” or justified from the charges of spiritual indebtedness.
+   - c. Cancelling the unpayable debt means that God has unilaterally forgiven our sins; accepting this offer of cancellation in faith makes us “guilt-free,” or justified from the charges of spiritual indebtedness.
 
-    In light of this parable, Romans 4:4-5 can be read in the following manner:
+     In light of this parable, Romans 4:4-5 can be read in the following manner:
 
      Now when man works, his wages are not credited to him as a gift, but as an obligation. However, to the man who does not work (repay) but trusts God who justifies the wicked (cancels the debt owed by the debtor), his faith is credited as righteousness.
 
-  - d. God is able to do this because of the ultimate atoning sacrifice of Jesus.
+   - d. God is able to do this because of the ultimate atoning sacrifice of Jesus.
 
-   1. The act of forgiving the 10,000 talents by the master represents Jesus’ sacrifice of himself whose shed blood resulted in permanent forgiveness of sins (Heb. 9:22).
+     1. The act of forgiving the 10,000 talents by the master represents Jesus’ sacrifice of himself whose shed blood resulted in permanent forgiveness of sins (Heb. 9:22).
 
-   2. Only the blood of Christ is able “to take away the sins of many people” (Heb. 9:28) because it is not corrupted by sins (discussed later).
+     2. Only the blood of Christ is able “to take away the sins of many people” (Heb. 9:28) because it is not corrupted by sins (discussed later).
 
 2. The rest of the parable shows that the justified person, in a legal sense, does not yet possess a righteous heart.
 
