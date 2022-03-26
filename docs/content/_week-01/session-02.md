@@ -1,4 +1,5 @@
 ---
+index: 2
 layout: lesson
 ---
 # Session 2
@@ -8,11 +9,9 @@ layout: lesson
 {% include youtube.html id='91QihmJxUJE' %}
 {% include youtube.html id='fc_JqEX4af8' %}
 
-# Outline
+`Session 2`
 
-
-Session 2
-Chapter 2 Depravity of Man
+# Chapter 2: Depravity of Man
 [SalvationRegenerationand at the root of it is the state of the fallen man]
 A first step toward salvation is regeneration, but without properly understanding the state of the fallen man, the need for regeneration is not readily grasped.
 

@@ -1,15 +1,12 @@
 ---
+index: 3
 layout: lesson
 ---
-# Session 3
 
 {% include youtube.html id='_Tfh_2OSZZ0' %}
 {% include youtube.html id='OqvxdyI4Q0w' %}
 
-# Outline
-
-
-Session 3
+`Session 3`
 
 Chapter 3 Regeneration
 
