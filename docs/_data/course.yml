@@ -30,14 +30,17 @@ week-02:
     header: assignment
     session: 4
     part: A
+    url: 'session-04'
   - title: 'Justification'
     header: assignment
     session: 5
     part: B
+    url: 'session-05'
   - title: 'Redemption'
     header: assignment
     session: 6
     part: A
+    url: 'session-06'
 
 week-03:
   title: Week 3
