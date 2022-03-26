@@ -141,6 +141,7 @@ The study does not attempt to settle theological and doctrinal disagreements amo
 
 {% include youtube.html id='zp7z2O5f09U' %}
 
+---
 # Homework 1
 
 Read over the material covered in the last class and the additional Bible reading (if any). If you have any questions, please note them here and ask me later.
