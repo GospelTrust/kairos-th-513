@@ -5,19 +5,25 @@
 {% assign prev = week_num | minus: 1 | prepend: '00' | slice: -2, 2 | prepend: 'week-' %}
 {% assign next = week_num | plus: 1 | prepend: '00' | slice: -2, 2 | prepend: 'week-' %}
 
-<div class="center-align">
+<div class="center-align special">
   <a href="/{{ page.collection }}"><img src="/assets/logo.svg" width="50" title="{{ week.title }}"/></a>
 
+  {% if item.session %}
+    <div>Session {{ item.session }}</div>
+  {% endif %}
   <h1 class="special">{{ item.title }}</h1>
+  {% if item.part %}
+    <div>Part {{ item.part }}</div>
+  {% endif %}
 
-  <div class="middle-align special">
+  <div class="middle-align">
     {% if site.data.course[prev] %}
       <a href="/{{ prev }}" class="material-icons md-48">navigate_before</a>
     {% else %}
       <span class="material-icons md-48 md-disabled">navigate_before</span>
     {% endif %}
 
-    <a href="/{{ page.collection }}">{{ week.title }}</a>
+    <a href="/{{ page.collection }}"><h3>{{ week.title }}</h3></a>
 
     {% if site.data.course[next] %}
       <a href="/{{ next }}" class="material-icons md-48">navigate_next</a>
@@ -26,13 +32,13 @@
     {% endif %}
   </div>
 
-  <small class="special">
+  <div>
     {% if week.begin and week.end %}
       {{ week.begin | date: '%b %e' }} - {{ week.end | date: '%b %e, %Y' }}
     {% else %}
       {{ week.date }}
     {% endif %}
-  </small>
+  </div>
 
   <div class="middle-align">
     {% for item in week.items %}
