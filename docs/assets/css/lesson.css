@@ -13,8 +13,8 @@ html {
 
 body {
   font-family: var(--mainFont);
-  font-size: 1.4em;
-  line-height: 1.3em;
+  font-size: 16px;
+  line-height: 24px;
   background-color: var(--bgColor);
   color: var(--fgColor);
 }
@@ -55,7 +55,6 @@ code, pre {
 
 code {
   white-space: pre-wrap;
-  font-size: 27px;
   color: var(--primaryColor);
 }
 
@@ -69,11 +68,11 @@ pre code {
 }
 
 blockquote {
-  border-left: 5px solid var(--primaryColor);
+  border-left: 5px solid var(--secondaryColor);
   padding-left: 10px;
   margin-left: 20px;
   font-family: var(--specialFont);
-  font-size: 30px;
+  font-size: 20px;
 }
 
 section.content {
@@ -82,10 +81,6 @@ section.content {
 }
 section > div {
   max-width: var(--contentWidth);
-}
-section p, section li, section table, section pre, section code {
-  font-size: 16px;
-  line-height: 24px;
 }
 
 .md-18 { font-size: 18px; }
