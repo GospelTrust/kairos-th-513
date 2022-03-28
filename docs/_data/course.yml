@@ -50,15 +50,24 @@ week-03:
   items:
   - title: 'Redemption'
     header: assignment
-    session: 7
+    session: 7a
     part: B
+    url: 'session-07a'
+  - title: 'Predestination'
+    header: assignment
+    session: 7b
+    url: 'session-07b'
+    part: A
   - title: 'Predestination'
     header: assignment
     session: 8
+    url: 'session-08'
+    part: B
   - title: 'Introduction to Sanctification'
     header: assignment
     session: 9
     part: 1
+    url: 'session-09'
 
 week-04:
   title: Week 4

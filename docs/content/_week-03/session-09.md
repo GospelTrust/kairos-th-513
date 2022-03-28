@@ -1,6 +1,5 @@
-
 ---
-index: 2
+index: 3
 layout: lesson
 ---
 
