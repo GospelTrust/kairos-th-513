@@ -3,11 +3,9 @@ index: 0
 layout: lesson
 ---
 
-{% include youtube.html id='W69QqMgYclA' %}
-{% include youtube.html id='l_61XY_8bvc' %}
-{% include youtube.html id='_RKtzamapvQ' %}
-
 `Session 7`
+
+{% include youtube.html id='W69QqMgYclA' %}
 
 # Chapter 6: Redemption (Part B)
 
@@ -77,6 +75,8 @@ The most important aspect of the Lamb that was slain is that through it an adequ
 
      `Heb. 10:16a, 17`:
      > This is the covenant I will make with them after that time, says the Lord…. 17 Then he adds: ‘Their sins and lawless acts I will remember no more.’
+
+{% include youtube.html id='l_61XY_8bvc' %}
 
 ## Discussion:
 
@@ -197,6 +197,8 @@ Read over the material covered in the last class and the additional Bible readin
 
 
 ----
+
+{% include youtube.html id='_RKtzamapvQ' %}
 
 # Chapter 6: Predestination (Part A)
 
