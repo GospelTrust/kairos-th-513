@@ -42,7 +42,7 @@ A. The term “Christology”
 
 1. This English word derives from two Greek words, Christos and logos.
 
-a. “Christ (Gk. Christos) . . . is “the NT designation of OT ‘Messiah’ (Heb. māsîah ‘anointed’).” (Eerdmans Bible Dictionary, 207).
+a. “Christ (Gk. Christos) …is “the NT designation of OT ‘Messiah’ (Heb. māsîah ‘anointed’).” (Eerdmans Bible Dictionary, 207).
 
 b. Logos means, among other things, “intelligence, a word as the expression of that intelligence” (Zodhiates, 932).
 
@@ -149,11 +149,11 @@ The apostle Paul, in reference to the OT regulations, including the dietary laws
  Son” (Jn. 3:16) of God, became “sin for us, so that in him we might become the righteousness of God” (2 Cor. 5:21b).
 
 (5) The last messianic type considered for this study is what God has Moses do in Egypt as He is about to strike every firstborn dead.
- “The blood [of ‘lamb . . . without blemish’— Ex. 12:5a] shall be a sign for you, on the houses where you are. And when I see the blood, I will pass over you, and no plague will befall you to destroy you, when I strike the land of Egypt”
+ “The blood [of ‘lamb …without blemish’— Ex. 12:5a] shall be a sign for you, on the houses where you are. And when I see the blood, I will pass over you, and no plague will befall you to destroy you, when I strike the land of Egypt”
  (Ex. 12:13).
 
 (a) The blood of lamb without blemish foreshadows that the blood that will
- “save[ us] . . . from the wrath of God” (Rom. 5:9b) is the blood shed by the the sinless firstborn, and one and only lamb of God who dies substitutionally.
+ “save[ us] …from the wrath of God” (Rom. 5:9b) is the blood shed by the the sinless firstborn, and one and only lamb of God who dies substitutionally.
 
 (b) John the Baptist confirms that this māsîah foreshadowed in the OT is the
  Christos of the NT: “The next day he saw Jesus coming toward him, and said,
@@ -194,7 +194,7 @@ b. The only one who met these and hundreds of other messianic prophecies (e.g., 
 (1) When the malevolent Herod the king wondered as to
  “where the Christ was to be born” (Matt. 2:4), the Magi responded:
 
- “In Bethlehem in Judea, . . . for this is what the prophet has written: 6 ‘But you, Bethlehem, in the land of Judah, are by no means least among the rulers of Judah; for out of you will come a ruler who will be the shepherd of my people Israel'" (Matt. 2:5-6 NIV).
+ “In Bethlehem in Judea, …for this is what the prophet has written: 6 ‘But you, Bethlehem, in the land of Judah, are by no means least among the rulers of Judah; for out of you will come a ruler who will be the shepherd of my people Israel'" (Matt. 2:5-6 NIV).
 
 (2) And regarding the birth of Christ, the apostle Matthew writes:
 
@@ -264,7 +264,7 @@ A. Believing in the biblical Jesus matters because:
 
 a. The Mormon’s view of Christ:
 
-(1) “Jesus and Lucifer were a spirit brother prior to his incarnation. Lucifer became jealous of Christ . . . fell from heaven. So Christ was appointed by Gods to become the redeemer of the race . . .”
+(1) “Jesus and Lucifer were a spirit brother prior to his incarnation. Lucifer became jealous of Christ …fell from heaven. So Christ was appointed by Gods to become the redeemer of the race . . .”
 
 (2) “[Jesus] celebrated his own marriage to both 'the Mary and Martha, whereby he
  could see his seed before he was crucified'" (“Journal of Discourses,” Vol. 4, 259-
@@ -273,9 +273,9 @@ b. The Jehovah’s Witnesses’ view of Christ:
  (The following statements are extracted from their literatures.)
 
 (1) Jesus, the Christ, a created individual, is the second greatest personage of the
- Universe . . . The truth of the matter is that the word is Christ Jesus, who did have a beginning."
+ Universe …The truth of the matter is that the word is Christ Jesus, who did have a beginning."
 
-(2) "He was a god, but not the Almighty God, who is Jehovah . . . If Jesus were God, then during Jesus' death God was dead in the grave."
+(2) "He was a god, but not the Almighty God, who is Jehovah …If Jesus were God, then during Jesus' death God was dead in the grave."
 
 c. Evidently, the Jesus of the Mormons and Jehovah’s Witnesses is substantially different from the biblical Jesus.
 
@@ -316,7 +316,7 @@ b. Meaning what? They are still not reconciled to God; therefore, they can neith
 
  James Limburg in Judaism: An Introduction for Christians, writes:
 
- “The majority of Jews, however, have not understood Jesus to be the Messiah . . . Some Jews are prepared to grant Jesus a place of honor among the righteous and the teachers of Israel. The paths of Jews and Christians are coming closer together in regard to the person of Jesus. However, this convergence comes to a halt when Christians confess Jesus of Nazareth to be the risen on, the Christ, the Savior, and the
+ “The majority of Jews, however, have not understood Jesus to be the Messiah …Some Jews are prepared to grant Jesus a place of honor among the righteous and the teachers of Israel. The paths of Jews and Christians are coming closer together in regard to the person of Jesus. However, this convergence comes to a halt when Christians confess Jesus of Nazareth to be the risen on, the Christ, the Savior, and the
 Son of God. The Jewish scholar Shalom ben-Chorin put it this way: ‘The faith of
 Jesus unites us, faith in Jesus separates us’” (165)
 
@@ -326,9 +326,9 @@ Jesus unites us, faith in Jesus separates us’” (165)
 
  They further hold that “in the messianic age we expect the abolition of all wars between men and complete disarmament” (Is. 2:4)
 
- But noting that people “still clinging to their errors and denial of God” and that “we . . . see the nations fighting and contending with each other more violently than before, they say the messianic age has not yet come.”
+ But noting that people “still clinging to their errors and denial of God” and that “we …see the nations fighting and contending with each other more violently than before, they say the messianic age has not yet come.”
 
- In this manner, the Jews refute . . . “the opinion held by . . . the Christians” (The Jewish Philosophers, 178-9).
+ In this manner, the Jews refute …“the opinion held by …the Christians” (The Jewish Philosophers, 178-9).
 
 (2) Second,, seeing Jesus as a deity in equality with God the Father (Jn. 10:30: “I and the Father are one”) is nothing short of blasphemy (Matt. 26:65), since the traditional Jews hold to the singularity of God (Deut. 6:4: “Hear, O Israel: The LORD our God, the LORD is one”).
 
@@ -464,7 +464,7 @@ So, in the early church, one question on many people’s mind was this: How much
 
 a. Thus, influenced heavily by this Greek dualism, the Docetics privileged spirit while completely ignoring the flesh.
 
-b. In so doing, they completely denied that Jesus came in the flesh and held that he was entirely of the spirit; that is, “Christ’s human body was a phantasm, and . . . his sufferings and death were mere appearance” (Bettenson 1967: 35).
+b. In so doing, they completely denied that Jesus came in the flesh and held that he was entirely of the spirit; that is, “Christ’s human body was a phantasm, and …his sufferings and death were mere appearance” (Bettenson 1967: 35).
 
 c. To them, Jesus was 100 percent divine (that is, Spirit) and zero percent human.
 
@@ -626,7 +626,7 @@ b. Second, the words “begetting” and “eternal generation” suggest that J
 
 a. First, Apollinaris conceived of the humanity of Jesus (in fact, all men) as consisting of body, soul, and spirit*.
 
- *Zech. 12:1b: “The LORD . . . formed the spirit of man within him.”
+ *Zech. 12:1b: “The LORD …formed the spirit of man within him.”
 
 b. And then, he “sought the solution of the problem of the two natures in Christ in the theory that the logos [i.e., divinity] took the place of the human pnuema (spirit)” (Berkhof, 1975:102).
 
@@ -653,7 +653,7 @@ b. In the final analysis, Apollinaris “denied the integrity of the complete hu
  at once earthly and heavenly, tangible and intangible, comprehensible and
  incomprehensible; that by one and the same person, perfect man and perfect God . . .”
 
- “If any assert that he was . . . accounted worthy of sonship by adoption [against the Ebionites] . . . If any say that his flesh came down from heaven and is not from hence [against Docetism and Gnosticism], but is above us, not of us . . . (let him be anathema).”
+ “If any assert that he was …accounted worthy of sonship by adoption [against the Ebionites] …If any say that his flesh came down from heaven and is not from hence [against Docetism and Gnosticism], but is above us, not of us …(let him be anathema).”
 
  Discussion4: Why is it important that Jesus was “made like [us] in every way” (Heb 2:17)? Why is that important to us (Heb. 4:15-16)?
 
@@ -712,7 +712,7 @@ It is important to note that the term “hypostatic union” was used to describ
 
 1. What Leo declared:
 
- “Thus there was born true God in the entire and perfect nature of true man, complete in its own properties . . . He assumed the form of a servant without the stain of sin, making the human properties greater, but not detracting from the divine . . .
+ “Thus there was born true God in the entire and perfect nature of true man, complete in its own properties …He assumed the form of a servant without the stain of sin, making the human properties greater, but not detracting from the divine . . .
 
 Accordingly, he who made man, while he remained in the form of God, was himself made man in the form of a servant. Each nature preserves its own characteristics without diminution, so that the form of a servant does not detract from the form of God” (Bettenson, 50).
 
@@ -734,11 +734,11 @@ Discussion6: How does our recognition of Jesus as a fully human and fully divine
 
  Teabing, British royal historian in the novel, says:
 
- “‘Jesus’ establishment as the Son of God was officially proposed and voted on by the Council of Nicaea . . . a relatively close vote at that. By officially endorsing Jesus as the Son of God, Constantine turned Jesus into a deity who existed beyond the scope of the human world, an entity whose power was unchallengeable . . .
+ “‘Jesus’ establishment as the Son of God was officially proposed and voted on by the Council of Nicaea …a relatively close vote at that. By officially endorsing Jesus as the Son of God, Constantine turned Jesus into a deity who existed beyond the scope of the human world, an entity whose power was unchallengeable . . .
 
  It was all about power. Christ the Messiah was critical to the functioning of church and state. Many scholars claim that the early church literally stole Jesus from his original followers, hijacking his human message, shrouding it in an impenetrable cloak of divinity, and using it to expand their own power . . .
 
- Until that moment in history, Jesus was viewed by his followers as a mortal prophet . . . a great and powerful man, but a man nonetheless. A mortal” (233).
+ Until that moment in history, Jesus was viewed by his followers as a mortal prophet …a great and powerful man, but a man nonetheless. A mortal” (233).
 
  “Constantine commissioned and financed a new Bible, which omitted those gospels that spoke of Christ’s human traits and embellished those gospels that made him godlike. The earlier gospels were outlawed, gathered up, and burned” (234).
 
@@ -784,8 +784,8 @@ it goes wild. People chant, ‘Lord! Lord! Lord!’ It quickly becomes clear tha
 
 It should come as no surprise that Miranda was known for leading the life of a high roller and womanizing (among other things). Some people in his congregation actually gave him money so he could gamble.
 
-Pastoral Note: It was so sad seeing so many people desperately clinging on to Miranda as if he were their savior. Miranda, who is now dead, was “a shepherd . . . who [did] not care for
- the lost . . . [ate] the meat of the choice sheep, tearing off their hooves” (Zech. 11:16). We need to be like Jesus “the good shepherd [who] lays down his life for the sheep” (Jn. 10:11).
+Pastoral Note: It was so sad seeing so many people desperately clinging on to Miranda as if he were their savior. Miranda, who is now dead, was “a shepherd …who [did] not care for
+ the lost …[ate] the meat of the choice sheep, tearing off their hooves” (Zech. 11:16). We need to be like Jesus “the good shepherd [who] lays down his life for the sheep” (Jn. 10:11).
 
  Discussion7: The apostle John says, “Beloved, do not believe every spirit, but test the spirits to see whether they are from God, for many false prophets have gone out into the world” (1 Jn. 4:1). So, if you were to have tested the spirit of Miranda, how would you have done it? Have you ever been deceived by false prophets? Why do you think it happened?
 
@@ -817,7 +817,7 @@ a. The Christology of Schweitzer
 
  Schweitzer argued that contrary to how Jesus is portrayed in the Four Gospels, the historical Jesus was not God, and can scarcely be distinguished from the rest of men.
 
- Again, recall what is said in The Da Vinci Code: “Until that moment in history, Jesus was viewed by his followers as a mortal prophet . . . a great and powerful man, but a man nonetheless. A mortal” (233).
+ Again, recall what is said in The Da Vinci Code: “Until that moment in history, Jesus was viewed by his followers as a mortal prophet …a great and powerful man, but a man nonetheless. A mortal” (233).
 
 b. The Christology of Schweitzer according to Scripture
 
@@ -997,7 +997,7 @@ my recompense with me, to repay each one for what he has done. 13 I am the Alpha
 
 a. Long before John came on the scene, the essence of Logos, which Heraclitus, a Greek philosopher from Ephesus, articulated in the sixth century BC, permeated the Hellenist mindset.
 
-(1) Heraclitus, at first, observed what seemed obvious: “the universe, instead of standing still, is in continuous motion . . . Our bodies and minds are changing every moment, and our perceptions and ideas change with them.”
+(1) Heraclitus, at first, observed what seemed obvious: “the universe, instead of standing still, is in continuous motion …Our bodies and minds are changing every moment, and our perceptions and ideas change with them.”
 
 (2) But, he also observed that the world, despite constant flux and changes occurring in it at every turn, was not a complete chaos; therefore, Heraclitus declared that Logos—the word, the reason of God— was the one that controlled it.
 
@@ -1028,7 +1028,7 @@ a. He tells the Philippians that Jesus was in the form of God before becoming a 
 
 (2) And the equality between God the Father and Jesus the Son becomes evident upon examining the Greek phrase ego eimi (“I am”) that Jesus applied to himself when he said to the Jews, “Before Abraham was, I am” (Jn. 8:58).
 
- (a)Recall that God told Moises, living out in the desert, to go to Pharaoh “to bring . . . the Israelites out of Egypt” (Ex. 3:10b).
+ (a)Recall that God told Moises, living out in the desert, to go to Pharaoh “to bring …the Israelites out of Egypt” (Ex. 3:10b).
 
  When Moses asked God what to call him, in anticipation of the Israelites asking him that question, God said, “Say this to the people of Israel:
  ‘I AM has sent me to you’” (Ex. 3:14b).
@@ -1068,7 +1068,7 @@ However, the phrase, “firstborn” seems to suggest that Jesus, as the Jehovah
 
 2. Consequently, the Son was able to do that which the Jews thought only God the Father had the authority to do: to forgive sins.
 
-3. Once, when Jesus “said to the paralytic, ‘Son, your sins are forgiven’ . . . some of the scribes were . . . questioning in their hearts, ‘Why does this man speak like that? He is blaspheming! Who can forgive sins but God alone?’” (Mk. 2:5, 6, 7).
+3. Once, when Jesus “said to the paralytic, ‘Son, your sins are forgiven’ …some of the scribes were …questioning in their hearts, ‘Why does this man speak like that? He is blaspheming! Who can forgive sins but God alone?’” (Mk. 2:5, 6, 7).
 
 Evidently, these Jewish leaders did not realize that Jesus Christ had the same authority as God to forgive sins because:
 
@@ -1159,10 +1159,10 @@ b. Instances of Christ’s appearance as the angel of the Lord in the OT
 
 (1) It was “the angel of the LORD [who] appeared to [Moses] in a flame of fire out of the midst of a bush” (Ex. 3:2).
 
-(2) It was “the angel of God [who] said to [Jacob] in the dream, ‘Jacob,’ . . . lift up your eyes” (Gn. 31:11, 12).
+(2) It was “the angel of God [who] said to [Jacob] in the dream, ‘Jacob,’ …lift up your eyes” (Gn. 31:11, 12).
 
 (3) And according to Judges 2:1-4, it was “the angel of the
- LORD [who] . . . brought [Israel] up from Egypt and brought [her] into the land that [he] swore to give to [her] fathers.”
+ LORD [who] …brought [Israel] up from Egypt and brought [her] into the land that [he] swore to give to [her] fathers.”
 
 c. What emerges from many passages that mention “the angel of the LORD” is the unique, that is, trinitarian, relationship between God and the angel of the LORD.
  Consider Exodus 3:1-4: “And the angel of the LORD appeared to him in a flame of fire out of the midst of a bush. He looked, and behold, the bush was burning, yet it was not consumed. 3 And Moses said, ‘I will turn aside to see this great sight, why
@@ -1208,13 +1208,13 @@ b. Other times when Christ before his incarnation appeared as a man in the OT:
  Evidently, “two of the ‘men’ were angels [Gn. 19:1: “The two angels arrived in Sodom”—cf. Gn. 18:22]. The third was the Lord himself” (NIVSB, 32).
 
 (a) During this visit, the LORD tells Sarah that
- “this time next year . . . [she] will have a son” (Gn. 18:10).
+ “this time next year …[she] will have a son” (Gn. 18:10).
 
 (b) Then, “the LORD said, ‘Shall I hide from Abraham what I am about to do, 18 seeing that Abraham shall surely become a great and mighty nation, and all the nations of the earth shall be blessed in him?’” (Gn. 18:17).
 
 (2) The entity with whom Jacob wrestled is, first, identified as a man, and later, as God.
 
- Gn. 32:24-30: 24 And Jacob was left alone. And a man wrestled with him until the breaking of the day . . . 28 Then he said, “Your name shall no longer be called Jacob, but Israel, for you have striven with God and with men, and have prevailed” . . . 30 So Jacob called the name of the place Peniel, saying, “For I have seen God face to face, and yet my life has been delivered.”
+ Gn. 32:24-30: 24 And Jacob was left alone. And a man wrestled with him until the breaking of the day …28 Then he said, “Your name shall no longer be called Jacob, but Israel, for you have striven with God and with men, and have prevailed” …30 So Jacob called the name of the place Peniel, saying, “For I have seen God face to face, and yet my life has been delivered.”
 
  This is likely the pre-incarnate Christ who graciously allowed Jacob to win the wrestling match to transform Jacob from being a deceiver to one who hungered after God (“I will let you go unless you bless me”—Gn. 32:26b).
 b. Some people believe that Melchizedek, to whom Abraham gave his tithe, is also the pre-incarnate Christ. Gn. 14:18-20: “And Melchizedek king of Salem brought out
@@ -1321,7 +1321,7 @@ I. Definition
 
  Is. 7:14: “Therefore the Lord himself will give you a sign. Behold, the virgin shall conceive and bear a son, and shall call his name Immanuel” (i.e., God is with us).
 
-Discussion1: No one can hardly grow up in the West without ever hearing the name Jesus; some even use it as a cuss word. But the moment Christ becomes real in our lives, that is, when “we have heard [and] seen with our eyes and touched . . . with our hands” the word of life, we experience profound changes. Have you ever encountered such a moment in your life? How did it change you?
+Discussion1: No one can hardly grow up in the West without ever hearing the name Jesus; some even use it as a cuss word. But the moment Christ becomes real in our lives, that is, when “we have heard [and] seen with our eyes and touched …with our hands” the word of life, we experience profound changes. Have you ever encountered such a moment in your life? How did it change you?
 
 II. Various Aspects to the Incarnation Involving the Trinity
 
@@ -1363,7 +1363,7 @@ a. It was said earlier that Melchizedek, to whom Abraham gave a tithe (Gn. 14:20
  “[Melchizedek] is without father or mother or genealogy, having neither beginning of days nor end of life, but resembling the Son of God he continues a priest forever” (Heb. 7:3).
 
  This can be rewritten as: “[Jesus] is without [human] father or
- [human] mother or [human] genealogy, having neither beginning of days nor end of life . . . the Son of God . . . continues a priest forever.”
+ [human] mother or [human] genealogy, having neither beginning of days nor end of life …the Son of God …continues a priest forever.”
 
  This is to say, with respect to Jesus’ divine genealogy, he has no beginning and will have no end.
 
@@ -1410,13 +1410,13 @@ a. Joseph’s line
  Matthew 1:1-17 is the genealogical line of Jesus through Joseph who is a royal descendant of King David.
 
 (1) Evidently, the genealogy of Matthew—who wrote his Gospel to convince the Jews that Jesus is the long-awaited Messiah prophesized in the OT—seeks to prove that Jesus is the promised king of Israel, a royal heir to King David.
-Matt. 1:6: “. . . and Jesse the father of David the king.
+Matt. 1:6: “…and Jesse the father of David the king.
 And David was the father of Solomon by the wife of Uriah.
-Matt. 1:16: “. . . and Jacob the father of Joseph the husband of Mary,
+Matt. 1:16: “…and Jacob the father of Joseph the husband of Mary,
 of whom Jesus was born, who is called Christ.”
  2 Samuel 7:12-13, 16 records what was promised to King David:
  “When your [David’s] days are fulfilled and you lie down with your fathers,
- I will raise up your offspring after you, who shall come from your body, and I will establish his kingdom. 13 He shall build a house for my name, and I will establish the throne of his kingdom forever . . . And your house and your kingdom shall be made sure forever before me. Your throne shall be established forever.’”
+ I will raise up your offspring after you, who shall come from your body, and I will establish his kingdom. 13 He shall build a house for my name, and I will establish the throne of his kingdom forever …And your house and your kingdom shall be made sure forever before me. Your throne shall be established forever.’”
 
  Evidently, two things were promised to King David:
 (a) An eternal kingdom
@@ -1491,14 +1491,14 @@ b. A question that needs to be raised here is this:
 
 (1) As for a well-developed and safe road system that connects the cities, we need to know why this is important.
 
- According to historian Kenneth Latourette, “at the outset, Christianity was predominantly urban. It moved along the trade route from city to city. By the second decade of its second century . . . its strength was in the cities which were so prominent a feature of the Roman Empire.”
+ According to historian Kenneth Latourette, “at the outset, Christianity was predominantly urban. It moved along the trade route from city to city. By the second decade of its second century …its strength was in the cities which were so prominent a feature of the Roman Empire.”
 
  This is to say, the Christian movement, at the outset, was an urban movement, and the most influential factor that guided its spread was the Roman road, which is equivalent to modern-day highways.
 
  It is estimated that the Roman road consisted of 248,601 miles
  of road, of which 5,000+ miles were stone-paved
 
-(a) Spreading out from the capital, “these highways connected cities, major towns and military bases. They provided efficient means for the overland movement of . . . trade goods.”
+(a) Spreading out from the capital, “these highways connected cities, major towns and military bases. They provided efficient means for the overland movement of …trade goods.”
 
 (b) These roads were also safe due to the ubiquitous presence of Roman soldiers who used these highways to travel and transport things.
 
@@ -1523,7 +1523,7 @@ The arrival of the fullness of time (which would trigger the sending of Christ i
  It certainly would have hampered the communication of the gospel and the spread of the gospel itself.
 
 (b) But, by the time Jesus comes to earth (that, is “when the time had fully come”), the universal language is koine (that is, common) Greek.
- A scholar writes: “The Greek of the N. T. is the language which was commonly used in the Greek-speaking world from the time of Alexander the Great to about 500 AD . . . God’s written revelation of his Son was given in the language of the people.” (Essentials of the N. T. Greek)
+ A scholar writes: “The Greek of the N. T. is the language which was commonly used in the Greek-speaking world from the time of Alexander the Great to about 500 AD …God’s written revelation of his Son was given in the language of the people.” (Essentials of the N. T. Greek)
 
 (c) And the Jews did not begin to learn the Greek language until the rise of Alexander the Great whose great empire (332 BC) also annexed Israel.
 
@@ -1544,11 +1544,11 @@ Proverbs 19:21 says, “Many are the plans in the mind of a man, but it is the p
 (a) Consider where Paul first went in new locations during his first (AD 46-48) and second (AD 49-52) missionary trips:
 
 • “At Salamis, they [Paul and Barnabas] proclaimed the word of God in the Jewish synagogues” (Acts 13:5).
-• [At] “Pisidian Antioch . . . they entered the synagogues” (Acts 13:14).
-• “At Iconium Paul . . . went . . . into the Jewish synagogue . . . a number of Jews and Gentiles believed” (Acts 14:1).
+• [At] “Pisidian Antioch …they entered the synagogues” (Acts 13:14).
+• “At Iconium Paul …went …into the Jewish synagogue …a number of Jews and Gentiles believed” (Acts 14:1).
 • “They came to Thessalonica, where there was Jewish synagogue” (Acts 17:1).
-• “On arriving [at Berea], they went to the . . . synagogue. Many of the Jews believed, as did also a number of . . . Greek women and many Greek men” (Acts 17:10, 12).
-• “In Athens . . . he reasoned in the synagogue” (Acts 17:17).
+• “On arriving [at Berea], they went to the …synagogue. Many of the Jews believed, as did also a number of …Greek women and many Greek men” (Acts 17:10, 12).
+• “In Athens …he reasoned in the synagogue” (Acts 17:17).
 • [In Corinth] “every Sabbath he reasoned in the synagogue” (Acts 18:4).
 (b) The oldest synagogue fragments date from the third century BC.
 (c) So, why was there a need to build synagogues in Asia Minor and Greece in the first place?
@@ -1602,7 +1602,7 @@ How so? Why is it so important? Allow me to explain it step-by-step.
 
  “51He has shown strength with his arm; he has scattered the proud in the thoughts of their hearts; 52 he has brought down the mighty from their thrones and exalted those of humble estate; 53 he has filled the hungry with good things, and the rich he has sent away empty. 54 He has helped his servant Israel, in remembrance of his mercy, 55 as he spoke to our fathers, to Abraham and to his offspring forever.’”
 
- Note that the phrase, “He . . . has done great things for me”, refers not only to being chosen as God’s vessel but also to the virgin birth.
+ Note that the phrase, “He …has done great things for me”, refers not only to being chosen as God’s vessel but also to the virgin birth.
 
 b. The preparation for the virgin birth is followed by the exclamation of Elizabeth (Lk. 1:39-45), who is Mary’s cousin as well as the mother of John the Baptist.
  (1) Notice that the great miracle of virgin birth is preceded by a smaller miracle of a barren woman giving birth in her old age (much like Sarah—Gn. 18:10-15). (a) Observe the similarity between these two barren women:
@@ -1667,7 +1667,7 @@ b. Second, “it gives the only reasonable explanation of the incarnation of God
 
  Evidently, the following passages clearly point to it.
 
- a. Matthew writes: “And Jacob the father of Joseph the husband of Mary, of whom [hes] Jesus was born, who is called Christ . . . 18Now the birth of Jesus Christ took place in this way. When his mother Mary had been betrothed to Joseph, before they came together she was found to be with child from the Holy Spirit” (Matt. 1:16, 18).
+ a. Matthew writes: “And Jacob the father of Joseph the husband of Mary, of whom [hes] Jesus was born, who is called Christ …18Now the birth of Jesus Christ took place in this way. When his mother Mary had been betrothed to Joseph, before they came together she was found to be with child from the Holy Spirit” (Matt. 1:16, 18).
 
 (1) Note that the relative pronoun “whom” derives from the Greek word hes, which is the genitive singular feminine relative pronoun, and not hou which is the genitive singular masculine.
 
@@ -1700,7 +1700,7 @@ c. Before Matthew and Luke wrote about the virgin birth of Christ, the prophet I
 
  2 Cor. 5:21a: “God made him who had no sin to be sin for us . . .”
 
- Heb. 7:26b: “. . . one who is holy, blameless, pure, set apart from sinners, exalted above the heavens.”
+ Heb. 7:26b: “…one who is holy, blameless, pure, set apart from sinners, exalted above the heavens.”
 
  b. As for the second reason, recall that the virgin birth fulfills the prophecy regarding the Jechoniah’s curse.
 
@@ -1770,11 +1770,11 @@ C. Related to the change in residence and going from rich to poor is the change 
 
  The key passage that amply deals with this matter is Philippians 2:5-8:
 
- “5. . . Christ Jesus, 6 who, though he was in the form of God, did not count equality with God a thing to be grasped, 7 but emptied [kenosis], himself, by taking the form of a servant, being born in the likeness of men. 8 And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross.”
+ “5…Christ Jesus, 6 who, though he was in the form of God, did not count equality with God a thing to be grasped, 7 but emptied [kenosis], himself, by taking the form of a servant, being born in the likeness of men. 8 And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross.”
 
 1. Christ’s emptying of himself—kenosis in Greek—at his incarnation involves two things.
 
-a. First, it involves “condescension seen in his . . . leaving heaven’s glory to take a human nature” (Wilkins, 51).
+a. First, it involves “condescension seen in his …leaving heaven’s glory to take a human nature” (Wilkins, 51).
 
 b. Second, it also involves “humiliation seen in his life of suffering leading to and including the cross” (ibid.)
 
@@ -1796,7 +1796,7 @@ I will refer to this as “the taking on of human limitations”.
 
 a. Notice that based on the following passages, it appears that nothing really changed after Jesus incarnated on earth.
 
-(1) The reason “the Jews were seeking all the more to kill [Jesus was] . . . because . . . he was even calling God his own Father, making himself equal with God” (Jn. 5:18).
+(1) The reason “the Jews were seeking all the more to kill [Jesus was] …because …he was even calling God his own Father, making himself equal with God” (Jn. 5:18).
 
 (2) Jesus himself says, “I and the Father are one” (Jn. 10:30).
 (3) The apostle Paul agrees, saying, “For in [Jesus] the whole fullness of deity dwells bodily . . .” (Col. 2:9).
@@ -1811,7 +1811,7 @@ b. But, if nothing changed after the incarnation, then how are
 2. What this verse means and does not mean
 
 a. First, “the Father is greater than I” does not mean
- “the creaturely subordination of the Son to the Father . . . [who] was greater in power or in divinity” (Tasker, 1960:173).
+ “the creaturely subordination of the Son to the Father …[who] was greater in power or in divinity” (Tasker, 1960:173).
 
 b. But, according to Hard Sayings of the Bible (Bruce et al.),
  “the Father is greater than I” could mean two things.
@@ -1829,8 +1829,8 @@ b. But, according to Hard Sayings of the Bible (Bruce et al.),
 
 (c) But, the renouncement of glory and the suspension of attributes were temporary, as evidenced in the above prayer in which Jesus fully expected the Father to restore his glory.
 (2) Second, it could also mean that in Godhead, the one “designated
- ‘father’ has greater authority . . . over the one designated ‘son’” but only in functional and administrative sense.
- Hebrews 5:5, 8 shows this clearly: “Christ did not exalt himself to be made a high priest, but was appointed by [God the Father] . . . Although he was a son, he learned obedience through what he suffered.”
+ ‘father’ has greater authority …over the one designated ‘son’” but only in functional and administrative sense.
+ Hebrews 5:5, 8 shows this clearly: “Christ did not exalt himself to be made a high priest, but was appointed by [God the Father] …Although he was a son, he learned obedience through what he suffered.”
 
  This refers to the Son accepting the will of the Father—the appointment to the high priesthood in which Christ himself would become the propitiation for our sins— amid his desire for this the cup of suffering to pass from him (Matt. 26:39).
 
@@ -1871,7 +1871,7 @@ form of God, did not count equality with God a thing to be grasped” (Phil. 2:6
 
 (2) That the divine nature of Jesus remained the same as that of the Father even after the incarnation is very clear when comparing “the Father is greater than I” (Jn. 14:28b) with Jesus is “made so much better [kreittōn] than the angels” of Hebrews 1:4b (KJV).
 
- “In the first chapter of Hebrews . . . the comparison made there between the Lord Jesus Christ and angels is clearly one of nature. The Greek kreittōn being a term descriptive of quality; Christ [like God the Father] was qualitatively better than the angels because he was their Creator (Col 1:16–17), and as such, he existed before all things . . .” (Martin and Klann 1981:163).
+ “In the first chapter of Hebrews …the comparison made there between the Lord Jesus Christ and angels is clearly one of nature. The Greek kreittōn being a term descriptive of quality; Christ [like God the Father] was qualitatively better than the angels because he was their Creator (Col 1:16–17), and as such, he existed before all things . . .” (Martin and Klann 1981:163).
 
 (a) But kreittōn is not used when saying “the Father is greater than the Son, as if the Father is qualitatively better and essentially superior than the Son.
 
@@ -2091,7 +2091,7 @@ c. Here, “spirit” is in small caps, referring to the spirit of man in Jesus.
 It was said earlier that since Jesus is omniscient (“for he knew all men”—Jn. 2:24b), he does not have to become a human in order to know what it is to be a human.
 
 (By the way, the main reason Christ became a human was so that he can
-“[bear] our sins in his body . . . so that we might die to sins”—1 Pet. 2:24).
+“[bear] our sins in his body …so that we might die to sins”—1 Pet. 2:24).
 
  Now, it is great to have eternal life in Christ once we die; but in the meantime, the life on earth can still be difficult and dangerous.
 
@@ -2117,7 +2117,7 @@ b. He experienced thirst like a normal person.
 c. He experienced fatigue and tiredness.
  Once, Jesus was so tired that he didn’t wake up from what probably was a deep sleep when a great storm was about to capsize the boat he was in.
 Matthew writes, “And behold, there arose a great storm on the sea, so that the boat was being swamped by the waves; but he was asleep” (Matt. 8:24).
- After a long walk from “the Judean countryside” (Jn. 3:22) to Samaria, “Jesus . . . [became] wearied . . . from his journey (Jn. 4:6).
+ After a long walk from “the Judean countryside” (Jn. 3:22) to Samaria, “Jesus …[became] wearied …from his journey (Jn. 4:6).
 
 d. And, of course, he felt the pain from every blow to his body and piercing of his hands and legs.
 
@@ -2129,7 +2129,7 @@ a. Like every human being who ever lived, Jesus felt sad over a number of things
 
 (1) He wept over the unrepentant Israelites, symbolized by Jerusalem, and the impending judgment against them.
 
- Luke notes that “as [Jesus] approached Jerusalem and saw the city, he wept over it and said . . . ‘[t]he days will come upon you when your enemies will build an embankment against you and encircle you and hem you in on every side’” (Lk. 19:41, 43 NIV).
+ Luke notes that “as [Jesus] approached Jerusalem and saw the city, he wept over it and said …‘[t]he days will come upon you when your enemies will build an embankment against you and encircle you and hem you in on every side’” (Lk. 19:41, 43 NIV).
 
 (2) He wept over the death of his friend Lazarus and people’s persistent unbelief. The shortest verse in the Bible says, “Jesus wept” (Jn. 11:35).
 
@@ -2216,7 +2216,7 @@ b. The most significant temptations Jesus faced were the three that he countered
 (c) This is to say, while turning stones to become bread (however illegitimately) appeals to a hungry person (whether physical, financial or relational), the way to overcome that is to find satisfaction in God’s word so that that person can complete the work of God assigned to him.
 
 (2) The second temptation is the temptation of
- “boasting . . . what he has and does” (1 Jn. 2:16b NIV).
+ “boasting …what he has and does” (1 Jn. 2:16b NIV).
 
  Matt. 4:5-6: “Then the devil took him to the holy city and set him on the pinnacle of the temple 6 and said to him, “If you are the Son of God, throw yourself down, for it is written, “‘He will command his angels concerning you,’ and “‘On their hands they will bear you up, lest you strike your foot against a stone.’”
 
@@ -2251,7 +2251,7 @@ c. Besides these three major temptations, Jesus faced other temptations with whi
 
  Pastoral Note: Has this ever happened to you? Your family thinks that you are a basket case. But, when push comes to shove, we must ultimately choose God’s will over ours, or that of our parents. You really need to lean hard on Jesus who certainly knows what this is all about.
 
-(2) Questioning the motive of Jesus, “his brothers said to him, ‘Leave here and go to Judea . . . for no one works in secret if he seeks to be known openly. If you do these things, show yourself to the world.’ For not even his brothers believed in him” (Jn. 7:4-5).
+(2) Questioning the motive of Jesus, “his brothers said to him, ‘Leave here and go to Judea …for no one works in secret if he seeks to be known openly. If you do these things, show yourself to the world.’ For not even his brothers believed in him” (Jn. 7:4-5).
  This is to say, Jesus’ half-brothers thought that Jesus was into self-seeking.
 
 d. Jesus was doubted by his closest ally, but he kept himself from being discouraged while maintaining his support of the friend.
@@ -2261,13 +2261,13 @@ d. Jesus was doubted by his closest ally, but he kept himself from being discour
  The men sent by John asked Jesus, “John the Baptist has sent us to you, saying,
  ‘Are you the one who is to come, or shall we look for another?’” (Lk. 7:20).
 
-(1) In response, Jesus “answered them, ‘Go and tell John . . . the blind receive their sight, the lame walk, lepers are cleansed, and the deaf hear, the dead are raised up, the poor have good news preached to them. 23 And blessed is the one who is not offended by me’” (Lk. 7:22-23).
+(1) In response, Jesus “answered them, ‘Go and tell John …the blind receive their sight, the lame walk, lepers are cleansed, and the deaf hear, the dead are raised up, the poor have good news preached to them. 23 And blessed is the one who is not offended by me’” (Lk. 7:22-23).
 
 (2) But despite John’s doubt about Jesus, his support of John never wavered, for Jesus immediately said, “I tell you, among those born of women none is greater than John” (Lk. 7:28a).
 
 e. Even worse than doubted by an allay, Jesus was betrayed by a friend. But, instead of giving into the temptation of bitterness and victim mentality, Jesus continued to love his friend-turned-traitor.
 
- When Judas “came up to Jesus at once and said, “Greetings, Rabbi!” . . . and kissed him[,] Jesus said to him, “Friend, do what you came to do” (Matt. 26:49-50).
+ When Judas “came up to Jesus at once and said, “Greetings, Rabbi!” …and kissed him[,] Jesus said to him, “Friend, do what you came to do” (Matt. 26:49-50).
 
 f. Jesus was also rejected and abandoned by the very disciples whom he had invested himself for 3½ years.
 
@@ -2281,7 +2281,7 @@ g. Jesus was unfairly discredited by the leaders of society (his peers, if you w
 Once, “when the Pharisees heard [about Jesus healing a demonized person], they said, ‘It is only by Beelzebul, the prince of demons, that this man casts out demons’” (Matt. 12:24),
  Jesus, instead of hiding from or arguing with them, firmly responded, saying:
 
- “. . . if Satan casts out Satan, he is divided against himself. How then will his kingdom stand? 27 And if I cast out demons by Beelzebul, by whom do your sons cast them out? Therefore they will be your judges.
+ “…if Satan casts out Satan, he is divided against himself. How then will his kingdom stand? 27 And if I cast out demons by Beelzebul, by whom do your sons cast them out? Therefore they will be your judges.
  28 But if it is by the Spirit of God that I cast out demons, then the kingdom of God has come upon you” (Matt. 12:26-28).
 
  In short, the Lord stood his ground, fighting deception with truth and logic.
@@ -2370,7 +2370,7 @@ Before proceeding, note that Christ comes to earth in the capacity of prophet, p
 
 • But, because Christ is to be the ultimate prophet, priest and king—meaning, no one will succeed him—this raises the bar of the requirement for these three offices.
 
- One simple requirement is this: Inasmuch as acceptable sacrifices in the OT had to be “animals . . . without defect” (Ex. 12:5b), the ultimate prophet, priest and king had to be “without sin” (Heb. 4:15b).
+ One simple requirement is this: Inasmuch as acceptable sacrifices in the OT had to be “animals …without defect” (Ex. 12:5b), the ultimate prophet, priest and king had to be “without sin” (Heb. 4:15b).
 
 • The question, then, is, “Is there anyone among humans who is without sin? If not, then, where can such individual be found on this side of heaven?
 
@@ -2422,11 +2422,11 @@ C. What then is the requirement for the ultimate prophet who perfectly embodies,
  —until we are in heaven where “nothing impure will ever enter it” (Rev. 21:27) and since no human is sinless and holy on this side of heaven—
  the only one who can perfectly reveal God Himself to the world is
  “one who is holy, blameless, pure, set apart from sinners” (Heb. 7:26b).
-2. “Jesus Christ, . . . God the One and Only” (Jn. 1:17b, 18a), in whom no sin is found, is the only one who qualifies.
+2. “Jesus Christ, …God the One and Only” (Jn. 1:17b, 18a), in whom no sin is found, is the only one who qualifies.
  But, as long as he stays “at the Father’s side” (Jn. 1:18b), thereby not be in the world, he cannot assume the role of the ultimate prophet, priest and king here on earth.
 3. But, because Jesus is incarnated, becoming a sinless God-Man through the virgin birth, he is able and has become the ultimate prophet, priest and king on earth.
 
- Discussion1: The apostle Paul says that the believers are “a letter from Christ . . ., written not with ink but with Spirit of the living God . . . read by everybody” (2 Cor. 3:3a, 2b). In view of that, what similarity exists between how Jesus revealed the Father to the world and how we ought to do it? When the world reads you, what message is being imparted to them?
+ Discussion1: The apostle Paul says that the believers are “a letter from Christ . . ., written not with ink but with Spirit of the living God …read by everybody” (2 Cor. 3:3a, 2b). In view of that, what similarity exists between how Jesus revealed the Father to the world and how we ought to do it? When the world reads you, what message is being imparted to them?
 
 
  II. Only a God-Man Can Do What Jesus Set out to Accomplish as the Ultimate High Priest
@@ -2487,7 +2487,7 @@ c. The Scripture declares that Jesus the God-Man meets all three criteria.
 (1) First, “[Jesus the God-Man] holds his priesthood permanently, because he continues forever” (Heb. 7:24).
 (2) “[Jesus the God-Man] has no need, like those high priests, to offer sacrifices daily, first for his own sins and then for those of the people, since he did this once for all when he offered up himself” (Heb. 7:27).
 
-(3) “When Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God . . . 14 For by a single offering he has perfected for all time those who are being sanctified” (Heb. 10:12, 14).
+(3) “When Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God …14 For by a single offering he has perfected for all time those who are being sanctified” (Heb. 10:12, 14).
 
  This is to say, Jesus is not like Aaronic priests who mediated a temporary peace settlement between a holy God and unholy sinners with the blood of someone else;
 
@@ -2509,7 +2509,7 @@ b. Prior to the second coming of Christ that will usher in the eternal state (Ma
  Jesus says, “The kingdom of God is not coming in ways that can be observed, 21 nor will they say, ‘Look, here it is!’ or ‘There!’ for behold, the kingdom of God is in the midst of you” (Lk. 17:20b-21).
 c. So, what is the objective of Jesus who comes into the world to reign in the spiritual Kingdom of God?
 a. As a matter of speaking, a king is really no king unless he has subjects in his kingdom who are ruled by the king.
-b. So, Jesus comes into the world to “rescue [those who . . . were held in slavery— (Heb. 2:15)] “from the dominion of darkness and [bring them] into the kingdom of the Son . . . in whom we have redemption, the forgiveness of sins” (Col. 1:14).
+b. So, Jesus comes into the world to “rescue [those who …were held in slavery— (Heb. 2:15)] “from the dominion of darkness and [bring them] into the kingdom of the Son …in whom we have redemption, the forgiveness of sins” (Col. 1:14).
 
  Those who are recused from the dominion of darkness become the subjects of Christ’s (spiritual) kingdom who are then ruled by King Jesus.
 
@@ -2530,10 +2530,10 @@ b. Based on these two words, it can be said that random refers to an apt payment
 
 (1) Primarily, the random refers to “the righteous requirements of the law” (Rom. 8:4), exacted by God who, as “a righteous judge” (Ps. 7:11), requires that the penalty of sin is paid for by death, “for the wages of sin is death” (Rom. 6:23).
 
-(2) Secondarily, it also refers to “the written code [law]. . . that was against us and that stood opposed to us” (Col. 2:14) through which the devil “accuses
+(2) Secondarily, it also refers to “the written code [law]…that was against us and that stood opposed to us” (Col. 2:14) through which the devil “accuses
  [the believers] before our God day and night” (Rev. 12:10b).
 
-c. For this transition to take place (“being rescued from the dominion of darkness and [be] brought . . . into the kingdom of the Son”—Col. 1:13), Jesus, as the king, must pay the ransom to redeem those who are held in slavery by the enemy (Heb. 2:14).
+c. For this transition to take place (“being rescued from the dominion of darkness and [be] brought …into the kingdom of the Son”—Col. 1:13), Jesus, as the king, must pay the ransom to redeem those who are held in slavery by the enemy (Heb. 2:14).
 
  As Colossians 1:14 notes, only those who are redeemed—thereby, whose sins are forgiven—can be brought into the kingdom of the Son; but without satisfying the righteous requirement of the law and the ransom demand nothing changes.
 3. Henceforth, Jesus the king offers himself as the once-and-for-all redemptive sacrifice to bear the wrath of God and as the right “ransom for all men”
@@ -2547,7 +2547,7 @@ a. A sinner can redeem himself by paying for the penalty of his sin with his own
  As mentioned earlier, this eliminates all humanity since all have sinned.
 
 b. But, only a God-Man can be the perfect redemptive sacrifice to forgive our sins
- because only he is sinless, and his incarnation enables him to “[bear] our sins in his body . . . so that we might die to sins and live for righteousness” (1 Pet. 2:24a).
+ because only he is sinless, and his incarnation enables him to “[bear] our sins in his body …so that we might die to sins and live for righteousness” (1 Pet. 2:24a).
 
  Jesus Christ is that God-Man who is uniquely qualified to liberate sinners.
 
@@ -2572,7 +2572,7 @@ prison,” it is believed that Jesus went to Sheol to declare his victory over s
 
  5. So, when the right ransom is paid, and the redemptive sacrifice is offered by the sinless God-Man,
 
- only then we are “brought from death to life” (Rom. 6:13b); only then we are “rescued . . . from the dominion of darkness and brought . . . into the kingdom of the Son . . . in whom we have redemption, the forgiveness of sin” (Col. 1:13a-14).
+ only then we are “brought from death to life” (Rom. 6:13b); only then we are “rescued …from the dominion of darkness and brought …into the kingdom of the Son …in whom we have redemption, the forgiveness of sin” (Col. 1:13a-14).
 
  Discussion2: We often say that while religion is man’s attempt to reach God, the Christian faith is God’s attempt to reach men. What is the key difference? Why is man’s attempt futile and God’s attempt effective? How have you found this to be true in your own life?
 
@@ -2597,7 +2597,7 @@ c. He existed before Abraham (Jn. 8:58) even though he came to earth 2,000 years
 
 3. Third, Jesus is omnipresent.
 
- After God the Father “raised [Christ] from the dead and seated him at his right hand in the heavenly places . . . 22 he put all things under [Christ’s] feet and gave him as head over all things to the church, 23 which is his body, the fullness of him who fills all in all” (Eph. 1:20, 22-23).
+ After God the Father “raised [Christ] from the dead and seated him at his right hand in the heavenly places …22 he put all things under [Christ’s] feet and gave him as head over all things to the church, 23 which is his body, the fullness of him who fills all in all” (Eph. 1:20, 22-23).
 Underscore the last part of verse 23: Jesus “fills all in all.”
  The NIV says, “Fills everything in every way”—that speaks of Christ’s omnipresence.
 
@@ -2722,7 +2722,7 @@ a. For instance, we all know that Peter denied knowing Jesus three times on the 
 
 b. But, no more than two months after denying Jesus, Peter boldly testifies of Christ before his detractors.
 
- Upon being “commanded . . . not to speak or teach at all in the name of Jesus” (Acts 4:18 NIV), Peter says:
+ Upon being “commanded …not to speak or teach at all in the name of Jesus” (Acts 4:18 NIV), Peter says:
 
  “Whether it is right in the sight of God to listen to you rather than to God, you must judge, 20 for we cannot but speak of what we have seen and heard” (Acts 4:19-20).
 c. So, what happened to Peter and other disciples?
@@ -2763,7 +2763,7 @@ Mk. 2:5-7: “And when Jesus saw their faith, he said to the paralytic,
 
 2. Jesus has the power and authority to heal and cast out demons, even on the sabbath.
 
- “Now it was a Sabbath day when Jesus made the mud and opened his eyes. 15 So . . . 16 some of the Pharisees said, “This man is not from God, for he does not keep the Sabbath” (Jn. 9:14-16a).
+ “Now it was a Sabbath day when Jesus made the mud and opened his eyes. 15 So …16 some of the Pharisees said, “This man is not from God, for he does not keep the Sabbath” (Jn. 9:14-16a).
 
  To that Jesus said, “The Sabbath was made for man, not man for the Sabbath. 28 So the Son of Man is lord even of the Sabbath” (Mk. 2:27-28).
 
@@ -2790,7 +2790,7 @@ b. But when Jesus cast out demons by his own authority, the demons obey him.
 
  Jesus can impart “the free gift of God [which] is eternal life in Christ Jesus” (Rom. 6:23a) because:
 
-• “By his death he . . . destroy[ed] him who holds the power of death—that is, the devil” (Heb. 2:14);
+• “By his death he …destroy[ed] him who holds the power of death—that is, the devil” (Heb. 2:14);
 
 • “By the grace of God he [has] taste[d] death for everyone” (Heb. 2:9b).
 

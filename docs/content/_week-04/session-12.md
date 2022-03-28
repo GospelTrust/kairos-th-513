@@ -81,7 +81,7 @@ a. This is what the Pharisees tried to do against Christ, over healing people on
 
  Matt. 12:9: “Going on from that place, he went into their synagogue, 10 and a man with a shriveled hand was there. Looking for a reason to bring charges against Jesus, they asked him, ‘Is it lawful to heal on the Sabbath?’”
 
-b. In response, Jesus says to them, “You have let go of the commands of God and are holding on to human traditions. . . . You have a fine way of setting aside the commands of God in order to observe your own traditions!” (Mk. 7:8-9 NIV).
+b. In response, Jesus says to them, “You have let go of the commands of God and are holding on to human traditions…. You have a fine way of setting aside the commands of God in order to observe your own traditions!” (Mk. 7:8-9 NIV).
 
 c. In legalism, “judging by mere appearances” (Jn. 7:24a) replaces grace and mercy.
 

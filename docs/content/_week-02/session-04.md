@@ -53,7 +53,7 @@ A good question to begin this study is, “Justified from what?” To address th
 
    - a. No matter how diligently he fasted, prayed, and punished himself, his sense of unworthiness persisted ; his sense of sinfulness overwhelmed him.
 
-   - b. To a friend he lamented, “Oh, my sin! my sins! my sins! . . . How could, I ever achieve the kind of holiness that would turn away the anger of God against me?”
+   - b. To a friend he lamented, “Oh, my sin! my sins! my sins! …How could, I ever achieve the kind of holiness that would turn away the anger of God against me?”
 
 3. Thus, it led Luther to write, “‘The justice of God’ had filled me with hate.”
 
@@ -78,7 +78,7 @@ In 1514, Luther finally “discovered” the true meaning of Romans 1:17.
    Struggle | Scripture
    --- | ---
    Tried to gain righteousness by keeping all the laws; felt that he was doing very well. | “As for righteousness based on the law, faultless” (Phil. 3:6).
-   After the conversion, agonized over “hav[ing] the desire to do what is good but . . . cannot carry it out” (Rom. 7:18). | “What a wretched man I am! Who will rescue me from this body of death?” (Rom. 7:24).
+   After the conversion, agonized over “hav[ing] the desire to do what is good but …cannot carry it out” (Rom. 7:18). | “What a wretched man I am! Who will rescue me from this body of death?” (Rom. 7:24).
    Finally liberated upon firmly placing faith and trust in Christ (“Thanks be to God — through Jesus Christ.”) | “No one is justified be-fore God by the Law, because ‘The righteous will live by faith’” (Gal. 3:11).
 
 2. Paul’s famous Galatians 2:20: I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.
@@ -106,7 +106,7 @@ Have you ever tried to justify yourself before God? How did you do it? How did i
    - b. This was played out countless times during the OT era when the sins of the people were transferred to innocent animals that were, then, sacrificed to atone for the sins of the guilty person.
 
      `Lev. 4:27-29, 31b`:
-     > If any member of the community sins unintentionally and does what is forbidden in any of the LORD’s commands, when they realize their guilt 28 and the sin they have committed becomes known, they must bring as their offering for the sin they committed a female goat without defect. 29 They are to lay their hand on the head of the sin offering and slaughter it at the place of the burnt offering. . . . 0 In this way the priest will make atonement for them, and they will be forgiven.
+     > If any member of the community sins unintentionally and does what is forbidden in any of the LORD’s commands, when they realize their guilt 28 and the sin they have committed becomes known, they must bring as their offering for the sin they committed a female goat without defect. 29 They are to lay their hand on the head of the sin offering and slaughter it at the place of the burnt offering…. 0 In this way the priest will make atonement for them, and they will be forgiven.
 
 2. In light of this, justification is the culmination of God’s activity on behalf of guilty sinners whereby He goes forth in power to forgive and deliver them in the present time from judgment by His grace.3
 

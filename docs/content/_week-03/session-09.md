@@ -159,9 +159,9 @@ c. Of course, the Spirit of God is holy.
 
 B. Second reason for separation: without it the world won’t be convinced.
 
-1. Paul states that the believers are like “a letter from Christ . . . written not with ink but with the Spirit of the living God . . . known and read by everybody” (2 Cor. 3:3, 2).
+1. Paul states that the believers are like “a letter from Christ …written not with ink but with the Spirit of the living God …known and read by everybody” (2 Cor. 3:3, 2).
 
-a. However, unless the believer displays a distinctive lifestyle befitting Christ, the world will not be impressed with his message. Thus, the Hebrews writer says, “Make every effort . . . to be holy; without holiness no one will see the Lord” (Heb. 12:14b).
+a. However, unless the believer displays a distinctive lifestyle befitting Christ, the world will not be impressed with his message. Thus, the Hebrews writer says, “Make every effort …to be holy; without holiness no one will see the Lord” (Heb. 12:14b).
 
 b. And without holiness (e.g., having the right heart, avoid sinning, doing good deeds, etc.), the believers are unable to “shine before men” (Matt. 5:16a) as the salt and light of the world (5:13-14).
 
@@ -207,7 +207,7 @@ a. First, the thought flow of Romans is quite linear:
 
 (1) No, it is more likely that in Chapters 7 and 8, Paul delves into the struggles involved in the Christian life.
 (2) Whoever denies that true believers can struggle with sins is, in effect, countering what apostle John said in 1 John 1:8, 10 (ESV):
- “If we say we have no sin, we deceive ourselves, and the truth is not in us. . . . 10 If we say we have not sinned, we make him a liar, and his word is not in us.”
+ “If we say we have no sin, we deceive ourselves, and the truth is not in us…. 10 If we say we have not sinned, we make him a liar, and his word is not in us.”
 b. Second, Paul uses present tense throughout Romans 7.
 
 c. Third, Paul’s description of his legalistic righteousness as being “faultless” (Phil. 3:6) during his pre-conversion days does not correspond to his intense inner turmoil described in Romans 7.

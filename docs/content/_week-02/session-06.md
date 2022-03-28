@@ -102,7 +102,7 @@ It is only when the OT covenants are examined through the reality of the New Cov
 
    - b. It foreshadowed yet another key qualification of the one whose shed blood will redeem the lost: he must be sinless.
 
-     > We have [a high priest] who has been tempted in every way. . . —yet was without sin (Heb. 4:15)
+     > We have [a high priest] who has been tempted in every way…—yet was without sin (Heb. 4:15)
 
 ## B. The result of the OT shadows (i.e., sacrifices) in the Old Testament
 
@@ -218,7 +218,7 @@ It is often said that Jesus came to die on the cross because of his love for the
 
    - a. For instance, apostle John says, “The reason the Son of God appeared was to destroy the devil's work” (1 Jn. 3:8b).
 
-   - b. The Hebrews writer states, Jesus “shared in their humanity so that by his death he might destroy him who holds the power of death--that is, the devil . . . (Heb. 2:14).
+   - b. The Hebrews writer states, Jesus “shared in their humanity so that by his death he might destroy him who holds the power of death--that is, the devil …(Heb. 2:14).
 
 2. What entail the devil’s work and his power?
 
@@ -261,7 +261,7 @@ How was Christ’s death and resurrection able to release sinners from the power
 
 1. First, Jesus, while being “tempted in every way, just as we are—yet was without sin” (Heb. 4:15); therefore, the devil did not hold the power of death over Jesus.
 
-2. Subsequently, Jesus was able to CO-sign onto the rap sheet, that is, “the written code . . . that was against us and that stood opposed to us” (Col. 1:14).
+2. Subsequently, Jesus was able to CO-sign onto the rap sheet, that is, “the written code …that was against us and that stood opposed to us” (Col. 1:14).
 
    - a. With respect to CO-signing a loan, if the borrower declares insolvency, then, the CO-signer is liable for the unpaid loan.
 

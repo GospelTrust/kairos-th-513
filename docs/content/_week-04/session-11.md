@@ -105,7 +105,7 @@ b. Christ told the parable of the persistent widow (Lk. 18:1-8) and the man who 
  This is something that Peter, Paul, and James all agree on.
 1. The apostle Peter writes:
 
-“Though now for a little while you may have had to suffer grief in all kinds of trials. These have come so that your faith--of greater worth than gold, which perishes even though refined by fire--may be proved genuine and may result in praise, glory and honor when Jesus Christ is revealed . . . for you are receiving the goal of your faith, the salvation of your souls" (1 Pet. 1:6-9).
+“Though now for a little while you may have had to suffer grief in all kinds of trials. These have come so that your faith--of greater worth than gold, which perishes even though refined by fire--may be proved genuine and may result in praise, glory and honor when Jesus Christ is revealed …for you are receiving the goal of your faith, the salvation of your souls" (1 Pet. 1:6-9).
 
 a. “You are receiving the goal of your faith, the salvation of your soul” refers to salvation present, that is, sanctification (i.e., working out your salvation in the present).
 
@@ -183,7 +183,7 @@ a. Was the apostle merely reminding them that the Holy Spirit lives in them? No.
 b. In his letter to the Ephesians, Paul tells them to “speak[] to one another with psalms, hymns, and songs from the Spirit. Sing and make music from your heart to the Lord,. . .” (Eph. 5:19), in order to be filled by the Holy Spirit.
 
 c. Luke points to prayer as being a key to being filled.
- Regarding the early believers in Jerusalem, he said, “After they prayed . . . they were all filled with the Holy Spirit and spoke the word of God boldly” (Acts 4:31).
+ Regarding the early believers in Jerusalem, he said, “After they prayed …they were all filled with the Holy Spirit and spoke the word of God boldly” (Acts 4:31).
 
  B. When the believer’s legal position (i.e., standing) is overemphasized
 

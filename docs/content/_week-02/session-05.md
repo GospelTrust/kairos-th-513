@@ -137,7 +137,7 @@ In what sense is today’s church doing the same as what the 1st century Jewish 
 
    - a. “The question is about the means of salvation, how it is accomplished. [The Reformed theology] has said that salvation is accomplished by the sovereign grace of God, operating through the death of Jesus Christ in our place and on our behalf, and appropriated through faith alone.”
 
-     “Absolutely. I agree a hundred per cent. . . . But there is something missing—or rather, someone missing. Where is the Holy Spirit?”18
+     “Absolutely. I agree a hundred per cent…. But there is something missing—or rather, someone missing. Where is the Holy Spirit?”18
 
    - b. “In some of the great Reformed theologians, not least John Calvin himself, the work of the spirit is every bit as important as the work of the son.
 

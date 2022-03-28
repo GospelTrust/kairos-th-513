@@ -34,7 +34,7 @@ c. It is akin to adopting a child into one’s family; after proper documents ar
 
 2. Positional sanctification.
 
- This terminology refers to accrediting Christ’s righteousness onto the justified ontologically (in faith); this is how Paul was able to say that the carnal Corinthians were not only “justified” but also “washed and sanctified . . . in Christ” (1 Cor. 6:11).
+ This terminology refers to accrediting Christ’s righteousness onto the justified ontologically (in faith); this is how Paul was able to say that the carnal Corinthians were not only “justified” but also “washed and sanctified …in Christ” (1 Cor. 6:11).
 
  It is as if the sanctified individual had never sinned, just like the sinless Christ.
 
@@ -58,7 +58,7 @@ a. Before: In the dominion of darkness, the devil had “the power of death over
 
  After: Jesus freed them by “destroy[ing] the devil’s work” (1 Jn. 3:8b) through his death (Heb. 2:14). We are now free from the penalty of sin.
 
-b. Before: the devil, being “the accuser of . . . brothers, accuse[d] them before . . . God day and night (Rev. 12:10b).
+b. Before: the devil, being “the accuser of …brothers, accuse[d] them before …God day and night (Rev. 12:10b).
 
  After: Jesus “canceled the written code, with its regulations, that was against us and that stood opposed to us; he took it away, nailing it to the cross” (Col. 2:14).
 
@@ -133,7 +133,7 @@ a. Paul, in his first epistle to the Corinthians says, “Therefore, if anyone i
 
 (2) As mentioned previously, Paul, dealing with his own inner struggle with sin as a Christian, declares,
 
- “I know that nothing good lives in me, that is, in my sinful nature. . . . Now if I do what I do not want to do, it is no longer I who do it, but it is sin living in me that does it” (Rom. 7:20).
+ “I know that nothing good lives in me, that is, in my sinful nature…. Now if I do what I do not want to do, it is no longer I who do it, but it is sin living in me that does it” (Rom. 7:20).
 
 b. Whereas the sinful nature monopolizes the will of the unregenerate man, thereby inducing him to be a slave to sin, after the rebirth however, its power over the regenerate man is restrained by the Holy Spirit.
 
@@ -181,7 +181,7 @@ b. Paul, therefore, was not suggesting some behavioral modification; rather, he 
  To be wholly sanctified, the believers need to separate themselves from the devil’s schemes.
 
  Paul tells the Ephesians:
- “Put on the full armor of God so that you can take your stand against the devil’s schemes . . ., so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand. Stand firm then. . . .” (Eph. 6:11, 13, 14).
+ “Put on the full armor of God so that you can take your stand against the devil’s schemes . . ., so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand. Stand firm then….” (Eph. 6:11, 13, 14).
 
 1. Evidently, while the believers have been rescued from the kingdom of darkness, the devil continues to scheme against them, trying to induce them to succumb to the power of sin; thus, Paul exhorts the Ephesians to get ready for battles.
 

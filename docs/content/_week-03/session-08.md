@@ -53,7 +53,7 @@ c. In short, God is sovereign; He is not subject to human scrutiny.
 
 a. Paul states in 2 Thess. 2:10-1: “They perish because they refused to love the truth and so be saved. For this reason God sends them a powerful delusion so that they will believe the lie and so that all will be condemned who have not believed the truth but have delighted in wickedness.”
 
-b. The apostle expresses a similar thought in Romans 1:24, 6 regarding those who are set on being willful against God: “Therefore God gave them over in the sinful desires of their hearts. . . . Because of this, God gave them over to shameful lusts.”
+b. The apostle expresses a similar thought in Romans 1:24, 6 regarding those who are set on being willful against God: “Therefore God gave them over in the sinful desires of their hearts…. Because of this, God gave them over to shameful lusts.”
 
  C. The objector raises his voice again
 
@@ -68,7 +68,7 @@ What if God, although choosing to show his wrath and make his power
  known, bore with great patience the objects of his wrath—prepared for destruction? 23 What if he did this to make the riches of his glory known to the objects of his mercy, whom he prepared in advance for glory” (Rom. 9:20-3).
 2. Paul uses the illustration of potter and clay from Jeremiah, not to answer the charge, but simply to say that “man’s position as a creature does not qualify him to contradict the Creator.”
 
-3. It is irreverent for creatures to criticize or contradict the actions of their Creator (9:22-3), for God . . . is doing nothing unreasonable or unjust, for both classes of vessels serve the highest end:
+3. It is irreverent for creatures to criticize or contradict the actions of their Creator (9:22-3), for God …is doing nothing unreasonable or unjust, for both classes of vessels serve the highest end:
 
 a. The punishing of the vessels of wrath manifests God’s displeasure against sin.
 
@@ -160,7 +160,7 @@ b. Thus, our approach ought to be both/and, which seems to be that of Paul’s a
 a. What could that be? Let’s begin with this question:
  “What is God’s ultimate purpose for which He saves us?”
 
- Eph. 1:9-10b: . . . [God] made known to us the mystery of his will according to his good pleasure, which he purposed in Christ, . . . to bring all things in heaven and on earth together under one head, even Christ.
+ Eph. 1:9-10b: …[God] made known to us the mystery of his will according to his good pleasure, which he purposed in Christ, …to bring all things in heaven and on earth together under one head, even Christ.
 
  Col 1:18: And he is the head of the body, the church; he is the beginning and the firstborn from among the dead, so that in everything he might have the supremacy.
 
@@ -223,7 +223,7 @@ c. However, for an inexplicable reason, Sproul takes a different route to avoid 
 
  Thus, he comments:
 
- “Ample evidence indicates that the term world in the New Testament often refers to neither the entire globe nor to all persons living on earth. . . . We know [the] census
+ “Ample evidence indicates that the term world in the New Testament often refers to neither the entire globe nor to all persons living on earth…. We know [the] census
  [taken by Caesar Augustus] did not include the inhabitants of China or South
  America, so ‘all the world’ does not refer to all people in the entire world.”
 

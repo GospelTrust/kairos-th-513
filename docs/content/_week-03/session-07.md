@@ -20,7 +20,7 @@ Chapter 6 Redemption (Part B)
 
  “God presented Christ as a sacrifice of atonement, through the shedding of his blood— to be received by faith. He did this to demonstrate his righteousness, because in his forbearance he had left the sins committed beforehand unpunished” (Rom. 3:25 NASB).
 
- “God . . . sen[t] his own Son in the likeness of sinful flesh to be a sin offering. And so he condemned sin in the flesh, 4 in order that the righteous requirement of the law might be fully met in us (Rom. 8:3b-4a).
+ “God …sen[t] his own Son in the likeness of sinful flesh to be a sin offering. And so he condemned sin in the flesh, 4 in order that the righteous requirement of the law might be fully met in us (Rom. 8:3b-4a).
 
 2. What is God’s righteous requirement?
 
@@ -76,7 +76,7 @@ a. What the broken bread represents
 
 b. The shed blood of Christ (that took away sins) represents God’s permanent forgiveness of sins and his willingness to forget about it.
 
- Heb. 10:16a, 17: “This is the covenant I will make with them after that time, says the Lord. . . . 17 Then he adds: ‘Their sins and lawless acts I will remember no more.’”
+ Heb. 10:16a, 17: “This is the covenant I will make with them after that time, says the Lord…. 17 Then he adds: ‘Their sins and lawless acts I will remember no more.’”
 
  Discussion1: Since God is sovereign, He didn’t have to have His Son die to redeem us; there are other ways. So, what is revealed by the fact that God chose the most difficult “method” to redeem us? How does that affect love for Him?
 
@@ -122,7 +122,7 @@ a. Which leads to contrition (“I am sorry for my sins.”)
 
 (1) Peter said before Jesus:
  “Go away from me, Lord; I am a sinful man!” (Lk. 5:8b).
-(2) Isaiah said before God: “Woe to me. . . . I am ruined! For I am a man of unclean lips” (Is. 6:5).
+(2) Isaiah said before God: “Woe to me…. I am ruined! For I am a man of unclean lips” (Is. 6:5).
 
 b. Which then leads to repentance (turning from sin)
 
@@ -202,11 +202,11 @@ Eph. 1:4-5: “For he chose us in him before the creation of the world to be hol
 
 Rom. 9:6-7, 14-5: “It is not as though God's word had failed. For not all who are descended from Israel are Israel. Nor because they are his descendants are they all Abraham's children. On the contrary, ‘It is through Isaac that your offspring will be reckoned.’
 
- . . . What then shall we say? Is God unjust? Not at all! For he says to Moses, ‘I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.’"
+ …What then shall we say? Is God unjust? Not at all! For he says to Moses, ‘I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.’"
 
- John 6:65, 37: “[Jesus] went on to say, ‘This is why I told you that no one can come to me unless the Father has enabled him . . . All that the Father gives me will come to me, and whoever comes to me I will never drive away.’”
+ John 6:65, 37: “[Jesus] went on to say, ‘This is why I told you that no one can come to me unless the Father has enabled him …All that the Father gives me will come to me, and whoever comes to me I will never drive away.’”
 
- 2 Tim 1:9: “God . . . has saved us and called us to a holy life—not because of anything we have done but because of his own purpose and grace. This grace was given us in Christ Jesus before the beginning of time.”
+ 2 Tim 1:9: “God …has saved us and called us to a holy life—not because of anything we have done but because of his own purpose and grace. This grace was given us in Christ Jesus before the beginning of time.”
 
  3. There are several problems, real or imagined, with this view:
 
@@ -235,7 +235,7 @@ a. In Calvinism, God’s electing grace is based on his unilateral decree (Eph. 
 
 b. Despite this difference, those who categorically accuse Arminianism of humanism should know how similar Calvinism and Arminianism are, at least at the outset. In fact, it was Arminius who made the following statement:
 
- “That God, by an eternal and unchangeable purpose in Jesus Christ his son, before the foundation of the world were laid, determined to save, out of the human race which had fallen into sin, in Christ, for Christ's sake and through Christ, those who through the grace of the Holy Spirit shall believe on the same his Son. . . .”
+ “That God, by an eternal and unchangeable purpose in Jesus Christ his son, before the foundation of the world were laid, determined to save, out of the human race which had fallen into sin, in Christ, for Christ's sake and through Christ, those who through the grace of the Holy Spirit shall believe on the same his Son….”
 
 2. Supporting passages for Arminianism.
 

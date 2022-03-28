@@ -31,9 +31,9 @@ In 2 Corinthians 4:4, he adds, “The god of this age has blinded the minds of u
 
    Rudolf Bultmann, renowned German theologian in the 20th century, offered the following rationale for rejecting the factuality of miracle narratives.
 
-   > Man's knowledge and mastery of the world have advanced to such an extent through science and technology that it is no longer possible for anyone seriously to hold the New Testament view of the world—in fact, there is no one who does. . . .
+   > Man's knowledge and mastery of the world have advanced to such an extent through science and technology that it is no longer possible for anyone seriously to hold the New Testament view of the world—in fact, there is no one who does….
 
-   > The resurrection of Jesus is just as difficult for modern man if it means an event whereby a living supernatural power is released. . . . These are most certainly later embellishments of the primitive tradition.
+   > The resurrection of Jesus is just as difficult for modern man if it means an event whereby a living supernatural power is released…. These are most certainly later embellishments of the primitive tradition.
 
 2. To others, biblical morality is antiquated, if not downright offensive.
 
@@ -83,9 +83,9 @@ In order for sinners to believe Jesus for salvation, thereby being united with G
 
    > “And you were dead in the trespasses and sins . . .” (Eph. 2:1).
 
-   > “. . . God, who is rich in mercy, made us alive with Christ even when we were dead in transgressions—it is by grace you have been saved (Eph. 2:4-5).
+   > “…God, who is rich in mercy, made us alive with Christ even when we were dead in transgressions—it is by grace you have been saved (Eph. 2:4-5).
 
-   > “When you were dead in your sins and in . . . your sinful nature, God made you alive with Christ” (Col. 2:13).
+   > “When you were dead in your sins and in …your sinful nature, God made you alive with Christ” (Col. 2:13).
 
 2. This means that the Holy Spirit (i.e. the Spirit of God) enters the inner-being or the heart of a sinner so that he can understand and be receptive to the gospel.
 
