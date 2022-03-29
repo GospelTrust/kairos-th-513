@@ -78,18 +78,22 @@ week-04:
     header: assignment
     session: 10
     part: A
+    url: 'session-10'
   - title: 'Standing Before Christ'
     header: assignment
-    session: 11a
+    session: 11
     part: B
+    url: 'session-11a'
   - title: 'Key to Sanctification'
     header: assignment
-    session: 11b
+    session: 11
     part: A
+    url: 'session-11b'
   - title: 'Key to Sanctification'
     header: assignment
     session: 12
     part: B
+    url: 'session-12'
 
 week-05:
   title: Week 5
