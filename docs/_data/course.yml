@@ -66,7 +66,6 @@ week-03:
   - title: 'Introduction to Sanctification'
     header: assignment
     session: 9
-    part: 1
     url: 'session-09'
 
 week-04:
@@ -81,12 +80,16 @@ week-04:
     part: A
   - title: 'Standing Before Christ'
     header: assignment
-    session: 11
+    session: 11a
     part: B
   - title: 'Key to Sanctification'
     header: assignment
+    session: 11b
+    part: A
+  - title: 'Key to Sanctification'
+    header: assignment
     session: 12
-    part: 2
+    part: B
 
 week-05:
   title: Week 5
