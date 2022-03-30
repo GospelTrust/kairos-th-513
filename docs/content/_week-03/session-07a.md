@@ -125,25 +125,25 @@ In light of our study on regeneration, justification and redemption, the logical
 
    - a. -> Which leads to contrition (“I am sorry for my sins.”)
 
-      1) Peter said before Jesus:
+     1. Peter said before Jesus:
 
         > Go away from me, Lord; I am a sinful man!. (Lk. 5:8b)
 
-      2) Isaiah said before God:
+     2. Isaiah said before God:
 
         > Woe to me…. I am ruined! For I am a man of unclean lips. (Is. 6:5)
 
    - b. -> Which then leads to repentance (turning from sin)
 
-      1) Inward: this refers to having the desire, intent, will and attitude to turn from sin.
+     1. Inward: this refers to having the desire, intent, will and attitude to turn from sin.
 
-      2) Outward: this does not necessarily mean that this person will turn from all his actual sins right away.
+     2. Outward: this does not necessarily mean that this person will turn from all his actual sins right away.
 
    - c. Having been made alive by God, sinners are now able to recognize the following:
 
-      1) They are “a prisoner of sin” (Gal. 3:22).
+     1. They are “a prisoner of sin” (Gal. 3:22).
 
-      2) They are unable to rescue themselves.
+     2. They are unable to rescue themselves.
 
 3. Reception of faith.
 

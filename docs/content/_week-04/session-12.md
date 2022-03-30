@@ -31,9 +31,9 @@ In some conservative churches, not drinking, smoking, gambling and dancing quali
 
    - b. But, what about 1 Jn. 1:9: “If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.”
 
-      1) Prince’s response: “It was written to unbelieving Gnostics who needed to confess their sins to be saved.”
+     1. Prince’s response: “It was written to unbelieving Gnostics who needed to confess their sins to be saved.”
 
-      2) That’s not true since 1 John was written to the believers (note the pronoun “we” that includes John), to, among other reasons, warn against the false teachings of the Docetics (who denied that Jesus came in the flesh), the precursor to the Gnostics. 1 John was written to the believer about the Gnostics, and not to the Gnostics.
+     2. That’s not true since 1 John was written to the believers (note the pronoun “we” that includes John), to, among other reasons, warn against the false teachings of the Docetics (who denied that Jesus came in the flesh), the precursor to the Gnostics. 1 John was written to the believer about the Gnostics, and not to the Gnostics.
 
 # II. When the One’s Own Effort is Emphasized Disproportionally
 
@@ -189,9 +189,9 @@ Keeping a fine balance between standing and state is clearly shown in Jesus’ h
 
    - a. To her amazement, “immediately her bleeding stopped.”
 
-      1) She got what she wanted: freedom from a disease that made her feel shame
+     1. She got what she wanted: freedom from a disease that made her feel shame
 
-      2) She was not sick anymore; she was now free, physically.
+     2. She was not sick anymore; she was now free, physically.
 
    - b. She, then, looked for a quick exit but Jesus, to her chagrin, wouldn’t allow it; he demanded to know who touched him when in fact many were doing so.
 
@@ -231,11 +231,11 @@ Keeping a fine balance between standing and state is clearly shown in Jesus’ h
 
    - c. But sōzō, often translated as “to save,” carries the idea of being saved from disease and its effects (which in her case were shame and guilt).
 
-      1) Thus, the King James Version renders this verse as,
+     1. Thus, the King James Version renders this verse as,
 
          > “Thy faith hath made thee whole.”
 
-      2) In other words, now it wasn’t just the body that was healed, but her whole self, including her inner-being (Eph. 3:16: “I pray that [God] may strengthen you with power through his Spirit in your inner being”).
+     2. In other words, now it wasn’t just the body that was healed, but her whole self, including her inner-being (Eph. 3:16: “I pray that [God] may strengthen you with power through his Spirit in your inner being”).
 
 5. If this woman had returned home just with physical healing, she still would have been afflicted with guilt and shame over what she had been hiding and doing (i.e., making others unclean) for awhile.
 
@@ -255,9 +255,9 @@ This section is added to suggest that inner-healing ministry can be a helpful to
 
    - b. In case when hurtful and painful things happened some time ago, we must rely on the Holy Spirit to recall them but it is imperative that the recollection is as accurate as possible and not always blaming others for everything.
 
-      1) In other words, there are people whom we need to forgive as well as those from whom we need to receive forgiveness.
+     1. In other words, there are people whom we need to forgive as well as those from whom we need to receive forgiveness.
 
-      2) Ultimately, the power to live freely will come from hearing Jesus, who, despite knowing all that happened, says, “You have been made whole; go in peace.”
+     2. Ultimately, the power to live freely will come from hearing Jesus, who, despite knowing all that happened, says, “You have been made whole; go in peace.”
 
 2. What inner healing needs to be careful with.
 
@@ -275,11 +275,11 @@ This section is added to suggest that inner-healing ministry can be a helpful to
 
      The same pastor wondered:
 
-      1) “Is the temptation not as strong after inner healing?
+     1. “Is the temptation not as strong after inner healing?
 
          Is the issue of porn and lust even related to inner healing?”
 
-      2) “I suppose this can also apply to the desire for power and money or even the difficulties of forgiving someone.
+     2. “I suppose this can also apply to the desire for power and money or even the difficulties of forgiving someone.
 
          So, if I have walked through inner healing and forgiven someone and even have the demon of discord exorcised, does that mean I will enjoy being with that person who’s hurt me deeply in the past?”
 
@@ -297,13 +297,13 @@ This section is added to suggest that inner-healing ministry can be a helpful to
 
    - b. Second, following an effective inner healing session, does the person continue with the optimal approach to progressive sanctification?
 
-      1) Seriously reading and studying God’s word, and then applying the truth in our daily living (James 1:22-5)
+     1. Seriously reading and studying God’s word, and then applying the truth in our daily living (James 1:22-5)
 
-      2) Consistently praying both in depth and length
+     2. Consistently praying both in depth and length
 
-      3) Actively being involved in the faith community, to be encouraged as well as held accountable
+     3. Actively being involved in the faith community, to be encouraged as well as held accountable
 
-      4) Maintaining a fine balance between our immovable standing in Christ before God and own effort to separate ourselves from the pattern of this world, devil’s scheme and the effects of past painful experiences
+     4. Maintaining a fine balance between our immovable standing in Christ before God and own effort to separate ourselves from the pattern of this world, devil’s scheme and the effects of past painful experiences
 
 # V. The Results of Sanctification
 

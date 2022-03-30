@@ -31,9 +31,9 @@ God, in disclosing His revelations to man, didn’t reveal them all at once, mai
 
      > And I will put enmity between you and the woman, and between your offspring and hers; he will crush your head, and you will strike his heel.
 
-     1) This is called the proto-gospel because it outlines metaphorically how Christ is going to defeat the devil (which is clearly explained in Hebrews 2:14-5 ).
+    1. This is called the proto-gospel because it outlines metaphorically how Christ is going to defeat the devil (which is clearly explained in Hebrews 2:14-5 ).
 
-     2) The devil will injure Christ through crucifixion, but Christ will destroy the devil through resurrection.
+    2. The devil will injure Christ through crucifixion, but Christ will destroy the devil through resurrection.
 
 ## B. How should the NT, then, be understood?
 
@@ -84,9 +84,9 @@ It is only when the OT covenants are examined through the reality of the New Cov
 
    - a. Redemptive meaning in shadow.
 
-     1) It is going to take the shedding of the blood of the only son to redeem sinners.
+    1. It is going to take the shedding of the blood of the only son to redeem sinners.
 
-     2) The redemptive sacrifice will involve a substitutionary death. “Abraham answered, ‘God himself will provide the lamb for the burnt offering, my son.’ And the two of them went on together” (Gn. 22:8).
+    2. The redemptive sacrifice will involve a substitutionary death. “Abraham answered, ‘God himself will provide the lamb for the burnt offering, my son.’ And the two of them went on together” (Gn. 22:8).
 
    - b. It foreshadowed another key qualification of the one who will be sacrificed to redeem the lost:
 
@@ -176,9 +176,9 @@ While God’s redemptive work was laid out in shadowy forms in the OT, its actua
 
    - b. That’s because no one knew whom Gomer was representing.
 
-     1) Before her husband redeemed her, she was representing the Gentile sinners.
+    1. Before her husband redeemed her, she was representing the Gentile sinners.
 
-     2) After Hosea redeemed Gomer, she was representing all the redeemed in Christ, that is, the Church made up of both the Jews and Gentiles.
+    2. After Hosea redeemed Gomer, she was representing all the redeemed in Christ, that is, the Church made up of both the Jews and Gentiles.
 
 ## C. What this meant
 

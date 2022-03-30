@@ -179,9 +179,9 @@ In what sense is today’s church doing the same as what the 1st century Jewish 
 
    - d. Thus, Paul had to address both issues at the same time:
 
-     1) Ethnocentrism of the Jews that kept the Gentiles from the church
+    1. Ethnocentrism of the Jews that kept the Gentiles from the church
 
-     2) Theology of salvation by works that kept the sinners—both Jews and Gentiles— from being made righteous by God through Christ (Rom. 5:1).
+    2. Theology of salvation by works that kept the sinners—both Jews and Gentiles— from being made righteous by God through Christ (Rom. 5:1).
 
    **Discussion**: In what sense is today’s church doing the same as what the 1st century Jewish Christians that kept the nations from receiving God’s blessing in Christ?
 

@@ -57,9 +57,9 @@ A young believer with a delicate conscience, after sinning, may feel like God ha
 
      After: Jesus “canceled the written code, with its regulations, that was against us and that stood opposed to us; he took it away, nailing it to the cross” (Col. 2:14).
 
-     1) “There is now no condemnation for those who are in Christ Jesus” (Rom. 8:1).
+    1. “There is now no condemnation for those who are in Christ Jesus” (Rom. 8:1).
 
-     2) Even if our walk with God is unfaithful at any given moment, we can be assured that we’re still a child of God. (The doctrine of adoption is in view here.)
+    2. Even if our walk with God is unfaithful at any given moment, we can be assured that we’re still a child of God. (The doctrine of adoption is in view here.)
 
    - c. Before: Unbelievers, being slaves to the devil (2 Pet. 2:19b), “used to offer the parts of [their] body in slavery to impurity and to every-increasing wickedness” (Rom. 6:19).
 
@@ -129,9 +129,9 @@ This is an issue that Jesus, Paul and Peter all address.
 
      > Therefore, if anyone is in Christ, he is a new creation; the old has gone, the new has come! (2 Cor. 5:17)
 
-     1) This new spiritual reality does not mean, however, that the sinful nature has been eradicated by the indwelling presence of the Holy Spirit in the believers.
+    1. This new spiritual reality does not mean, however, that the sinful nature has been eradicated by the indwelling presence of the Holy Spirit in the believers.
 
-     2) As mentioned previously, Paul, dealing with his own inner struggle with sin as a Christian, declares,
+    2. As mentioned previously, Paul, dealing with his own inner struggle with sin as a Christian, declares,
 
      > I know that nothing good lives in me, that is, in my sinful nature…. Now if I do what I do not want to do, it is no longer I who do it, but it is sin living in me that does it. (Rom. 7:20)
 
