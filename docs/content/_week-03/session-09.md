@@ -184,9 +184,9 @@ Even so, it is what Paul said about this messed up Corinthian congregation that 
 
      > If you put your detestable idols out of my sight and no longer go astray, and if in a truthful, just and righteous way you swear, ‘As surely as the LORD lives,’ then the nations will invoke blessings by him and in him they will boast. (Jer. 4:1a-2)
 
-     1) This is to say, the Canaanite nations were not drawn to the God of Israel because the way the Israelites lived (even whom they worshiped) was indistinguishable from how they lived and whom they worshiped.
+      1) This is to say, the Canaanite nations were not drawn to the God of Israel because the way the Israelites lived (even whom they worshiped) was indistinguishable from how they lived and whom they worshiped.
 
-     2) In other words, the Canaanites did not see the Lord in Israel because of the absence of holiness in their midst.
+      2) In other words, the Canaanites did not see the Lord in Israel because of the absence of holiness in their midst.
 
 3. Ultimately, unsanctified believers are much like the salt that has lost its saltiness, unable to be used for anything. Thus, Jesus says:
 

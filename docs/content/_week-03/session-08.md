@@ -178,19 +178,19 @@ We need the theology of “both/and” with respect to the matter of predestinat
 
    - b. This may be why some are elected for salvation.
 
-     1) In order that “Christ might be presented with a redeemed church when he is revealed as supreme in the universe, God has ordained that at least some should be gathered out from the mass” of sinners.”
+      1) In order that “Christ might be presented with a redeemed church when he is revealed as supreme in the universe, God has ordained that at least some should be gathered out from the mass” of sinners.”
 
-        This will occur the wedding supper of the Lamb in which Christ and his bride, the Church, are formally united.
+         This will occur the wedding supper of the Lamb in which Christ and his bride, the Church, are formally united.
 
-        Perhaps Rev. 19:9 refers to those who were bestowed with this special calling of God: “Blessed are those who invited to the wedding supper of the Lamb.”
+         Perhaps Rev. 19:9 refers to those who were bestowed with this special calling of God: “Blessed are those who invited to the wedding supper of the Lamb.”
 
-     2) Missiologically, God, by electing some from all nations, ensured that every nation is represented in the wedding supper of the Lamb.
+      2) Missiologically, God, by electing some from all nations, ensured that every nation is represented in the wedding supper of the Lamb.
 
-        Rev. 5:9 clearly states that Jesus died to redeem the nations:
+         Rev. 5:9 clearly states that Jesus died to redeem the nations:
 
-        > And they sang a new song, saying: ‘You are worthy to take the scroll and to open its seals, because you were slain, and with your blood you purchased for God persons from every tribe and language and people and nation.
+         > And they sang a new song, saying: ‘You are worthy to take the scroll and to open its seals, because you were slain, and with your blood you purchased for God persons from every tribe and language and people and nation.
 
-     3) “This gathering of ‘the elect’ [from all nations] is effected by a preordained ‘effectual calling.’” His basis for election isn’t revealed in the Scripture.
+      3) “This gathering of ‘the elect’ [from all nations] is effected by a preordained ‘effectual calling.’” His basis for election isn’t revealed in the Scripture.
 
 4. While some aren’t elected, but “whatever man may find himself outside the sphere of the covenant of redemption has not had his chances of coming to Christ reduced one iota by God’s election grace.”
 
@@ -220,11 +220,11 @@ We need the theology of “both/and” with respect to the matter of predestinat
 
    - a. First, he says, “Our could refer specifically to Jewish believers,” since “the New Testament labors the point that the body of Christ includes not only ethnic Jews, but Samaritans and Gentiles.”
 
-     1) I question how Sproul can justify reading “Jewish believers” into 1 John 2:2 when apostle John had not once talked about the Jews in the entire 1 John.
+      1) I question how Sproul can justify reading “Jewish believers” into 1 John 2:2 when apostle John had not once talked about the Jews in the entire 1 John.
 
-     2) Ironically, Paul, not John, was the one who addressed the Jewish-Gentile conflict in the Church as early as A.D. 49 (Gal. 3:28); John wrote 1 John between 85-95.
+      2) Ironically, Paul, not John, was the one who addressed the Jewish-Gentile conflict in the Church as early as A.D. 49 (Gal. 3:28); John wrote 1 John between 85-95.
 
-     Regardless, Sproul drops a major Pauline concern in the middle of a Johannine epistle, which addresses the threats of the Docetics who denied Christ’s humanity (1 Jn. 4:3-5).
+         Regardless, Sproul drops a major Pauline concern in the middle of a Johannine epistle, which addresses the threats of the Docetics who denied Christ’s humanity (1 Jn. 4:3-5).
 
    - b. Moreover, for Sproul’s interpretation to make sense, it would seem that the “whole world” should refer to the “Samaritan and Gentile believers” in contrast to “Jewish believers.”
 
@@ -240,20 +240,20 @@ We need the theology of “both/and” with respect to the matter of predestinat
 
      > He Himself is the propitiation for the sins of . . .the parts of the world.
 
-     1) In view of the fact that the word “cosmos” (world) is used 17 times in 1 John, is he willing to interpret that word found in other verses in the same manner?
+      1) In view of the fact that the word “cosmos” (world) is used 17 times in 1 John, is he willing to interpret that word found in other verses in the same manner?
 
-        `1 Jn. 2:15 (NIV)`:
-        > Do not love the world or anything in the world.
+         `1 Jn. 2:15 (NIV)`:
+         > Do not love the world or anything in the world.
 
-        (Try reading this as "parts of the world.")
+         (Try reading this as "parts of the world.")
 
-        `1 Jn. 3:13 (NASB)`:
-        > Do not be surprised, brethren, if the world hates you.
+         `1 Jn. 3:13 (NASB)`:
+         > Do not be surprised, brethren, if the world hates you.
 
-        `1 Jn. 5:19`:
-        > We know that we are of God, and that the whole world* lies in the power of the evil one. (*The same Greek phrase used in 1 John 2:2
+         `1 Jn. 5:19`:
+         > We know that we are of God, and that the whole world* lies in the power of the evil one. (*The same Greek phrase used in 1 John 2:2
 
-     2) He wouldn’t do that. So, he just made an exception regarding 1 John 2:2.
+      2) He wouldn’t do that. So, he just made an exception regarding 1 John 2:2.
 
    - d. In accordance to the exegetical attempt by Sproul to avoid saying that Jesus died for the sins of the whole world, 1 John 2:2 should then read:
 
