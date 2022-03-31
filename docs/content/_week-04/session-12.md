@@ -323,7 +323,7 @@ A closer walk will also result in greater awareness of those things that make Go
 
 1. This implies that the sanctified believers, instead of being primarily concerned about their own goals and ambitions, are more concerned for the heart of God and His desire to reach the fallen humanity.
 
-2. This should be the reason for “do[ing] good works which God prepared in advance for [us] to do (Eph. 2:8).
+2. This should be the reason for “do[ing] good works which God prepared in advance for [us] to do" (Eph. 2:8).
 
 ## D. Selflessness
 

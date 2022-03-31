@@ -150,7 +150,7 @@ We need the theology of “both/and” with respect to the matter of predestinat
 
    Regarding how Jesus came to be executed on the cross, the apostle declared to the Jews:
 
-   > “This man was handed over to you by God’s set purpose (“the predetermined plan”, NASB) and foreknowledge; and you, with the help of wicked man, put him to death by nailing him to the cross” (Acts 2:23).
+   > This man was handed over to you by God’s set purpose (“the predetermined plan”, NASB) and foreknowledge; and you, with the help of wicked man, put him to death by nailing him to the cross (Acts 2:23).
 
    - a. Obviously, the crucifixion of Christ was the essential component of God’s redemptive plan (Gn. 3:15), which He unilaterally planned according to His set purpose.
 
