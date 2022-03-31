@@ -169,7 +169,7 @@ In what sense is today’s church doing the same as what the 1st century Jewish 
 
    - b. Perhaps the best example of this occurred in Acts 22 where the Jews were quite willing to let Paul speak to them about his mission until he said,
 
-     > Then the Lord said to me, ‘Go; I will send you far away to the Gentiles’ (22:21).
+      > Then the Lord said to me, ‘Go; I will send you far away to the Gentiles’ (22:21).
 
       1. How was this statement received by the Jewish crowd? Not well. “The crowd listened to Paul until he said this. Then they raised their voices and shouted, ‘Rid the earth of him! He’s not fit to live!’” (Acts 22:22).
 

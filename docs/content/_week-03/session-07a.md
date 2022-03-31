@@ -29,7 +29,7 @@ The most important aspect of the Lamb that was slain is that through it an adequ
 
      The apostles Peter, Paul and John, then, projected that imagery unto Christ, making him “a lamb without blemish or defect” (1 Pet. 1:19b), whose “precious blood” (1 Pet. 1:19a ) “save[s sinners] “from God’s wrath” (Rom. 5:9).
 
-      1 Thess. 5:9:
+     1 Thess. 5:9:
      > For God did not appoint us to suffer wrath but to receive salvation through our Lord Jesus Christ.
 
      Rom. 5:9:
@@ -51,7 +51,7 @@ The most important aspect of the Lamb that was slain is that through it an adequ
 
       2. “To [cancel] unpunished sin would be treating the sinful and the sinless alike which would be incongruous to God’s nature.” (Colin Brown in Dowley, p. 276)
 
-        In modern churches where sin is treated as a disease or a by-product of bad environment, and Jesus portrayed as a personal trainer whose job is to empower us to get the most out of life, this is indeed a sobering thought.
+         In modern churches where sin is treated as a disease or a by-product of bad environment, and Jesus portrayed as a personal trainer whose job is to empower us to get the most out of life, this is indeed a sobering thought.
 
 ## C. What transpired on the cross?
 
@@ -69,12 +69,12 @@ The most important aspect of the Lamb that was slain is that through it an adequ
 
    - a. What the broken bread represents (i.e., the torn curtain that separated the Holy of Holies from the Holy Place)
 
-     It represents the broken body of Jesus that took the punishment for our sins by being “pierced for our transgressions” and “crushed for our iniquities” (Is. 53:5).
+      It represents the broken body of Jesus that took the punishment for our sins by being “pierced for our transgressions” and “crushed for our iniquities” (Is. 53:5).
 
    - b. The shed blood of Christ (that took away sins) represents God’s permanent forgiveness of sins and his willingness to forget about it.
 
-     `Heb. 10:16a, 17`:
-     > This is the covenant I will make with them after that time, says the Lord…. 17 Then he adds: ‘Their sins and lawless acts I will remember no more.’
+      `Heb. 10:16a, 17`:
+      > This is the covenant I will make with them after that time, says the Lord…. 17 Then he adds: ‘Their sins and lawless acts I will remember no more.’
 
 {% include youtube.html id='l_61XY_8bvc' %}
 
@@ -105,7 +105,7 @@ In short, it is eternal life. Paul says,
 
    - b. On the contrary, others teach as if they expect the obedient life to manifest in its fullest measure from the outset of the Christian life.
 
-     Its leading advocate John MacArthur once said, “Faith is not complete unless it is obedient.”
+      Its leading advocate John MacArthur once said, “Faith is not complete unless it is obedient.”
 
 3. The position presented in this study is different from these.
 
@@ -113,7 +113,7 @@ In short, it is eternal life. Paul says,
 
    - b. The actual changes in behavior and how quickly these changes may occur, are largely dependent on the degree to which the believers cooperate with the sanctifying work of the Holy Spirit.
 
-     This will be fully addressed in later chapters.
+      This will be fully addressed in later chapters.
 
 ## B. The logical order of salvation (all happening simultaneously)
 
@@ -127,11 +127,11 @@ In light of our study on regeneration, justification and redemption, the logical
 
       1. Peter said before Jesus:
 
-        > Go away from me, Lord; I am a sinful man!. (Lk. 5:8b)
+         > Go away from me, Lord; I am a sinful man!. (Lk. 5:8b)
 
       2. Isaiah said before God:
 
-        > Woe to me…. I am ruined! For I am a man of unclean lips. (Is. 6:5)
+         > Woe to me…. I am ruined! For I am a man of unclean lips. (Is. 6:5)
 
    - b. -> Which then leads to repentance (turning from sin)
 
