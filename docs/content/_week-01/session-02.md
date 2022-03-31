@@ -9,7 +9,7 @@ layout: lesson
 
 # Chapter 2: Depravity of Man
 
-Salvation -> Regeneration -> and at the root of it is the state of the fallen man
+Salvation → Regeneration → and at the root of it is the state of the fallen man
 
 A first step toward salvation is regeneration, but without properly understanding the state of the fallen man, the need for regeneration is not readily grasped.
 
@@ -133,8 +133,8 @@ The devil, in tempting Jesus following his 40-day fast, made an extraordinary cl
 
    So, what was lost at the Fall?
 
-     - Our original righteousness -> Resulting in penalty of sin
-     - Our original freedom -> Resulting in slavery to power of death
+     - Our original righteousness → Resulting in penalty of sin
+     - Our original freedom → Resulting in slavery to power of death
 
 # IV. What was Really Lost at the Fall
 

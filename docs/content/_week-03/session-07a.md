@@ -123,7 +123,7 @@ In light of our study on regeneration, justification and redemption, the logical
 
 2. Recognition of one’s sinfulness and sins.
 
-   - a. -> Which leads to contrition (“I am sorry for my sins.”)
+   - a. → Which leads to contrition (“I am sorry for my sins.”)
 
       1. Peter said before Jesus:
 
@@ -133,7 +133,7 @@ In light of our study on regeneration, justification and redemption, the logical
 
          > Woe to me…. I am ruined! For I am a man of unclean lips. (Is. 6:5)
 
-   - b. -> Which then leads to repentance (turning from sin)
+   - b. → Which then leads to repentance (turning from sin)
 
       1. Inward: this refers to having the desire, intent, will and attitude to turn from sin.
 

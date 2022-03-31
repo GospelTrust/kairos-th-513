@@ -150,7 +150,7 @@ The intent of the law and debt cancellation
 
    - d. The major intent of the law, then, is to show that “no one will be declared righteous in his sight by observing the law; rather, through the law we become conscious of sin” (Rom. 3:20).
 
-     e. g., you shall not steal -> you stole -> therefore, you are a lawbreaker.
+     e. g., you shall not steal → you stole → therefore, you are a lawbreaker.
 
       1. That’s how Paul came to recognize that he was a sinner because the law revealed that he had a greedy heart.
 
