@@ -39,7 +39,7 @@ A good question to begin this study is, “Justified from what?” To address th
 
 3. These teachings affected Luther, an Augustinian monk, who was particularly troubled with Romans 1:17,
 
-  > For in the gospel a righteousness from God is revealed, a righteousness that is by faith from first to last, just as it is written: “The righteous will live by faith.’
+   > For in the gospel a righteousness from God is revealed, a righteousness that is by faith from first to last, just as it is written: “The righteous will live by faith.’
 
 ## B. How Luther understood Romans 1:17 up until 1517
 
@@ -152,12 +152,12 @@ The intent of the law and debt cancellation
 
      e. g., you shall not steal -> you stole -> therefore, you are a lawbreaker.
 
-     1. That’s how Paul came to recognize that he was a sinner because the law revealed that he had a greedy heart.
+      1. That’s how Paul came to recognize that he was a sinner because the law revealed that he had a greedy heart.
 
         He says: “Is the law sin? Certainly not! Indeed I would not have known what sin was except through the law.
         For I would not have known what coveting really was if the law had not said, “Do not covet” (Rom 7:7).
 
-     2. Paul added, “So the law was put in charge to lead us to Christ that we might be justified by faith” (Gal. 3:24).
+      2. Paul added, “So the law was put in charge to lead us to Christ that we might be justified by faith” (Gal. 3:24).
 
         This means that the law’s intent is to induce people to become aware of their sinfulness and imperfection so that when Christ is presented to them, they would believe and trust Him for the forgiveness of their sins.
 
@@ -181,9 +181,9 @@ The intent of the law and debt cancellation
 
    - d. God is able to do this because of the ultimate atoning sacrifice of Jesus.
 
-     1. The act of forgiving the 10,000 talents by the master represents Jesus’ sacrifice of himself whose shed blood resulted in permanent forgiveness of sins (Heb. 9:22).
+      1. The act of forgiving the 10,000 talents by the master represents Jesus’ sacrifice of himself whose shed blood resulted in permanent forgiveness of sins (Heb. 9:22).
 
-     2. Only the blood of Christ is able “to take away the sins of many people” (Heb. 9:28) because it is not corrupted by sins (discussed later).
+      2. Only the blood of Christ is able “to take away the sins of many people” (Heb. 9:28) because it is not corrupted by sins (discussed later).
 
 2. The rest of the parable shows that the justified person, in a legal sense, does not yet possess a righteous heart.
 
@@ -193,9 +193,9 @@ The intent of the law and debt cancellation
 
    - a. The concept of mercy is clearly depicted in this parable. The servant, who owes the 10,000 talents, deserves to be punished for not repaying it.
 
-     1. However, the master does not treat him according to what his deed warrants; he says to him, “I had mercy on you,” meaning he didn’t inflict the punishment that the servant deserved.
+      1. However, the master does not treat him according to what his deed warrants; he says to him, “I had mercy on you,” meaning he didn’t inflict the punishment that the servant deserved.
 
-     2. Seen from this angle, justification (exculpating the guilty individual) is a merciful act of God.
+      2. Seen from this angle, justification (exculpating the guilty individual) is a merciful act of God.
 
    - b. This parable further shows that God’s discipline (i.e., a symbolic meaning of “tortured”) is one of the key means to transform the unrighteous heart to be righteous so that the justified can be merciful to others.
 

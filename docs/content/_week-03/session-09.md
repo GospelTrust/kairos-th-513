@@ -96,27 +96,27 @@ Paul was in shock to hear that someone attending the Corinthian Church was havin
 
      Evidently, Paul was concerned that the Corinthian believers might construe his disciplinary measure to mean avoiding any contact with unbelievers and sinners in Corinth, a city infamous for immorality due in large part to its 1,000 temples prostitutes.
 
-     1. However, this is precisely what Paul didn’t want; thus, he said euphemistically,
+      1. However, this is precisely what Paul didn’t want; thus, he said euphemistically,
 
          > If that were the case, all Christians would have to leave the world.
 
-     2. Clearly, Christians are not to separate themselves from the world; instead, they are to stay in the world, or as Paul put it, “Each one should remain in the situation which he was in when God called him” (7:20).
+      2. Clearly, Christians are not to separate themselves from the world; instead, they are to stay in the world, or as Paul put it, “Each one should remain in the situation which he was in when God called him” (7:20).
 
    - b. Nevertheless, Christians are to separate themselves from how the people of this world, described by Paul as immoral, greedy, deceitful and idolatrous, live.
 
-     1. So, when Paul quoted Isaiah 52:11—“Therefore come out from them and be separate”—in his second letter to the Corinthians (2 Cor. 6:17a), he was saying that they should live differently from how other Corinthians live.
+      1. So, when Paul quoted Isaiah 52:11—“Therefore come out from them and be separate”—in his second letter to the Corinthians (2 Cor. 6:17a), he was saying that they should live differently from how other Corinthians live.
 
-     2. In the epistle to the Romans, Paul framed the same concern like this:
+      2. In the epistle to the Romans, Paul framed the same concern like this:
 
          > Do not conform any longer to the pattern of this world. (Rom. 12:2a)
 
    - c. Now, Now, consider the following example that comes from Singapore involving the wife of a megachurch pastor named Sun Ho. She is a singer and dancer with some following in Asia who attempted to break into the American music scene. It was done under the rubric of introducing “Jesus culture” to pop-culture.
 
-     1. But, looking at the music video featuring her and other scantily dressed women dancing and gyrating, one wonders whether this “of the world” or “in the world” (trying to glorify God).
+      1. But, looking at the music video featuring her and other scantily dressed women dancing and gyrating, one wonders whether this “of the world” or “in the world” (trying to glorify God).
 
-     2. Can you tell her apart from others?
+      2. Can you tell her apart from others?
 
-     3. I am not saying that Christians shouldn’t be an artist but I do wonder whether there are some limits as to what we can do in the name of pop-culture? A stripper who undressed before lusty men to glorify God immediately comes to mind.
+      3. I am not saying that Christians shouldn’t be an artist but I do wonder whether there are some limits as to what we can do in the name of pop-culture? A stripper who undressed before lusty men to glorify God immediately comes to mind.
 
 # III. Paul’s Stunning Appraisal of the Corinthians
 
@@ -184,9 +184,9 @@ Even so, it is what Paul said about this messed up Corinthian congregation that 
 
      > If you put your detestable idols out of my sight and no longer go astray, and if in a truthful, just and righteous way you swear, ‘As surely as the LORD lives,’ then the nations will invoke blessings by him and in him they will boast. (Jer. 4:1a-2)
 
-     1. This is to say, the Canaanite nations were not drawn to the God of Israel because the way the Israelites lived (even whom they worshiped) was indistinguishable from how they lived and whom they worshiped.
+      1. This is to say, the Canaanite nations were not drawn to the God of Israel because the way the Israelites lived (even whom they worshiped) was indistinguishable from how they lived and whom they worshiped.
 
-     2. In other words, the Canaanites did not see the Lord in Israel because of the absence of holiness in their midst.
+      2. In other words, the Canaanites did not see the Lord in Israel because of the absence of holiness in their midst.
 
 3. Ultimately, unsanctified believers are much like the salt that has lost its saltiness, unable to be used for anything. Thus, Jesus says:
 
@@ -213,9 +213,9 @@ Sanctification is absolutely needed to separate the believers, particularly rece
    - a. First, the thought flow of Romans is quite linear:
  Chapter 3—All have sinned; 4—Justification by faith; 5—Subsequent peace with God; 6—Now living for God; 7—Back to pre-conversion days?
 
-     1. No, it is more likely that in Chapters 7 and 8, Paul delves into the struggles involved in the Christian life.
+      1. No, it is more likely that in Chapters 7 and 8, Paul delves into the struggles involved in the Christian life.
 
-     2. Whoever denies that true believers can struggle with sins is, in effect, countering what apostle John said in 1 John 1:8, 10 (ESV):
+      2. Whoever denies that true believers can struggle with sins is, in effect, countering what apostle John said in 1 John 1:8, 10 (ESV):
 
          > If we say we have no sin, we deceive ourselves, and the truth is not in us…. 10 If we say we have not sinned, we make him a liar, and his word is not in us.
 

@@ -35,11 +35,11 @@ According to them, “they failed to apprehend the underlying problem that Paul 
 
    - b. Instead, the works of the laws are things that divide Jews from Gentiles.
 
-     1. Specifically, in the context of this passage (and we have no right to read Galatians 2:16 other than in the context of verses 11-15), the “works of the law” refer to the fact that “Jews do not eat with Gentiles.”
+      1. Specifically, in the context of this passage (and we have no right to read Galatians 2:16 other than in the context of verses 11-15), the “works of the law” refer to the fact that “Jews do not eat with Gentiles.”
 
-        Wright: “They are not, in other words, the moral ‘good works’ which the Reformation tradition loves to hate.”
+         Wright: “They are not, in other words, the moral ‘good works’ which the Reformation tradition loves to hate.”
 
-     2. “What one might gain by such ‘works of the law’ is not a treasury of moral merit, but the assured status of belonging to God’s people, separated from the rest of humankind.”
+      2. “What one might gain by such ‘works of the law’ is not a treasury of moral merit, but the assured status of belonging to God’s people, separated from the rest of humankind.”
 
 3. How is the view of justification advanced by the NP different from the traditional view?
 
@@ -137,11 +137,11 @@ In what sense is today’s church doing the same as what the 1st century Jewish 
 
    - a. “The question is about the means of salvation, how it is accomplished. [The Reformed theology] has said that salvation is accomplished by the sovereign grace of God, operating through the death of Jesus Christ in our place and on our behalf, and appropriated through faith alone.”
 
-     “Absolutely. I agree a hundred per cent…. But there is something missing—or rather, someone missing. Where is the Holy Spirit?”18
+      “Absolutely. I agree a hundred per cent…. But there is something missing—or rather, someone missing. Where is the Holy Spirit?”18
 
    - b. “In some of the great Reformed theologians, not least John Calvin himself, the work of the spirit is every bit as important as the work of the son.
 
-     But you can’t simply add the spirit on at the end of the equation and hope it will still have the same shape. Part of my plea in this book is for the spirit’s work to be taken seriously.”19
+      But you can’t simply add the spirit on at the end of the equation and hope it will still have the same shape. Part of my plea in this book is for the spirit’s work to be taken seriously.”19
 
 ## D. Evaluation of “The New Perspective”
 
@@ -149,13 +149,13 @@ In what sense is today’s church doing the same as what the 1st century Jewish 
 
   - a. “Documents from around the time of Paul state that some Jews believed obedience to the law was rewarded on the final day with salvation:
 
-    “The one who does righteousness stores up life for himself with the Lord” (Psalms of Solomon, c. 50 B.C.). “Miracles, however, will appear at their own time to those who are saved by their works” (2 Baruch, c. A.D. 100).
+     “The one who does righteousness stores up life for himself with the Lord” (Psalms of Solomon, c. 50 B.C.). “Miracles, however, will appear at their own time to those who are saved by their works” (2 Baruch, c. A.D. 100).
 
   - b. What does this mean?
 
-    1. “Paul’s understanding of justification makes sense, then, as a criticism of the observance of the law as a whole (not just circumcision, Sabbath observance, and food laws) as the means to eternal life.”21
+      1. “Paul’s understanding of justification makes sense, then, as a criticism of the observance of the law as a whole (not just circumcision, Sabbath observance, and food laws) as the means to eternal life.”21
 
-    2. In this sense, the New Perspective is incorrect.
+      2. In this sense, the New Perspective is incorrect.
 
 2. However, it is quite true that Jewish Christians were very reluctant to eliminate all aspects of Judaism from the new faith.
 
@@ -171,17 +171,17 @@ In what sense is today’s church doing the same as what the 1st century Jewish 
 
      > Then the Lord said to me, ‘Go; I will send you far away to the Gentiles’ (22:21).
 
-     1. How was this statement received by the Jewish crowd? Not well. “The crowd listened to Paul until he said this. Then they raised their voices and shouted, ‘Rid the earth of him! He’s not fit to live!’” (Acts 22:22).
+      1. How was this statement received by the Jewish crowd? Not well. “The crowd listened to Paul until he said this. Then they raised their voices and shouted, ‘Rid the earth of him! He’s not fit to live!’” (Acts 22:22).
 
-     2. Why were they upset? They could not tolerate the idea that their God wanted to share His blessing with the Gentiles.
+      2. Why were they upset? They could not tolerate the idea that their God wanted to share His blessing with the Gentiles.
 
    - c. And this is the struggle many Jewish Christians carried into their new faith, not always successful in handling it. The result of this type of theology in the Church would have kept the Gentiles out of the NT covenant! Paul would have none of it!
 
    - d. Thus, Paul had to address both issues at the same time:
 
-    1. Ethnocentrism of the Jews that kept the Gentiles from the church
+      1. Ethnocentrism of the Jews that kept the Gentiles from the church
 
-    2. Theology of salvation by works that kept the sinners—both Jews and Gentiles— from being made righteous by God through Christ (Rom. 5:1).
+      2. Theology of salvation by works that kept the sinners—both Jews and Gentiles— from being made righteous by God through Christ (Rom. 5:1).
 
    **Discussion**: In what sense is today’s church doing the same as what the 1st century Jewish Christians that kept the nations from receiving God’s blessing in Christ?
 

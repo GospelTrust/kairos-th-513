@@ -59,11 +59,11 @@ This Dutch theologian broke away from Calvinism because he felt that predestinat
 
    - a. In Calvinism, God’s electing grace is based on his unilateral decree (Eph. 1:11) that prompts a response of faith among the chosen and their turning to God;
 
-     1 Peter 1:2, however, seems to back Arminius’ view: “To God’s elect . . .  who have been chosen according to the foreknowledge of God.”
+      1 Peter 1:2, however, seems to back Arminius’ view: “To God’s elect . . .  who have been chosen according to the foreknowledge of God.”
 
-     1. The word “foreknowledge” derives from a compound Greek word of pro (in front of) and gnosis (knowledge).
+      1. The word “foreknowledge” derives from a compound Greek word of pro (in front of) and gnosis (knowledge).
 
-     2. Its implication:
+      2. Its implication:
 
         God, “foreseeing [men’s] potential faith and the fact that they would turn to Him when they heard the gospel,” sealed their response with election.”
 

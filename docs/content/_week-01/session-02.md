@@ -127,9 +127,9 @@ The devil, in tempting Jesus following his 40-day fast, made an extraordinary cl
 
    - b. What did this mean for Adam’s descendants? Not only was Adam’s unrighteousness imputed on them, but his slavery to the devil as well.
 
-     1. Thus, Paul states, “Formerly, when you did not know God, you were slaves to those who by nature are not gods” (Gal. 4:8)
+      1. Thus, Paul states, “Formerly, when you did not know God, you were slaves to those who by nature are not gods” (Gal. 4:8)
 
-     2. Once the devil began to reign on earth as its prince and god, he was in a position to exact the “power of death” over them, who, therefore, “all their lives were held in slavery by their fear of death” (Heb. 2:14).
+      2. Once the devil began to reign on earth as its prince and god, he was in a position to exact the “power of death” over them, who, therefore, “all their lives were held in slavery by their fear of death” (Heb. 2:14).
 
    So, what was lost at the Fall?
 
@@ -324,9 +324,9 @@ This is to ask, “Can our capacity to perform the works of civil virtue, sense 
 
    Effects of the Fall:
 
-    - a. Human observations and thoughts often get distorted because of the corrupt heart (nature of man).
+   - a. Human observations and thoughts often get distorted because of the corrupt heart (nature of man).
 
-    - b. The conscience works but not as well; it’s like a broken clock that tells the right time—twice a day.
+   - b. The conscience works but not as well; it’s like a broken clock that tells the right time—twice a day.
 
 ## B. Is there hope?
 

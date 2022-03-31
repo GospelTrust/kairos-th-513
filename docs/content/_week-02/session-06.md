@@ -31,14 +31,13 @@ God, in disclosing His revelations to man, didn’t reveal them all at once, mai
 
      > And I will put enmity between you and the woman, and between your offspring and hers; he will crush your head, and you will strike his heel.
 
-    1. This is called the proto-gospel because it outlines metaphorically how Christ is going to defeat the devil (which is clearly explained in Hebrews 2:14-5 ).
+      1. This is called the proto-gospel because it outlines metaphorically how Christ is going to defeat the devil (which is clearly explained in Hebrews 2:14-5 ).
 
-    2. The devil will injure Christ through crucifixion, but Christ will destroy the devil through resurrection.
+      2. The devil will injure Christ through crucifixion, but Christ will destroy the devil through resurrection.
 
 ## B. How should the NT, then, be understood?
 
-The NT is spiritual revelation that contains
-the reality, substance and fulfillment of the revelations in the OT in general and the Old
+The NT is spiritual revelation that contains the reality, substance and fulfillment of the revelations in the OT in general and the Old
 Covenant forms (which are redemptive in intent) in particular.
 
 OT | NT
@@ -84,9 +83,9 @@ It is only when the OT covenants are examined through the reality of the New Cov
 
    - a. Redemptive meaning in shadow.
 
-    1. It is going to take the shedding of the blood of the only son to redeem sinners.
+      1. It is going to take the shedding of the blood of the only son to redeem sinners.
 
-    2. The redemptive sacrifice will involve a substitutionary death. “Abraham answered, ‘God himself will provide the lamb for the burnt offering, my son.’ And the two of them went on together” (Gn. 22:8).
+      2. The redemptive sacrifice will involve a substitutionary death. “Abraham answered, ‘God himself will provide the lamb for the burnt offering, my son.’ And the two of them went on together” (Gn. 22:8).
 
    - b. It foreshadowed another key qualification of the one who will be sacrificed to redeem the lost:
 
@@ -139,12 +138,13 @@ While God’s redemptive work was laid out in shadowy forms in the OT, its actua
 
 ## A. The redemptive narrative of Hosea (the 8th century BC prophet)
 
-   1. First, God had Hosea marry an immoral woman named Gomer.
+1. First, God had Hosea marry an immoral woman named Gomer.
 
-      > When the LORD began to speak through Hosea, the LORD said to him, ‘Go, marry a promiscuous woman and have children with her, for like an adulterous wife this land is guilty of unfaithfulness to the LORD’” (Hos. 1:2).
+   > When the LORD began to speak through Hosea, the LORD said to him, ‘Go, marry a promiscuous woman and have children with her, for like an adulterous wife this land is guilty of unfaithfulness to the LORD’ (Hos. 1:2).
 
 2. At some point during their marriage, Gomer, after committing adultery, left Hosea to be with her lover, who then used her as a prostitute (2:12).
- “Their mother has been unfaithful and has conceived them in disgrace. She said, ‘I will go after my lovers, who give me my food and my water, my wool and my linen, my olive oil and my drink’” (2:5).
+
+   > Their mother has been unfaithful and has conceived them in disgrace. She said, ‘I will go after my lovers, who give me my food and my water, my wool and my linen, my olive oil and my drink’ (2:5).
 
 3. God then told Hosea to bring her back home so that she could be with him again; but first, he had to pay her lover “ransom money” in order to secure her freedom.
 
@@ -160,7 +160,7 @@ While God’s redemptive work was laid out in shadowy forms in the OT, its actua
 
    - b. Having to pay the ransom money:
 
-     15 shekels of silver (about $200) that was owed to the pimp
+      15 shekels of silver (about $200) that was owed to the pimp
 
 2. What did this mean to the Israelites?
 
@@ -168,17 +168,18 @@ While God’s redemptive work was laid out in shadowy forms in the OT, its actua
 
    He said, “I will plant her for myself in the land; I will show my love to the one I called ‘Not my loved one.’ I will say to those called ‘Not my people,’ ‘You are my people’; and they will say, ‘You are my God’” (2:23).
 
-3. Later, in Paul’s epistle to the church in Rome (a mixture of Gentiles and Jews), this promise, apparently given to Israel (i.e., the natural children of Abraham), is applied to the Church (a.k.a., the “true Israel” or true offspring of Abraham ).
- Rom. 9:24-6 (NASB): Even us, whom he also called, not only from the Jews but also from the Gentiles? 25 As he says in Hosea: “I will call them ‘my people’ who are not my people; and I will call her ‘my loved one’ who is not my loved one,” 26 and, “In the very place where it was said to them,
- ‘You are not my people,’ there they will be called ‘children of the living God.’”
+3. Later, in Paul’s epistle to the church in Rome (a mixture of Gentiles and Jews), this promise, apparently given to Israel (i.e., the natural children of Abraham), is applied to the Church (a.k.a., the “true Israel” or true offspring of Abraham).
+
+   `Rom. 9:24-6` (NASB):
+   > Even us, whom he also called, not only from the Jews but also from the Gentiles? 25 As he says in Hosea: “I will call them ‘my people’ who are not my people; and I will call her ‘my loved one’ who is not my loved one,” 26 and, “In the very place where it was said to them, ‘You are not my people,’ there they will be called ‘children of the living God.’”
 
    - a. In Hosea, it appears (in shadows) as if God was only concerned about the nation of Israel, that is, the natural children of Israel.
 
    - b. That’s because no one knew whom Gomer was representing.
 
-    1. Before her husband redeemed her, she was representing the Gentile sinners.
+      1. Before her husband redeemed her, she was representing the Gentile sinners.
 
-    2. After Hosea redeemed Gomer, she was representing all the redeemed in Christ, that is, the Church made up of both the Jews and Gentiles.
+      2. After Hosea redeemed Gomer, she was representing all the redeemed in Christ, that is, the Church made up of both the Jews and Gentiles.
 
 ## C. What this meant
 
@@ -188,7 +189,7 @@ While God’s redemptive work was laid out in shadowy forms in the OT, its actua
 
 3. In this way, the meaning of redemption in the NT becomes Christological:
 
-    Deliverance from sin through the incarnation, sufferings, and death of Christ
+   Deliverance from sin through the incarnation, sufferings, and death of Christ
 
 {% include youtube.html id='LasEdfZKUSM' %}
 
@@ -239,8 +240,11 @@ It is often said that Jesus came to die on the cross because of his love for the
    Matt. 12:29: “Or again, how can anyone enter a strong man’s house and carry off his possessions unless he first ties up the strong man? Then he can plunder his house.”
 
    - a. The strong man is the devil.
+
    - b. The strongman’s possessions refer to sinners under slavery to the devil.
+
    - c. The plunderer is Jesus.
+
    - d. Tying up the strong man refers to crucifixion and resurrection of Christ, which “destroy[ed the devil] who holds the power of death” (Heb. 2:15).
 
 5. With respect to the power of sin that still lives in us (Gal. 5:17; Rom. 7:17), Christ continues to work through the Holy Spirit to free the believers from their daily struggles with “sin living in them.”
@@ -265,9 +269,9 @@ How was Christ’s death and resurrection able to release sinners from the power
 
    - a. With respect to CO-signing a loan, if the borrower declares insolvency, then, the CO-signer is liable for the unpaid loan.
 
-   - b. In a similar vein, “God made [Christ] who
- had no sin to be sin for us (1 Cor. 5:21).
- This means that Jesus took our sins, and while doing so, he assumed the penalty of those sins; it was now his responsibility to pay.
+   - b. In a similar vein, “God made [Christ] who had no sin to be sin for us (1 Cor. 5:21).
+
+     This means that Jesus took our sins, and while doing so, he assumed the penalty of those sins; it was now his responsibility to pay.
 
    - c. In this way, Christ was able to bear “our sins in his body on the tree” (1 Pet 2:24a); that is, he became the Lamb of God, who takes away the sin of the world! (Jn. 1:29).
 
@@ -276,6 +280,7 @@ How was Christ’s death and resurrection able to release sinners from the power
 The two main ways to understand what really went on when Christ died on the cross:
 
 - First: Paying the ransom owed to the devil
+
 - Second: Meeting the righteous requirement of God.
 
 ## A. The ransom paid
@@ -297,12 +302,12 @@ The two main ways to understand what really went on when Christ died on the cros
 
    - b. “Consequently, to neutralize Satan’s claim a ransom had to be paid in the form of a valuable person over whom Satan had no right—a sinless man.
 
-   Thus the devil was tricked when Christ was crucified, because the Son of God was sinless; now God can with justice save whomsoever he please.”7
+     Thus the devil was tricked when Christ was crucified, because the Son of God was sinless; now God can with justice save whomsoever he please.”7
 
 
 3. However, this view should not be understood as if the devil forced God’s hand because only when Jesus voluntarily took upon himself the sins of the world, was the devil then able to slay him. Jesus says,
 
-  > The reason my Father loves me is that I lay down my life—only to take it up again. 18 No one takes it from me, but I lay it down of my own accord.  I have authority to lay it down and authority to take it up again. This command I received from my Father” (Jn. 10:17-8).
+   > The reason my Father loves me is that I lay down my life—only to take it up again. 18 No one takes it from me, but I lay it down of my own accord.  I have authority to lay it down and authority to take it up again. This command I received from my Father” (Jn. 10:17-8).
 
 {% include youtube.html id='qIUiESoI7wI' %}
 

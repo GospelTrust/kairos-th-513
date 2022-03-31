@@ -101,7 +101,7 @@ This is something that Peter, Paul, and James all agree on.
 
 1. The apostle Peter writes:
 
-  > “Though now for a little while you may have had to suffer grief in all kinds of trials. These have come so that your faith--of greater worth than gold, which perishes even though refined by fire--may be proved genuine and may result in praise, glory and honor when Jesus Christ is revealed …for you are receiving the goal of your faith, the salvation of your souls. (1 Pet. 1:6-9)
+   > “Though now for a little while you may have had to suffer grief in all kinds of trials. These have come so that your faith--of greater worth than gold, which perishes even though refined by fire--may be proved genuine and may result in praise, glory and honor when Jesus Christ is revealed …for you are receiving the goal of your faith, the salvation of your souls. (1 Pet. 1:6-9)
 
    - a. “You are receiving the goal of your faith, the salvation of your soul” refers to salvation present, that is, sanctification (i.e., working out your salvation in the present).
 

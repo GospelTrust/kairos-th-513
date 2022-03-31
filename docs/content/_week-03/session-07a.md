@@ -29,7 +29,7 @@ The most important aspect of the Lamb that was slain is that through it an adequ
 
      The apostles Peter, Paul and John, then, projected that imagery unto Christ, making him “a lamb without blemish or defect” (1 Pet. 1:19b), whose “precious blood” (1 Pet. 1:19a ) “save[s sinners] “from God’s wrath” (Rom. 5:9).
 
-     1 Thess. 5:9:
+      1 Thess. 5:9:
      > For God did not appoint us to suffer wrath but to receive salvation through our Lord Jesus Christ.
 
      Rom. 5:9:
@@ -47,9 +47,9 @@ The most important aspect of the Lamb that was slain is that through it an adequ
 
    - c. Then, he considered the opposite case of leaving the sin unpunished.
 
-     1. “Let us consider whether God could properly [cancel] sin by mercy alone without satisfaction. So to [cancel] sin would be simply to abstain from punishing it. And since only possible way of correcting sin, for which no satisfaction has been made, is to punish; not to punish it, is to [cancel] it uncorrected.”
+      1. “Let us consider whether God could properly [cancel] sin by mercy alone without satisfaction. So to [cancel] sin would be simply to abstain from punishing it. And since only possible way of correcting sin, for which no satisfaction has been made, is to punish; not to punish it, is to [cancel] it uncorrected.”
 
-     2. “To [cancel] unpunished sin would be treating the sinful and the sinless alike which would be incongruous to God’s nature.” (Colin Brown in Dowley, p. 276)
+      2. “To [cancel] unpunished sin would be treating the sinful and the sinless alike which would be incongruous to God’s nature.” (Colin Brown in Dowley, p. 276)
 
         In modern churches where sin is treated as a disease or a by-product of bad environment, and Jesus portrayed as a personal trainer whose job is to empower us to get the most out of life, this is indeed a sobering thought.
 
@@ -125,25 +125,25 @@ In light of our study on regeneration, justification and redemption, the logical
 
    - a. -> Which leads to contrition (“I am sorry for my sins.”)
 
-     1. Peter said before Jesus:
+      1. Peter said before Jesus:
 
         > Go away from me, Lord; I am a sinful man!. (Lk. 5:8b)
 
-     2. Isaiah said before God:
+      2. Isaiah said before God:
 
         > Woe to me…. I am ruined! For I am a man of unclean lips. (Is. 6:5)
 
    - b. -> Which then leads to repentance (turning from sin)
 
-     1. Inward: this refers to having the desire, intent, will and attitude to turn from sin.
+      1. Inward: this refers to having the desire, intent, will and attitude to turn from sin.
 
-     2. Outward: this does not necessarily mean that this person will turn from all his actual sins right away.
+      2. Outward: this does not necessarily mean that this person will turn from all his actual sins right away.
 
    - c. Having been made alive by God, sinners are now able to recognize the following:
 
-     1. They are “a prisoner of sin” (Gal. 3:22).
+      1. They are “a prisoner of sin” (Gal. 3:22).
 
-     2. They are unable to rescue themselves.
+      2. They are unable to rescue themselves.
 
 3. Reception of faith.
 
