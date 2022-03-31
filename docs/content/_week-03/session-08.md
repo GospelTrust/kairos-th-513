@@ -20,7 +20,7 @@ layout: lesson
 
 1. What Paul firmly establishes here.
 
-   Confirms the fact of unconditional election by stating “that in all Israel’s history the process of selection and election has gone on . . ., stress[ing] the fact that this election was based not on any merit of the person elected but on nothing else than the will of God Himself.”1
+   Confirms the fact of unconditional election by stating “that in all Israel’s history the process of selection and election has gone on…, stress[ing] the fact that this election was based not on any merit of the person elected but on nothing else than the will of God Himself.”1
 
 2. What the objector to God’s unconditional election may say.
 
@@ -238,7 +238,7 @@ We need the theology of “both/and” with respect to the matter of predestinat
 
      What’s he saying: 1 John 2:2 (holou tou cosomou) should be read:
 
-     > He Himself is the propitiation for the sins of . . .the parts of the world.
+     > He Himself is the propitiation for the sins of…the parts of the world.
 
       1. In view of the fact that the word “cosmos” (world) is used 17 times in 1 John, is he willing to interpret that word found in other verses in the same manner?
 

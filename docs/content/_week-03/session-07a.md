@@ -167,7 +167,7 @@ In light of our study on regeneration, justification and redemption, the logical
    A judicial act in which God the judge officially pronounces the sinners to be righteous. This official acquittal means that the devil no longer has any legal claims on us.
 
    `Rom. 5:1a`:
-   > Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ, . . .
+   > Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ,…
 
    `Rom. 8:1`:
    > Therefore there is now no condemnation for those who are in Christ Jesus.” John 8:36: “So if the Son makes you free, you will be free indeed.

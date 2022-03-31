@@ -81,7 +81,7 @@ In order for sinners to believe Jesus for salvation, thereby being united with G
 
    The apostle Paul makes this point abundantly clear, declaring:
 
-   > “And you were dead in the trespasses and sins . . .” (Eph. 2:1).
+   > “And you were dead in the trespasses and sins…” (Eph. 2:1).
 
    > “…God, who is rich in mercy, made us alive with Christ even when we were dead in transgressions—it is by grace you have been saved (Eph. 2:4-5).
 

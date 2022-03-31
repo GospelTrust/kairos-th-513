@@ -126,7 +126,7 @@ The apostle Paul, in reference to the OT regulations, including the dietary laws
 
 (3) Then comes the sacrifice Noah makes after coming out of the ark following the flood—a God’s curse on the sinful mankind.
 
- “Then Noah built an altar to the LORD and took some of every clean animal and some of every clean bird and offered burnt offerings on the altar. 21 And when the LORD smelled the pleasing aroma, the LORD said in his heart, ‘I will never again curse the ground because of man . . .’” (Gn. 8:20-21a).
+ “Then Noah built an altar to the LORD and took some of every clean animal and some of every clean bird and offered burnt offerings on the altar. 21 And when the LORD smelled the pleasing aroma, the LORD said in his heart, ‘I will never again curse the ground because of man…’” (Gn. 8:20-21a).
 
 (a) Ostensibly, the cleanliness of the animals sacrificed suggests, as a type, the sinlessness of the Messiah.
 
@@ -264,7 +264,7 @@ A. Believing in the biblical Jesus matters because:
 
 a. The Mormon’s view of Christ:
 
-(1) “Jesus and Lucifer were a spirit brother prior to his incarnation. Lucifer became jealous of Christ …fell from heaven. So Christ was appointed by Gods to become the redeemer of the race . . .”
+(1) “Jesus and Lucifer were a spirit brother prior to his incarnation. Lucifer became jealous of Christ …fell from heaven. So Christ was appointed by Gods to become the redeemer of the race…”
 
 (2) “[Jesus] celebrated his own marriage to both 'the Mary and Martha, whereby he
  could see his seed before he was crucified'" (“Journal of Discourses,” Vol. 4, 259-
@@ -645,13 +645,13 @@ b. In the final analysis, Apollinaris “denied the integrity of the complete hu
 
 3. Consider what Gregory of Nazianzus, Archbishop of Constantinople (380-381), declared regarding the dual nature of Christ:
 
- “Do not let men deceive themselves and others by saying that . . .
+ “Do not let men deceive themselves and others by saying that…
  ‘Our Lord and God,’ is without a human mind.
 
- We do not separate the Man from Deity, no, we assert the dogma of the unity and identity of the Person, who aforetime was not man but God, the only Son before all ages, who in these last days assumed manhood also for our salvation . . .
+ We do not separate the Man from Deity, no, we assert the dogma of the unity and identity of the Person, who aforetime was not man but God, the only Son before all ages, who in these last days assumed manhood also for our salvation…
 
  at once earthly and heavenly, tangible and intangible, comprehensible and
- incomprehensible; that by one and the same person, perfect man and perfect God . . .”
+ incomprehensible; that by one and the same person, perfect man and perfect God…”
 
  “If any assert that he was …accounted worthy of sonship by adoption [against the Ebionites] …If any say that his flesh came down from heaven and is not from hence [against Docetism and Gnosticism], but is above us, not of us …(let him be anathema).”
 
@@ -681,9 +681,9 @@ b. The union of two persons in a matrimony is fitting to explain the mystery of 
 
  “If any one does not acknowledge that the Word [Jesus] which is from God the Father was personally united with flesh, and with his own flesh is one Christ, that is, one and the same God and man together, let him be anathema” (cursed).
 
- “If any one, in the one Christ, divides the persons after their union, conjoining them with a mere conjunction in accordance with worth . . ., instead of a combination according to a union of nature, let him be anathema.”
+ “If any one, in the one Christ, divides the persons after their union, conjoining them with a mere conjunction in accordance with worth…, instead of a combination according to a union of nature, let him be anathema.”
 
- “If any one presumes to call Christ a ‘God-bearing man’ . . ., let him be anathema.”
+ “If any one presumes to call Christ a ‘God-bearing man’…, let him be anathema.”
 
  Discussion5: Some may feel like this type of theological discussion is splitting hairs. What difference does it make whether Jesus is one person or two? Does it make a difference? Can a different Jesus save (2 Cor. 11:4)?
 
@@ -712,7 +712,7 @@ It is important to note that the term “hypostatic union” was used to describ
 
 1. What Leo declared:
 
- “Thus there was born true God in the entire and perfect nature of true man, complete in its own properties …He assumed the form of a servant without the stain of sin, making the human properties greater, but not detracting from the divine . . .
+ “Thus there was born true God in the entire and perfect nature of true man, complete in its own properties …He assumed the form of a servant without the stain of sin, making the human properties greater, but not detracting from the divine…
 
 Accordingly, he who made man, while he remained in the form of God, was himself made man in the form of a servant. Each nature preserves its own characteristics without diminution, so that the form of a servant does not detract from the form of God” (Bettenson, 50).
 
@@ -734,9 +734,9 @@ Discussion6: How does our recognition of Jesus as a fully human and fully divine
 
  Teabing, British royal historian in the novel, says:
 
- “‘Jesus’ establishment as the Son of God was officially proposed and voted on by the Council of Nicaea …a relatively close vote at that. By officially endorsing Jesus as the Son of God, Constantine turned Jesus into a deity who existed beyond the scope of the human world, an entity whose power was unchallengeable . . .
+ “‘Jesus’ establishment as the Son of God was officially proposed and voted on by the Council of Nicaea …a relatively close vote at that. By officially endorsing Jesus as the Son of God, Constantine turned Jesus into a deity who existed beyond the scope of the human world, an entity whose power was unchallengeable…
 
- It was all about power. Christ the Messiah was critical to the functioning of church and state. Many scholars claim that the early church literally stole Jesus from his original followers, hijacking his human message, shrouding it in an impenetrable cloak of divinity, and using it to expand their own power . . .
+ It was all about power. Christ the Messiah was critical to the functioning of church and state. Many scholars claim that the early church literally stole Jesus from his original followers, hijacking his human message, shrouding it in an impenetrable cloak of divinity, and using it to expand their own power…
 
  Until that moment in history, Jesus was viewed by his followers as a mortal prophet …a great and powerful man, but a man nonetheless. A mortal” (233).
 
@@ -801,7 +801,7 @@ a. The Christology of Schweitzer
 
  Recall what we read earlier from The Da Vinci Code:
 
- “Many scholars claim that the early church literally stole Jesus from the his original followers, hijacking his human message, shrouding it in an impenetrable cloak of divinity, and using it to expand their own power . . .”
+ “Many scholars claim that the early church literally stole Jesus from the his original followers, hijacking his human message, shrouding it in an impenetrable cloak of divinity, and using it to expand their own power…”
 
 (1) So, any attempts by theological liberals to discover the historical Jesus always involve rejecting the stories of miracles Christ performed.
 
@@ -852,7 +852,7 @@ b. The Christology of Schweitzer according to Scripture
 
  To his earthly parents, relieved to finally find the boy Jesus who had stayed behind in Jerusalem, he says:
 
- “Why were you searching for me? . . .
+ “Why were you searching for me?…
  Don’t you know that I had to be my Father’s house?” (Lk. 2:49 NIV).
 
 (b) The historical Jesus, the real Jesus who walked the earth, therefore, is the God- Man who taught eternal truth, lived the sinless life of love and justice, performed miracles, and died, resurrected and ascended to heaven.
@@ -871,13 +871,13 @@ J. Conclusion regarding the dual identity of Jesus Christ
 
 1. He is 100 percent God and 100 percent man—Jesus Christ is God-Man!
 
- Romans 2:5: “For there is one God, and there is one mediator between God and men, the man Christ Jesus . . .”
+ Romans 2:5: “For there is one God, and there is one mediator between God and men, the man Christ Jesus…”
 
 2. Scriptures represent Jesus to have possessed a divine nature and a human nature, each unaltered in essence and undivested (i.e. unstripped) of its normal attributes and powers.
 
 3. Scriptures represent Jesus Christ as a single, undivided personality in whom His divine and human nature are vitally and inseparably united.
 
-4. “[Therefore] Jesus is properly, not God and Man but the God-Man . . .
+4. “[Therefore] Jesus is properly, not God and Man but the God-Man…
  one person with a single consciousness and will” (Strong, 684).
 
 
@@ -1003,7 +1003,7 @@ a. Long before John came on the scene, the essence of Logos, which Heraclitus, a
 
 (3) Moreover, he held that “nothing moved with aimless feet; in all life and in all the events of life there was a purpose, a plan and design. And what was it that controlled events? Once again, the answer was Logos.”
 
-(4) And it would take a special revelation given to the apostles John and Paul several centuries later for the world to see that this Logos was none other than Jesus by whom “all things were created, in heaven and on earth, visible and invisible . . .
+(4) And it would take a special revelation given to the apostles John and Paul several centuries later for the world to see that this Logos was none other than Jesus by whom “all things were created, in heaven and on earth, visible and invisible…
  and in him all things hold together” (Col 1:16a, 17b).
 
 (5) And this Logos existed in eternity past, for John 1:1 says in the Living Bible:
@@ -1044,7 +1044,7 @@ a. He tells the Philippians that Jesus was in the form of God before becoming a 
 
 b. Paul bolsters the case for the preexistence of Christ by telling the Colossians that Jesus already existed before anything else came into existence; in fact, he created everything.
 
- Col. 1:15-17a: “He is the image of the invisible God, the firstborn of all creation. 16 For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities—all things were created through him and for him. 17 And he is before all things . . .”
+ Col. 1:15-17a: “He is the image of the invisible God, the firstborn of all creation. 16 For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities—all things were created through him and for him. 17 And he is before all things…”
 However, the phrase, “firstborn” seems to suggest that Jesus, as the Jehovah’s
  Witnesses teach, is a created being—meaning, he did not exist before that event.
 
@@ -1311,7 +1311,7 @@ I. Definition
 
  The apostle John, now as an elderly man who had walked with the incarnate Word some fifty years earlier, writes:
 
- “That which was from the beginning, which we have heard, which we have seen with our eyes, which we looked upon and have touched with our hands, concerning the word of life— 2 the life was made manifest, and we have seen it, and testify to it and proclaim to you the eternal life, which was with the Father and was made manifest to us— 3 that which we have seen and heard we proclaim also to you . . .” (1 Jn. 1:1-3b).
+ “That which was from the beginning, which we have heard, which we have seen with our eyes, which we looked upon and have touched with our hands, concerning the word of life— 2 the life was made manifest, and we have seen it, and testify to it and proclaim to you the eternal life, which was with the Father and was made manifest to us— 3 that which we have seen and heard we proclaim also to you…” (1 Jn. 1:1-3b).
 
  What does this mean?
 
@@ -1333,9 +1333,9 @@ II. Various Aspects to the Incarnation Involving the Trinity
  Among several passages that testify of this fact, two stand out:
 
 • The apostle Peter declares to the Israelites in Jerusalem:
-“Being therefore a prophet, and knowing that God had sworn with an oath to him that he would set one of his descendants on his throne . . .” (Acts 2:30).
+“Being therefore a prophet, and knowing that God had sworn with an oath to him that he would set one of his descendants on his throne…” (Acts 2:30).
 
-• The apostle Paul adds: “For God has done what the law, weakened by the flesh, could not do. By sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh . . .” (Rom. 8:3).
+• The apostle Paul adds: “For God has done what the law, weakened by the flesh, could not do. By sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh…” (Rom. 8:3).
 
  The sovereignty of God is in the purview, for “every good gift and every perfect gift is from above, coming down from the Father of lights” (James 1:17a).
 
@@ -1467,7 +1467,7 @@ b. Mary’s line
  Discussion3. Matthew 5:18 says, “For truly, I say to you, until heaven and earth pass away, not an iota, not a dot, will pass from the Law until all is accomplished.” We just saw how God kept His words and promises through the miracle of the virgin birth. How have you experienced the faithfulness of God in your own life through promises kept by the Lord?
 
 3. The final question considered for this section regarding the genealogy of Jesus is why Jesus was sent at a certain time (about 2,000 years ago) instead of any other time?
-To that Paul says, “But when the fullness of time had come, God sent forth his Son, born of woman, born under the law . . .” (Gal. 4:4).
+To that Paul says, “But when the fullness of time had come, God sent forth his Son, born of woman, born under the law…” (Gal. 4:4).
 What constitutes “the fullness of time”? That is to ask, “Why was Jesus sent to earth at that particular time instead of some other moments in history?”
 a. It can be argued that—in view of the importance of messianic prophecies to verify the identity of those who claim to be the Messiah—the sending of Jesus to earth has to wait until the last messianic prophecy is given.
 
@@ -1698,7 +1698,7 @@ c. Before Matthew and Luke wrote about the virgin birth of Christ, the prophet I
  Heb. 2:14a: “Since the children have flesh and blood,
  he too shared in their humanity.”
 
- 2 Cor. 5:21a: “God made him who had no sin to be sin for us . . .”
+ 2 Cor. 5:21a: “God made him who had no sin to be sin for us…”
 
  Heb. 7:26b: “…one who is holy, blameless, pure, set apart from sinners, exalted above the heavens.”
 
@@ -1799,7 +1799,7 @@ a. Notice that based on the following passages, it appears that nothing really c
 (1) The reason “the Jews were seeking all the more to kill [Jesus was] …because …he was even calling God his own Father, making himself equal with God” (Jn. 5:18).
 
 (2) Jesus himself says, “I and the Father are one” (Jn. 10:30).
-(3) The apostle Paul agrees, saying, “For in [Jesus] the whole fullness of deity dwells bodily . . .” (Col. 2:9).
+(3) The apostle Paul agrees, saying, “For in [Jesus] the whole fullness of deity dwells bodily…” (Col. 2:9).
  These passages suggest that the Son and the Father are equal in every sense.
 b. But, if nothing changed after the incarnation, then how are
  we to understand what Jesus says in John 14:28:
@@ -1871,7 +1871,7 @@ form of God, did not count equality with God a thing to be grasped” (Phil. 2:6
 
 (2) That the divine nature of Jesus remained the same as that of the Father even after the incarnation is very clear when comparing “the Father is greater than I” (Jn. 14:28b) with Jesus is “made so much better [kreittōn] than the angels” of Hebrews 1:4b (KJV).
 
- “In the first chapter of Hebrews …the comparison made there between the Lord Jesus Christ and angels is clearly one of nature. The Greek kreittōn being a term descriptive of quality; Christ [like God the Father] was qualitatively better than the angels because he was their Creator (Col 1:16–17), and as such, he existed before all things . . .” (Martin and Klann 1981:163).
+ “In the first chapter of Hebrews …the comparison made there between the Lord Jesus Christ and angels is clearly one of nature. The Greek kreittōn being a term descriptive of quality; Christ [like God the Father] was qualitatively better than the angels because he was their Creator (Col 1:16–17), and as such, he existed before all things…” (Martin and Klann 1981:163).
 
 (a) But kreittōn is not used when saying “the Father is greater than the Son, as if the Father is qualitatively better and essentially superior than the Son.
 
@@ -2013,7 +2013,7 @@ c. The title that really underscores Christ’s humanity is “Son of Man.”
 
 (3) Finally, the title of Son of Man shows that Jesus is the long-awaited Messiah.
 
-(a) Around the sixth century BC, the prophet Daniel wrote: “I saw in the night visions, and behold, with the clouds of heaven there came one like a son of man, and he came to the Ancient of Days and was presented before him. And to him was given dominion and glory and a kingdom . . .” (Dan. 7:13-14a).
+(a) Around the sixth century BC, the prophet Daniel wrote: “I saw in the night visions, and behold, with the clouds of heaven there came one like a son of man, and he came to the Ancient of Days and was presented before him. And to him was given dominion and glory and a kingdom…” (Dan. 7:13-14a).
 
  Here, we see that a son of man is given a powerful and glorious kingdom.
 
@@ -2022,7 +2022,7 @@ c. The title that really underscores Christ’s humanity is “Son of Man.”
 B. Now, Jesus underwent all stages of human development without exception.
 1. First: Unlike Adam who began his life as an adult, Jesus was conceived in a woman’s womb and was born into this world as a baby.
  The baby Jesus partook of real flesh and blood.
-Heb. 2:14a: “Since therefore the children share in flesh and blood, he himself likewise partook of the same things . . .”
+Heb. 2:14a: “Since therefore the children share in flesh and blood, he himself likewise partook of the same things…”
 
 2. Second: He then proceeded to grow and mature in all aspects of human life.
 
@@ -2135,7 +2135,7 @@ a. Like every human being who ever lived, Jesus felt sad over a number of things
 
 (3) He wept for himself when he agonized over the upcoming crucifixion.
 
- The Hebrews writer states: “In the days of his flesh, Jesus offered up prayers and supplications, with loud cries and tears, to him who was able to save him from death . . .” (Heb. 5:7a).
+ The Hebrews writer states: “In the days of his flesh, Jesus offered up prayers and supplications, with loud cries and tears, to him who was able to save him from death…” (Heb. 5:7a).
 
 b. At the opposite end of the spectrum from sadness, he felt righteous anger when seeing injustice.
 
@@ -2169,7 +2169,7 @@ e. As a teacher of God’s word, Jesus felt frustrated when his pupils showed th
 
 a. Before proceeding, it is important to note two things:
 (1) Jesus was tempted in his humanity but not in his divinity.
-This assertation is based on James 1:13a that says, “Let no one say when he is tempted, ‘I am being tempted by God,’ for God cannot be tempted with evil . . .” (a) Thus, the temptations that Jesus faced on earth could not have been experienced in his divinity but only in his humanity.
+This assertation is based on James 1:13a that says, “Let no one say when he is tempted, ‘I am being tempted by God,’ for God cannot be tempted with evil…” (a) Thus, the temptations that Jesus faced on earth could not have been experienced in his divinity but only in his humanity.
 
  How the two natures of Christ worked out in this fashion with respect to being tempted remains as a mystery to our finite mind.
 
@@ -2426,7 +2426,7 @@ C. What then is the requirement for the ultimate prophet who perfectly embodies,
  But, as long as he stays “at the Father’s side” (Jn. 1:18b), thereby not be in the world, he cannot assume the role of the ultimate prophet, priest and king here on earth.
 3. But, because Jesus is incarnated, becoming a sinless God-Man through the virgin birth, he is able and has become the ultimate prophet, priest and king on earth.
 
- Discussion1: The apostle Paul says that the believers are “a letter from Christ . . ., written not with ink but with Spirit of the living God …read by everybody” (2 Cor. 3:3a, 2b). In view of that, what similarity exists between how Jesus revealed the Father to the world and how we ought to do it? When the world reads you, what message is being imparted to them?
+ Discussion1: The apostle Paul says that the believers are “a letter from Christ…, written not with ink but with Spirit of the living God …read by everybody” (2 Cor. 3:3a, 2b). In view of that, what similarity exists between how Jesus revealed the Father to the world and how we ought to do it? When the world reads you, what message is being imparted to them?
 
 
  II. Only a God-Man Can Do What Jesus Set out to Accomplish as the Ultimate High Priest
@@ -2453,7 +2453,7 @@ a. First, Jesus is God, meaning he is sinless.
 
 b. Second, Jesus, therefore, can be at the Father’s side to hear His voice, unlike sinners who cannot.
 
- Jesus says, “And the Father who sent me has himself borne witness about me. His voice you have never heard, his form you have never seen . . .” (Jn. 5:37).
+ Jesus says, “And the Father who sent me has himself borne witness about me. His voice you have never heard, his form you have never seen…” (Jn. 5:37).
 
  On the contrary, Jesus, the Son of God, has heard from and seen the Father.
 
@@ -2472,7 +2472,7 @@ a. But, the priests in the Aaronic priesthood have three major weaknesses.
 
 (1) First, “death prevented them from continuing in the office” (Heb. 7:23b).
 
-(2) Second, because the high priests are also sinners, they “need to offer sacrifices . . .
+(2) Second, because the high priests are also sinners, they “need to offer sacrifices…
  first for his own sins, and then for the sins of the people” (Heb. 7:27).
 
 (3) Third, their animal “sacrifices are an annual reminder of sins, because it is impossible for the blood of bulls and goats to take away sins” (Heb. 10:4).

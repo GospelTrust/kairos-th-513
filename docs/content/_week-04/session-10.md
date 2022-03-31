@@ -33,11 +33,11 @@ Standing refers to our legal position with Christ in the heavenlies—that is, o
 
    It is as if the sanctified individual had never sinned, just like the sinless Christ.
 
-   - a. It is not something achieved or attained by effort; rather, it is received as a gift from God as a result of faith in Christ. Paul, while explaining his conversion to King Agrippa, says, “Those who are sanctified by faith in [Christ] . . .” (Acts 26:18).
+   - a. It is not something achieved or attained by effort; rather, it is received as a gift from God as a result of faith in Christ. Paul, while explaining his conversion to King Agrippa, says, “Those who are sanctified by faith in [Christ]…” (Acts 26:18).
 
    - b. When Jude says that God is able to “present us before his glorious presence without fault” (1:26), he wasn’t thinking about an actual state obtained by believers through their perfect moral and spiritual life, but how God will choose to see them in Christ.
 
-3. Therefore, salvation past refers to the fact that the believers have been declared righteous once and for all in a positional and ontological sense, “since [God] has rescued us from the dominion of darkness and brought us into the kingdom of the Son . . .” (Col. 1:13-14b).
+3. Therefore, salvation past refers to the fact that the believers have been declared righteous once and for all in a positional and ontological sense, “since [God] has rescued us from the dominion of darkness and brought us into the kingdom of the Son…” (Col. 1:13-14b).
 
 ## B. Moving from one kingdom to another
 
@@ -78,7 +78,7 @@ A young believer with a delicate conscience, after sinning, may feel like God ha
 3. In Paul’s letter to the Philippians, he reminded them of what they already have in the heavenlies.
 
    `Eph. 1:18-20`:
-   > I pray that the eyes of your heart may be enlightened in order that you may know the hope to which he has called you, the riches of his glorious inheritance in his holy people, 19 and his incomparably great power for us who believe. That power is the same as the mighty strength 20 he exerted when he raised Christ from the dead and seated him at his right hand in the heavenly realms,. . .
+   > I pray that the eyes of your heart may be enlightened in order that you may know the hope to which he has called you, the riches of his glorious inheritance in his holy people, 19 and his incomparably great power for us who believe. That power is the same as the mighty strength 20 he exerted when he raised Christ from the dead and seated him at his right hand in the heavenly realms,…
 
    According to this, the believers already have the following things in the heavenly realms regardless of whether they are presently struggling with sins or not.
 
@@ -110,7 +110,7 @@ This is an issue that Jesus, Paul and Peter all address.
 
    > You have forsaken your first love. Remember the height from which you have fallen!. (Rev. 2:4a-5)
 
-2. Apostle Paul, regarding Demas who was serving with him as late as A.D. 60 (Col. 4:14), says in his second epistle to Timothy, written in 64, “Because he loved this world, has deserted me . . .”
+2. Apostle Paul, regarding Demas who was serving with him as late as A.D. 60 (Col. 4:14), says in his second epistle to Timothy, written in 64, “Because he loved this world, has deserted me…”
 
 3. Apostle Peter reminded the believers in Asia Minor, “Therefore, dear friends, since you already know this, be on your guard so that you may not be carried away by the error of lawless men and fall from your secure position*” (2 Pet. 3:17).
 
@@ -189,7 +189,7 @@ To be wholly sanctified, the believers need to separate themselves from the devi
 
 Paul tells the Ephesians:
 
-> Put on the full armor of God so that you can take your stand against the devil’s schemes . . ., so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand. Stand firm then….. (Eph. 6:11, 13, 14)
+> Put on the full armor of God so that you can take your stand against the devil’s schemes…, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand. Stand firm then….. (Eph. 6:11, 13, 14)
 
 1. Evidently, while the believers have been rescued from the kingdom of darkness, the devil continues to scheme against them, trying to induce them to succumb to the power of sin; thus, Paul exhorts the Ephesians to get ready for battles.
 

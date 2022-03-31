@@ -79,7 +79,7 @@ It is only when the OT covenants are examined through the reality of the New Cov
 
 3. Sacrifice of Isaac.
 
-   > God said, ‘Take your son, your only son, Isaac, whom you love, and go to the region of Moriah. Sacrifice him there as a burnt offering . . .’(Gn. 22:2a).
+   > God said, ‘Take your son, your only son, Isaac, whom you love, and go to the region of Moriah. Sacrifice him there as a burnt offering…’(Gn. 22:2a).
 
    - a. Redemptive meaning in shadow.
 

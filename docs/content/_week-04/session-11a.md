@@ -25,7 +25,7 @@ What does Paul think that the devil is up to?
 
    - a. The enemy has always tried to put doubts in what God says.
 
-     He asked Eve, “Did God really say?” (Gn. 3:1); the devil began the second temptation of Jesus with this line: “If you are the Son of God . . .” (Matt. 4:6).
+     He asked Eve, “Did God really say?” (Gn. 3:1); the devil began the second temptation of Jesus with this line: “If you are the Son of God…” (Matt. 4:6).
 
    - b. He continues to put doubts in the minds of believers, particularly those who are new to the Christian faith and those who carry a lot of hurts from the past:
 
@@ -33,7 +33,7 @@ What does Paul think that the devil is up to?
 
 2. Another way to understand Paul’s concern is this:
 
-   Recall that sanctification is the process by which the believers are increasingly liberated from the power of sin so that, “hav[ing] been set free from sin[. . ., they] can become slaves to righteousness” (Rom. 6;18).
+   Recall that sanctification is the process by which the believers are increasingly liberated from the power of sin so that, “hav[ing] been set free from sin[…, they] can become slaves to righteousness” (Rom. 6;18).
 
    What the enemy wants to accomplish is to hinder the believers from of this process so that they will never reach that optimal state. What does this entail?
 

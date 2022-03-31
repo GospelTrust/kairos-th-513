@@ -35,10 +35,10 @@ Predestination means that eternal destination of people is already decided by Go
 
    > …What then shall we say? Is God unjust? Not at all! For he says to Moses, ‘I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.’
 
-   ` John 6:65, 37`:
+   `John 6:65, 37`:
    > [Jesus] went on to say, ‘This is why I told you that no one can come to me unless the Father has enabled him …All that the Father gives me will come to me, and whoever comes to me I will never drive away.’
 
-   ` 2 Tim 1:9`:
+   `2 Tim 1:9`:
    > God …has saved us and called us to a holy life—not because of anything we have done but because of his own purpose and grace. This grace was given us in Christ Jesus before the beginning of time.
 
 3. There are several problems, real or imagined, with this view:
@@ -59,7 +59,7 @@ This Dutch theologian broke away from Calvinism because he felt that predestinat
 
    - a. In Calvinism, God’s electing grace is based on his unilateral decree (Eph. 1:11) that prompts a response of faith among the chosen and their turning to God;
 
-      1 Peter 1:2, however, seems to back Arminius’ view: “To God’s elect . . .  who have been chosen according to the foreknowledge of God.”
+      1 Peter 1:2, however, seems to back Arminius’ view: “To God’s elect…  who have been chosen according to the foreknowledge of God.”
 
       1. The word “foreknowledge” derives from a compound Greek word of pro (in front of) and gnosis (knowledge).
 
