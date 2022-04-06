@@ -154,12 +154,13 @@ The intent of the law and debt cancellation
 
       1. That’s how Paul came to recognize that he was a sinner because the law revealed that he had a greedy heart.
 
-        He says: “Is the law sin? Certainly not! Indeed I would not have known what sin was except through the law.
-        For I would not have known what coveting really was if the law had not said, “Do not covet” (Rom 7:7).
+         He says: “Is the law sin? Certainly not! Indeed I would not have known what sin was except through the law.
+
+         For I would not have known what coveting really was if the law had not said, “Do not covet” (Rom 7:7).
 
       2. Paul added, “So the law was put in charge to lead us to Christ that we might be justified by faith” (Gal. 3:24).
 
-        This means that the law’s intent is to induce people to become aware of their sinfulness and imperfection so that when Christ is presented to them, they would believe and trust Him for the forgiveness of their sins.
+         This means that the law’s intent is to induce people to become aware of their sinfulness and imperfection so that when Christ is presented to them, they would believe and trust Him for the forgiveness of their sins.
 
 2. Debt cancellation.
 
