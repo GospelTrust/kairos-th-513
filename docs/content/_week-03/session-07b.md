@@ -65,7 +65,7 @@ This Dutch theologian broke away from Calvinism because he felt that predestinat
 
       2. Its implication:
 
-        God, “foreseeing [men’s] potential faith and the fact that they would turn to Him when they heard the gospel,” sealed their response with election.”
+         God, “foreseeing [men’s] potential faith and the fact that they would turn to Him when they heard the gospel,” sealed their response with election.”
 
    - b. Despite this difference, those who categorically accuse Arminianism of humanism should know how similar Calvinism and Arminianism are, at least at the outset. In fact, it was Arminius who made the following statement:
 
