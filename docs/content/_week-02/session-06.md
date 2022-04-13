@@ -18,16 +18,16 @@ God, in disclosing His revelations to man, didn’t reveal them all at once, mai
 
 1. When reading the OT, the reader should be aware that it provides “material” revelation for its commentary developed in the New.
 
-   - a. Spiritual truths in the OT are enclosed in a cocoon of symbols, types and the laws (civil, dietary, ceremonial, but not moral since most it continues into the NT).
+   - Spiritual truths in the OT are enclosed in a cocoon of symbols, types and the laws (civil, dietary, ceremonial, but not moral since most it continues into the NT).
 
-   - b. These are the shadows of the things to come in the NT but not the realities themselves. Hebrews 10:1 says, “The law is only a shadow of the good things that are coming—not the realities themselves.”
+   - These are the shadows of the things to come in the NT but not the realities themselves. Hebrews 10:1 says, “The law is only a shadow of the good things that are coming—not the realities themselves.”
 
 2. An effective way to study the redemptive history is to examine the five major covenants in the OT:
  Edenic, Noahic, Abrahamic, Siantic, and Davidic covenants.
 
-   - a. Through them, God progressively foreshadowed the manner in which He will one day redeem sinners, but the information itself is shadowy.
+   - Through them, God progressively foreshadowed the manner in which He will one day redeem sinners, but the information itself is shadowy.
 
-   - b. For instance, in the first covenant laid out in Genesis 3:15, called the Edenic, the main framework of God’s redemptive plan is prefigured in metaphors:
+   - For instance, in the first covenant laid out in Genesis 3:15, called the Edenic, the main framework of God’s redemptive plan is prefigured in metaphors:
 
      > And I will put enmity between you and the woman, and between your offspring and hers; he will crush your head, and you will strike his heel.
 
@@ -59,21 +59,21 @@ It is only when the OT covenants are examined through the reality of the New Cov
 
    God provided a better covering for their shame as well as better protection against the perils of living in an environment outside of the garden.
 
-   - a. Redemptive meaning in shadow:
+   - Redemptive meaning in shadow:
 
      It is going to take the shedding of blood to cover the shame of and the perils of sin.
 
-   - b. It foreshadowed a key element in what it would cost to redeem sinners. “Without the shedding of blood there is no forgiveness” (Heb. 9:22b) “because the blood is the life” (Deut. 12:23a).
+   - It foreshadowed a key element in what it would cost to redeem sinners. “Without the shedding of blood there is no forgiveness” (Heb. 9:22b) “because the blood is the life” (Deut. 12:23a).
 
 2. Abel’s sacrifice:
 
    > Abel brought fat portions from some of the first born of his flock. The LORD looked with favor on Abel and his offering (Gn. 4:4).
 
-   - a. Redemptive meaning in shadow:
+   - Redemptive meaning in shadow:
 
      It is going to take the shedding of the blood of the firstborn to redeem.
 
-   - b. It foreshadowed a key qualification of the one who will be sacrificed to redeem the lost:
+   - It foreshadowed a key qualification of the one who will be sacrificed to redeem the lost:
 
      > [Jesus] is the image of the invisible God, the firstborn over all creation (Col. 1:15).
 
@@ -81,13 +81,13 @@ It is only when the OT covenants are examined through the reality of the New Cov
 
    > God said, ‘Take your son, your only son, Isaac, whom you love, and go to the region of Moriah. Sacrifice him there as a burnt offering…’(Gn. 22:2a).
 
-   - a. Redemptive meaning in shadow.
+   - Redemptive meaning in shadow.
 
       1. It is going to take the shedding of the blood of the only son to redeem sinners.
 
       2. The redemptive sacrifice will involve a substitutionary death. “Abraham answered, ‘God himself will provide the lamb for the burnt offering, my son.’ And the two of them went on together” (Gn. 22:8).
 
-   - b. It foreshadowed another key qualification of the one who will be sacrificed to redeem the lost:
+   - It foreshadowed another key qualification of the one who will be sacrificed to redeem the lost:
 
      > For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life” Jn. 3:16).
 
@@ -95,11 +95,11 @@ It is only when the OT covenants are examined through the reality of the New Cov
 
    > The blood [of a lamb “without defect”] will be a sign for you on the houses where you are; and when I see the blood, I will pass over you. No destructive plague will touch you when I strike Egypt (Ex. 12:13).
 
-   - a. Redemptive meaning in shadow.
+   - Redemptive meaning in shadow.
 
      It is going take the shedding of the blood of a faultless one (the first and the only son) to be able to appease the wrath of God against sin.
 
-   - b. It foreshadowed yet another key qualification of the one whose shed blood will redeem the lost: he must be sinless.
+   - It foreshadowed yet another key qualification of the one whose shed blood will redeem the lost: he must be sinless.
 
      > We have [a high priest] who has been tempted in every way…—yet was without sin (Heb. 4:15)
 
@@ -156,9 +156,9 @@ While God’s redemptive work was laid out in shadowy forms in the OT, its actua
 
    For Hosea, no doubt an esteemed prophet, the cost of redeeming his wife was two-folded:
 
-   - a. Suffering utter humiliation (before the townspeople)
+   - Suffering utter humiliation (before the townspeople)
 
-   - b. Having to pay the ransom money:
+   - Having to pay the ransom money:
 
       15 shekels of silver (about $200) that was owed to the pimp
 
@@ -173,9 +173,9 @@ While God’s redemptive work was laid out in shadowy forms in the OT, its actua
    `Rom. 9:24-6` (NASB):
    > Even us, whom he also called, not only from the Jews but also from the Gentiles? 25 As he says in Hosea: “I will call them ‘my people’ who are not my people; and I will call her ‘my loved one’ who is not my loved one,” 26 and, “In the very place where it was said to them, ‘You are not my people,’ there they will be called ‘children of the living God.’”
 
-   - a. In Hosea, it appears (in shadows) as if God was only concerned about the nation of Israel, that is, the natural children of Israel.
+   - In Hosea, it appears (in shadows) as if God was only concerned about the nation of Israel, that is, the natural children of Israel.
 
-   - b. That’s because no one knew whom Gomer was representing.
+   - That’s because no one knew whom Gomer was representing.
 
       1. Before her husband redeemed her, she was representing the Gentile sinners.
 
@@ -217,9 +217,9 @@ It is often said that Jesus came to die on the cross because of his love for the
 
 1. While that is true, several Scriptures put the purpose of His coming quite differently.
 
-   - a. For instance, apostle John says, “The reason the Son of God appeared was to destroy the devil's work” (1 Jn. 3:8b).
+   - For instance, apostle John says, “The reason the Son of God appeared was to destroy the devil's work” (1 Jn. 3:8b).
 
-   - b. The Hebrews writer states, Jesus “shared in their humanity so that by his death he might destroy him who holds the power of death--that is, the devil …(Heb. 2:14).
+   - The Hebrews writer states, Jesus “shared in their humanity so that by his death he might destroy him who holds the power of death--that is, the devil …(Heb. 2:14).
 
 2. What entail the devil’s work and his power?
 
@@ -231,21 +231,21 @@ It is often said that Jesus came to die on the cross because of his love for the
 
    Now a slave has no permanent place in the family, but a son belongs to it forever. So if the Son sets you free, you will be free indeed” (Jn. 8:34).
 
-   - a. Free from what? The Hebrew writer declares, “Free those who all their lives were held in slavery by their fear of death” (Heb. 2:15).
+   - Free from what? The Hebrew writer declares, “Free those who all their lives were held in slavery by their fear of death” (Heb. 2:15).
 
-   - b. This freedom refers to no longer having to pay for the penalty of sin by eternally being separated from God in hell.
+   - This freedom refers to no longer having to pay for the penalty of sin by eternally being separated from God in hell.
 
 4. The parable of the strong man clearly captures the intent of Jesus.
 
    Matt. 12:29: “Or again, how can anyone enter a strong man’s house and carry off his possessions unless he first ties up the strong man? Then he can plunder his house.”
 
-   - a. The strong man is the devil.
+   - The strong man is the devil.
 
-   - b. The strongman’s possessions refer to sinners under slavery to the devil.
+   - The strongman’s possessions refer to sinners under slavery to the devil.
 
-   - c. The plunderer is Jesus.
+   - The plunderer is Jesus.
 
-   - d. Tying up the strong man refers to crucifixion and resurrection of Christ, which “destroy[ed the devil] who holds the power of death” (Heb. 2:15).
+   - Tying up the strong man refers to crucifixion and resurrection of Christ, which “destroy[ed the devil] who holds the power of death” (Heb. 2:15).
 
 5. With respect to the power of sin that still lives in us (Gal. 5:17; Rom. 7:17), Christ continues to work through the Holy Spirit to free the believers from their daily struggles with “sin living in them.”
 
@@ -267,13 +267,13 @@ How was Christ’s death and resurrection able to release sinners from the power
 
 2. Subsequently, Jesus was able to CO-sign onto the rap sheet, that is, “the written code …that was against us and that stood opposed to us” (Col. 1:14).
 
-   - a. With respect to CO-signing a loan, if the borrower declares insolvency, then, the CO-signer is liable for the unpaid loan.
+   - With respect to CO-signing a loan, if the borrower declares insolvency, then, the CO-signer is liable for the unpaid loan.
 
-   - b. In a similar vein, “God made [Christ] who had no sin to be sin for us (1 Cor. 5:21).
+   - In a similar vein, “God made [Christ] who had no sin to be sin for us (1 Cor. 5:21).
 
      This means that Jesus took our sins, and while doing so, he assumed the penalty of those sins; it was now his responsibility to pay.
 
-   - c. In this way, Christ was able to bear “our sins in his body on the tree” (1 Pet 2:24a); that is, he became the Lamb of God, who takes away the sin of the world! (Jn. 1:29).
+   - In this way, Christ was able to bear “our sins in his body on the tree” (1 Pet 2:24a); that is, he became the Lamb of God, who takes away the sin of the world! (Jn. 1:29).
 
 # V. What the Shed of Blood of Christ Accomplished
 
@@ -298,9 +298,9 @@ The two main ways to understand what really went on when Christ died on the cros
 
 2. The ransom theory posits the following:
 
-   - a. “Through sin mankind had made itself subject to the devil; the mark of this subjection was death. God in his grace wished to free men, but he was unable to because the devil’s claim was just.”6
+   - “Through sin mankind had made itself subject to the devil; the mark of this subjection was death. God in his grace wished to free men, but he was unable to because the devil’s claim was just.”6
 
-   - b. “Consequently, to neutralize Satan’s claim a ransom had to be paid in the form of a valuable person over whom Satan had no right—a sinless man.
+   - “Consequently, to neutralize Satan’s claim a ransom had to be paid in the form of a valuable person over whom Satan had no right—a sinless man.
 
      Thus the devil was tricked when Christ was crucified, because the Son of God was sinless; now God can with justice save whomsoever he please.”7
 

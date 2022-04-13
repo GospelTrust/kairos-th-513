@@ -27,9 +27,9 @@ In some conservative churches, not drinking, smoking, gambling and dancing quali
 
 3. Even more alarming is the positional soteriology, such as that of Singapore megachurch pastor Joseph who teaches that since all our sins—past, present and future—are already forgiven in the finished work of Christ, we no longer need to confess our daily sins to be forgiven.
 
-   - a. He says, "His forgiveness should have no more consciousness of sin. Stop examining yourself and searching your heart for sin" (2007:187).
+   - He says, "His forgiveness should have no more consciousness of sin. Stop examining yourself and searching your heart for sin" (2007:187).
 
-   - b. But, what about 1 Jn. 1:9: “If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.”
+   - But, what about 1 Jn. 1:9: “If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.”
 
       1. Prince’s response: “It was written to unbelieving Gnostics who needed to confess their sins to be saved.”
 
@@ -43,11 +43,11 @@ Many times, however, the pattern is reversed: what one must do to be sanctified 
 
 1. Quite often, out of eagerness to help a young believer, the following things are said to them.
 
-   - a. “You must perform acts of holiness before you declare yourself holy.”
+   - “You must perform acts of holiness before you declare yourself holy.”
 
-   - b. “You must act righteously before you can acknowledge yourself righteous.”
+   - “You must act righteously before you can acknowledge yourself righteous.”
 
-   - c. “You must lead a victorious life before you can pronounce yourself a victor.
+   - “You must lead a victorious life before you can pronounce yourself a victor.
 
 2. These are the Christians who consider themselves holy and sanctified because they conform to some behaviors that have been idealized as righteous, such as not drinking, smoking, gambling, or dancing.
 
@@ -72,14 +72,14 @@ No group better exemplifies this in the Bible than the Pharisees who were the el
 
 2. Legalism is when arbitrary moral and doctrinal laws are established as the criteria for judging whether or not people are spiritual, even believers.
 
-   - a. This is what the Pharisees tried to do against Christ, over healing people on the Sabbath. Having arbitrarily categorized healing as work, they accused Jesus of breaking the Sabbath.
+   - This is what the Pharisees tried to do against Christ, over healing people on the Sabbath. Having arbitrarily categorized healing as work, they accused Jesus of breaking the Sabbath.
 
       `Matt. 12:9`:
       > Going on from that place, he went into their synagogue, 10 and a man with a shriveled hand was there. Looking for a reason to bring charges against Jesus, they asked him, ‘Is it lawful to heal on the Sabbath?’
 
-   - b. In response, Jesus says to them, “You have let go of the commands of God and are holding on to human traditions…. You have a fine way of setting aside the commands of God in order to observe your own traditions!” (Mk. 7:8-9 NIV).
+   - In response, Jesus says to them, “You have let go of the commands of God and are holding on to human traditions…. You have a fine way of setting aside the commands of God in order to observe your own traditions!” (Mk. 7:8-9 NIV).
 
-   - c. In legalism, “judging by mere appearances” (Jn. 7:24a) replaces grace and mercy.
+   - In legalism, “judging by mere appearances” (Jn. 7:24a) replaces grace and mercy.
 
 {% include youtube.html id='CPThk4ZnZzw' %}
 
@@ -131,15 +131,15 @@ In light of many pitfalls of imbalanced approach to sanctification, it is critic
 
 2. But our sanctification shouldn’t end there; upon that secure standing in Christ, every effort should be made to build a disciplined life consisting of the following spiritual exercises:
 
-   - a. Reading and studying God’s word.
+   - Reading and studying God’s word.
 
      Among other things, this exercise reminds us of our inheritances in Christ.
 
-   - b. A consistent prayer life both in depth and length. One benefit of prayer is to ward off temptations.
+   - A consistent prayer life both in depth and length. One benefit of prayer is to ward off temptations.
 
      Jesus, disappointed that his men could not pray with him for one hour, said, “Watch and pray so that you will not fall into temptation?” (Matt. 26:41).
 
-   - c. Belonging to a faith community (e.g., church, small group, etc.) where like-minded believers can be encouraged as well as holding each other accountable for their actions.
+   - Belonging to a faith community (e.g., church, small group, etc.) where like-minded believers can be encouraged as well as holding each other accountable for their actions.
 
      This is the context in which the believers are forced to deal with their character flaws, such as selfishness, indifference, unkindness, anger, greed, critical spirit, etc.
 
@@ -155,11 +155,11 @@ Then, there is a matter of which of the two components to sanctification (standi
 
    Being confident of his own righteousness, he is glad that he is not like others.
 
-   - a. This is when he must see himself in light of his position or standing in Christ.
+   - This is when he must see himself in light of his position or standing in Christ.
 
-   - b. He needs to be reminded that none of his accomplishments has made him any more justified and holier in God’s sight than before.
+   - He needs to be reminded that none of his accomplishments has made him any more justified and holier in God’s sight than before.
 
-   - c. The good and righteous things he has done, with the strength that God has provided, merely confirms what was already done for him in Christ.
+   - The good and righteous things he has done, with the strength that God has provided, merely confirms what was already done for him in Christ.
 
 2. On the other hand, when an individual begins to be lazy in his actual sanctification, it is short distance from there to return to unhealthy and unproductive lifestyle.
 
@@ -167,13 +167,13 @@ Then, there is a matter of which of the two components to sanctification (standi
 
    This is when he needs to be reminded of the following:
 
-   - a. The lack of interest in his sanctification, thereby leaving many sins unconfessed, grieves the Holy Spirit (Eph. 4:30) as well as “put[s] out the Spirit’s fire” (1 Thess. 5:19).
+   - The lack of interest in his sanctification, thereby leaving many sins unconfessed, grieves the Holy Spirit (Eph. 4:30) as well as “put[s] out the Spirit’s fire” (1 Thess. 5:19).
 
      Unless he repents, the Holy Spirit will increasingly become inactive, making his spiritual condition go from bad to worse.
 
-   - b. He must make the initiative to re-engage in activities that will help him to separate from the pattern of this world, the devil’s schemes, and a hurtful past that can entrap the present.
+   - He must make the initiative to re-engage in activities that will help him to separate from the pattern of this world, the devil’s schemes, and a hurtful past that can entrap the present.
 
-   - c. The absence of holiness in his life is a great deterrent to others desiring God in their lives (Heb. 12:14); what awaits is God’s discipline “for our good, that we may share in his holiness” (Heb. 12:10b).
+   - The absence of holiness in his life is a great deterrent to others desiring God in their lives (Heb. 12:14); what awaits is God’s discipline “for our good, that we may share in his holiness” (Heb. 12:10b).
 
 ## C. The optimal approach
 
@@ -187,13 +187,13 @@ Keeping a fine balance between standing and state is clearly shown in Jesus’ h
 
    Having suffered for 12 years of this disease that made her unclean (Lev. 15:19-27), her intent was to touch his cloak clandestinely, hoping that that would cure her.
 
-   - a. To her amazement, “immediately her bleeding stopped.”
+   - To her amazement, “immediately her bleeding stopped.”
 
       1. She got what she wanted: freedom from a disease that made her feel shame
 
       2. She was not sick anymore; she was now free, physically.
 
-   - b. She, then, looked for a quick exit but Jesus, to her chagrin, wouldn’t allow it; he demanded to know who touched him when in fact many were doing so.
+   - She, then, looked for a quick exit but Jesus, to her chagrin, wouldn’t allow it; he demanded to know who touched him when in fact many were doing so.
 
 2. But identifying herself was the last thing she wanted to do.
 
@@ -201,11 +201,11 @@ Keeping a fine balance between standing and state is clearly shown in Jesus’ h
 
    The disease that made her unclean was shameful enough, but it is likely that she had kept her condition a secret.
 
-   - a. Had people known about her condition, they wouldn’t have allowed her to come near them, let alone touch them.
+   - Had people known about her condition, they wouldn’t have allowed her to come near them, let alone touch them.
 
-   - b. However, by coming in contact with an unassuming crowd and by touching the cloak of Jesus, she made all of them, including Jesus, unclean until that evening. For that, they would have had to “wash their clothes and bathe with water” (Lev. 15:27).
+   - However, by coming in contact with an unassuming crowd and by touching the cloak of Jesus, she made all of them, including Jesus, unclean until that evening. For that, they would have had to “wash their clothes and bathe with water” (Lev. 15:27).
 
-   - c. But so desperate was this woman that evidently she didn’t care!
+   - But so desperate was this woman that evidently she didn’t care!
 
      Had someone knew what she was up to, she would have been told,
 
@@ -215,21 +215,21 @@ Keeping a fine balance between standing and state is clearly shown in Jesus’ h
 
    She was content with her physical healing but that alone wouldn’t have released her from years of having felt shame about herself and guilty for making others unclean (and thereby not abiding by the requirement of the Law).
 
-   - a. However, Jesus wanted to make sure that she was not only outwardly clean but internally as well. So what did Jesus make her do?
+   - However, Jesus wanted to make sure that she was not only outwardly clean but internally as well. So what did Jesus make her do?
 
      Dr. Luke put it like this: “Then the woman, seeing that she could not go unnoticed, came trembling and fell at his feet. In the presence of all the people, she told how she had touched him and how she had been instantly healed.”
 
-   - b. And this is how we know her story because Jesus made her give a “reluctant” testimony before everyone (some of whom found out, to their chagrin, that they had been touched by her).
+   - And this is how we know her story because Jesus made her give a “reluctant” testimony before everyone (some of whom found out, to their chagrin, that they had been touched by her).
 
-   - c. They had the right to be upset since she made them “technically” unclean.
+   - They had the right to be upset since she made them “technically” unclean.
 
 4. But instead of condemnation and judgment against this woman, the most significant individual at the time, Jesus Christ, commended her action, saying “Your faith has healed you.” If Jesus commends her, then who would dare condemn her?
 
-   - a. The Greek root sōzō, rendered here as “healed” is different from the Greek root therapeuō, used in “no one could heal her.”
+   - The Greek root sōzō, rendered here as “healed” is different from the Greek root therapeuō, used in “no one could heal her.”
 
-   - b. Remember, the writer was himself a physician who had dedicated his whole life to therapeuei, that is, physically cure the sick people.
+   - Remember, the writer was himself a physician who had dedicated his whole life to therapeuei, that is, physically cure the sick people.
 
-   - c. But sōzō, often translated as “to save,” carries the idea of being saved from disease and its effects (which in her case were shame and guilt).
+   - But sōzō, often translated as “to save,” carries the idea of being saved from disease and its effects (which in her case were shame and guilt).
 
       1. Thus, the King James Version renders this verse as,
 
@@ -239,11 +239,11 @@ Keeping a fine balance between standing and state is clearly shown in Jesus’ h
 
 5. If this woman had returned home just with physical healing, she still would have been afflicted with guilt and shame over what she had been hiding and doing (i.e., making others unclean) for awhile.
 
-   - a. Thus, it’s unlikely that she would have gone to the temple to offer the required atonement on the eighth day after being healed (Lev. 15:29).
+   - Thus, it’s unlikely that she would have gone to the temple to offer the required atonement on the eighth day after being healed (Lev. 15:29).
 
-   - b. However, with her inner being restored and strengthened in this very public fashion by someone whom everyone held in high regard, she now could go home in peace; thus Jesus says, “Go in peace.”
+   - However, with her inner being restored and strengthened in this very public fashion by someone whom everyone held in high regard, she now could go home in peace; thus Jesus says, “Go in peace.”
 
-   - c. Now, her outward position and freedom of movement (stemming from the physical healing) were in a perfect balance with her inward state and freedom of the heart.
+   - Now, her outward position and freedom of movement (stemming from the physical healing) were in a perfect balance with her inward state and freedom of the heart.
 
 ## D. Inner healing
 
@@ -251,9 +251,9 @@ This section is added to suggest that inner-healing ministry can be a helpful to
 
 1. What should happen.
 
-   - a. During inner healing sessions, like this woman, we tell our stories of both having been victims as well as aggressors.
+   - During inner healing sessions, like this woman, we tell our stories of both having been victims as well as aggressors.
 
-   - b. In case when hurtful and painful things happened some time ago, we must rely on the Holy Spirit to recall them but it is imperative that the recollection is as accurate as possible and not always blaming others for everything.
+   - In case when hurtful and painful things happened some time ago, we must rely on the Holy Spirit to recall them but it is imperative that the recollection is as accurate as possible and not always blaming others for everything.
 
       1. In other words, there are people whom we need to forgive as well as those from whom we need to receive forgiveness.
 
@@ -267,11 +267,11 @@ This section is added to suggest that inner-healing ministry can be a helpful to
 
    > This gives off the impression that once we’ve dealt with some of our issues and demons, that we are totally set free. Consider, for instance, the case of college kids who struggle with lust, porn, masturbation, and other sins (not to mention young adults).
 
-   - a. He, then, raised this question?
+   - He, then, raised this question?
 
      > So with Dr. Kraft’s model, if we were to put the demon of lust (along with others) into the box and send it to Jesus, are they forever free of going back to the internet and browsing on porn channels?” Answering his own question, he said, “Of course, that’s not the case.
 
-   - b. The crux of the matter is the question of how freedom is defined.
+   - The crux of the matter is the question of how freedom is defined.
 
      The same pastor wondered:
 
@@ -283,19 +283,19 @@ This section is added to suggest that inner-healing ministry can be a helpful to
 
          So, if I have walked through inner healing and forgiven someone and even have the demon of discord exorcised, does that mean I will enjoy being with that person who’s hurt me deeply in the past?”
 
-   - c. His cautious warning: “I think the word freedom gives off the impression that all of the old emotions and issues would simply vanish. And when it doesn’t, I think people look at inner healing as just a therapeutic and temporary exercise.”
+   - His cautious warning: “I think the word freedom gives off the impression that all of the old emotions and issues would simply vanish. And when it doesn’t, I think people look at inner healing as just a therapeutic and temporary exercise.”
 
 3. Inner healing as a tool of sanctification.
 
    Ultimately, the long-term effectiveness of inner healing as a tool for sanctification hinges on two things:
 
-   - a. First, has the person truly internalized or embodied the unconditional love of God expressed in the work of Christ through justification (salvation past), sanctification (salvation present) and glorification (salvation future)?
+   - First, has the person truly internalized or embodied the unconditional love of God expressed in the work of Christ through justification (salvation past), sanctification (salvation present) and glorification (salvation future)?
 
      This is the immovable foundation of our faith.
 
      This ought to produce a sense of gratitude that motivates the person to refrain from offending God and to desire to conform to Christ’s likeness.
 
-   - b. Second, following an effective inner healing session, does the person continue with the optimal approach to progressive sanctification?
+   - Second, following an effective inner healing session, does the person continue with the optimal approach to progressive sanctification?
 
       1. Seriously reading and studying God’s word, and then applying the truth in our daily living (James 1:22-5)
 

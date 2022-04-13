@@ -28,11 +28,11 @@ layout: lesson
 
 3. Paul’s response
 
-   - a. The mercy and compassion (15-6) of God cannot be subject to any cause outside His own free grace.
+   - The mercy and compassion (15-6) of God cannot be subject to any cause outside His own free grace.
 
-   - b. God does exercise His mercy in absolute freedom of choice.2
+   - God does exercise His mercy in absolute freedom of choice.2
 
-   - c. In short, God is sovereign; He is not subject to human scrutiny.
+   - In short, God is sovereign; He is not subject to human scrutiny.
 
 ## B. What Paul means in Romans 9:17-8
 
@@ -46,9 +46,9 @@ layout: lesson
 
    This might have been a case of God allowing a powerful delusion to harden the already hardened heart so that the “final condition of that man is worse than the first” (Matt. 12:45).
 
-   - a. Paul states in 2 Thess. 2:10-1: “They perish because they refused to love the truth and so be saved. For this reason God sends them a powerful delusion so that they will believe the lie and so that all will be condemned who have not believed the truth but have delighted in wickedness.”
+   - Paul states in 2 Thess. 2:10-1: “They perish because they refused to love the truth and so be saved. For this reason God sends them a powerful delusion so that they will believe the lie and so that all will be condemned who have not believed the truth but have delighted in wickedness.”
 
-   - b. The apostle expresses a similar thought in Romans 1:24, 6 regarding those who are set on being willful against God: “Therefore God gave them over in the sinful desires of their hearts…. Because of this, God gave them over to shameful lusts.”
+   - The apostle expresses a similar thought in Romans 1:24, 6 regarding those who are set on being willful against God: “Therefore God gave them over in the sinful desires of their hearts…. Because of this, God gave them over to shameful lusts.”
 
 ## C. The objector raises his voice again
 
@@ -66,17 +66,17 @@ layout: lesson
 
 3. It is irreverent for creatures to criticize or contradict the actions of their Creator (9:22-3), for God …is doing nothing unreasonable or unjust, for both classes of vessels serve the highest end:
 
-   - a. The punishing of the vessels of wrath manifests God’s displeasure against sin.
+   - The punishing of the vessels of wrath manifests God’s displeasure against sin.
 
-   - b. The pardoning of the vessels of mercy manifests the riches of the His glory.
+   - The pardoning of the vessels of mercy manifests the riches of the His glory.
 
 4. Conclusion.
 
-   - a. Paul affirms the centrality of God and will not lower God’s actions to fit man’s reasoning.
+   - Paul affirms the centrality of God and will not lower God’s actions to fit man’s reasoning.
 
-   - b. His response demands that first of all God be acknowledged as God.
+   - His response demands that first of all God be acknowledged as God.
 
-   - c. Ultimately, as the potter is responsible for the vessel he fashions, so God is, finally, responsible for what He does in history.
+   - Ultimately, as the potter is responsible for the vessel he fashions, so God is, finally, responsible for what He does in history.
 
 {% include youtube.html id='epof6Wa05aU' %}
 
@@ -104,9 +104,9 @@ A distraught Paul (“I have great sorrow and unceasing anguish in my heart”) 
 
 2. What does this mean?
 
-   - a. Simply, some Jews were elected while some were not (9:9-12); and this would explain why many Israelites didn’t believe: they were not elected.
+   - Simply, some Jews were elected while some were not (9:9-12); and this would explain why many Israelites didn’t believe: they were not elected.
 
-   - b. Prior to this revelation, Paul simply assumed that God promised to save the entire nation of Israel (Rom.11:26), or at least, many Israelites; he now realized that the promise was made only to certain Jews—those whom God specifically elected.
+   - Prior to this revelation, Paul simply assumed that God promised to save the entire nation of Israel (Rom.11:26), or at least, many Israelites; he now realized that the promise was made only to certain Jews—those whom God specifically elected.
 
 ## C. Are the unelected Jews unable to believe?
 
@@ -120,11 +120,11 @@ In Romans 11, Paul continues with the theme of election, saying,
 
 2. Having stated that, Paul clearly declares that nothing will prevent any nonelected Jews from believing.
 
-   - a. He rhetorically asks, “Again I ask: Did they stumble so as to fall beyond recovery?” The answer is, “No, ‘not at all’” (11:11).
+   - He rhetorically asks, “Again I ask: Did they stumble so as to fall beyond recovery?” The answer is, “No, ‘not at all’” (11:11).
 
-   - b. Then he adds, “If [the Jews] do not persist in unbelief, they will be grafted in, for God is able to graft them in again” (11:23).
+   - Then he adds, “If [the Jews] do not persist in unbelief, they will be grafted in, for God is able to graft them in again” (11:23).
 
-   - c. How? This is logically not possible since these are unelected Jews, but Paul says that God can do it because God is both almighty and sovereign.
+   - How? This is logically not possible since these are unelected Jews, but Paul says that God can do it because God is both almighty and sovereign.
 
      Ironically, Paul’s reasoning here is no different from the reason given for why God chose Jacob over Esau “before the twins were born or had done anything good or bad” (9:11):
 
@@ -152,19 +152,19 @@ We need the theology of “both/and” with respect to the matter of predestinat
 
    > This man was handed over to you by God’s set purpose (“the predetermined plan”, NASB) and foreknowledge; and you, with the help of wicked man, put him to death by nailing him to the cross (Acts 2:23).
 
-   - a. Obviously, the crucifixion of Christ was the essential component of God’s redemptive plan (Gn. 3:15), which He unilaterally planned according to His set purpose.
+   - Obviously, the crucifixion of Christ was the essential component of God’s redemptive plan (Gn. 3:15), which He unilaterally planned according to His set purpose.
 
-   - b. At the same time, the Lord, having foreseen men’s rejection of Christ, confirmed and sealed their denial. This is why Peter was able to place the complicity of killing Jesus on men.
+   - At the same time, the Lord, having foreseen men’s rejection of Christ, confirmed and sealed their denial. This is why Peter was able to place the complicity of killing Jesus on men.
 
 2. The edifice of every systematic theology is built on an either/or thinking, which is necessary with issues that substantially affect the doctrine of salvation (Gal. 1:6-7; 1 Jn. 4:1-3).
 
-   - a. However, doctrinal matters that distinguish one systematic theology from another (e.g., rapture, tongues) is never quite that essential, including the basis for election since neither position affects who goes to heaven or hell.
+   - However, doctrinal matters that distinguish one systematic theology from another (e.g., rapture, tongues) is never quite that essential, including the basis for election since neither position affects who goes to heaven or hell.
 
-   - b. Thus, our approach ought to be both/and, which seems to be that of Paul’s as well. That is to say, the Bible teaches both unconditional election and election based on foreknowledge.
+   - Thus, our approach ought to be both/and, which seems to be that of Paul’s as well. That is to say, the Bible teaches both unconditional election and election based on foreknowledge.
 
 3. Yes, unconditional election is biblical, for God has his reasons.
 
-   - a. What could that be? Let’s begin with this question:
+   - What could that be? Let’s begin with this question:
 
      > What is God’s ultimate purpose for which He saves us?
 
@@ -176,7 +176,7 @@ We need the theology of “both/and” with respect to the matter of predestinat
 
      Based on these verses, “the ultimate purpose of God is that His Son shall be supreme in the universe, that He may unite all things in Christ, that in everything he might be preeminent.”
 
-   - b. This may be why some are elected for salvation.
+   - This may be why some are elected for salvation.
 
       1. In order that “Christ might be presented with a redeemed church when he is revealed as supreme in the universe, God has ordained that at least some should be gathered out from the mass” of sinners.”
 
@@ -196,13 +196,13 @@ We need the theology of “both/and” with respect to the matter of predestinat
 
    Recall what Paul said in Rom. 9:23: “And if they do not persist in unbelief, they will be grafted in, for God is able to graft them in again.”
 
-   - a. Ultimately, election understood by Arminius implies that “everyone who calls on the name of the Lord will be saved” (Rom. 9:13).
+   - Ultimately, election understood by Arminius implies that “everyone who calls on the name of the Lord will be saved” (Rom. 9:13).
 
      In other word, everyone has received a general invitation to join the wedding supper of the Lamb since “the grace of God that brings salvation has appeared to all men” (Tit. 1:11).
 
-   - b. And a person can confirm his election by laying aside his unbelief and believe in the person and the work of Christ.
+   - And a person can confirm his election by laying aside his unbelief and believe in the person and the work of Christ.
 
-   - c. In this way, election doesn’t excuse the resistant sinner from the original liability incurred by the act of revolt against God. He earned hell!
+   - In this way, election doesn’t excuse the resistant sinner from the original liability incurred by the act of revolt against God. He earned hell!
 
 ## E. That affects the doctrine of Limited Atonement (i.e., Jesus died only for the elect).
 
@@ -218,7 +218,7 @@ We need the theology of “both/and” with respect to the matter of predestinat
 
 3. Sproul’s interpretation of 1 John 2:2.
 
-   - a. First, he says, “Our could refer specifically to Jewish believers,” since “the New Testament labors the point that the body of Christ includes not only ethnic Jews, but Samaritans and Gentiles.”
+   - First, he says, “Our could refer specifically to Jewish believers,” since “the New Testament labors the point that the body of Christ includes not only ethnic Jews, but Samaritans and Gentiles.”
 
       1. I question how Sproul can justify reading “Jewish believers” into 1 John 2:2 when apostle John had not once talked about the Jews in the entire 1 John.
 
@@ -226,11 +226,11 @@ We need the theology of “both/and” with respect to the matter of predestinat
 
          Regardless, Sproul drops a major Pauline concern in the middle of a Johannine epistle, which addresses the threats of the Docetics who denied Christ’s humanity (1 Jn. 4:3-5).
 
-   - b. Moreover, for Sproul’s interpretation to make sense, it would seem that the “whole world” should refer to the “Samaritan and Gentile believers” in contrast to “Jewish believers.”
+   - Moreover, for Sproul’s interpretation to make sense, it would seem that the “whole world” should refer to the “Samaritan and Gentile believers” in contrast to “Jewish believers.”
 
      So then, it would read: “He Himself is the propitiation for the sins of the Jewish believers; and not for the sins of the Jewish believers only, but also for those of the Samaritan and Gentile believers.”
 
-   - c. However, for an inexplicable reason, Sproul takes a different route to avoid saying that 1 John 2:2 means the entire world. (The Greek holou tou cosomou literally means the “entire world.”)
+   - However, for an inexplicable reason, Sproul takes a different route to avoid saying that 1 John 2:2 means the entire world. (The Greek holou tou cosomou literally means the “entire world.”)
 
      Thus, he comments:
 
@@ -255,28 +255,28 @@ We need the theology of “both/and” with respect to the matter of predestinat
 
       2. He wouldn’t do that. So, he just made an exception regarding 1 John 2:2.
 
-   - d. In accordance to the exegetical attempt by Sproul to avoid saying that Jesus died for the sins of the whole world, 1 John 2:2 should then read:
+   - In accordance to the exegetical attempt by Sproul to avoid saying that Jesus died for the sins of the whole world, 1 John 2:2 should then read:
 
      > He Himself is the propitiation for the sins of the Jewish believers; and not for the sins of the Jewish believers only, but also for the sins of people in some parts of the world.
 
-   - e. Most people would find this interpretation quite contrived and this type of hermeneutical approach to uphold one’s position at all cost a little disconcerting.
+   - Most people would find this interpretation quite contrived and this type of hermeneutical approach to uphold one’s position at all cost a little disconcerting.
 
 4. Does this mean that the doctrine of election must be given up?
  No, because it is clearly taught in Ephesians 1:11 and 1 Peter 1:1
 
-   - a. And 1 John 2:2 clearly states that Jesus died for the sins of the elect. (This is implied when apostle John, no doubt an elect, said, “the propitiation for our sins”).
+   - And 1 John 2:2 clearly states that Jesus died for the sins of the elect. (This is implied when apostle John, no doubt an elect, said, “the propitiation for our sins”).
 
-   - b. But the same verse, while making a distinction between the elect and the world, nevertheless says that Jesus also died for the whole world—that’s undeniable.
+   - But the same verse, while making a distinction between the elect and the world, nevertheless says that Jesus also died for the whole world—that’s undeniable.
 
 5. Even so, based on the plain meaning of 1 John 2:2, we can conclude:
 
    > Jesus Christ, the Savior of the world, died for all men and every man so that he has obtained for all, by his death on the cross, reconciliation and remission of sin; yet so that no one is partaker of this remission except the believers.
 
-   - a. Who said that? Arminius!
+   - Who said that? Arminius!
 
-   - b. I am in no way an Arminian (eternal security gets in the way since Arminians believe that salvation can be lost), but his thought must be a side dish with the main dish being Calvinism so that the latter does not become a rigid ideology.
+   - I am in no way an Arminian (eternal security gets in the way since Arminians believe that salvation can be lost), but his thought must be a side dish with the main dish being Calvinism so that the latter does not become a rigid ideology.
 
-   - c. The same goes for those whose main dish is Arminianism; it needs a side dish of Calvinism so that it does not turn into humanism or Pelagianism (rationalistic view of human nature).
+   - The same goes for those whose main dish is Arminianism; it needs a side dish of Calvinism so that it does not turn into humanism or Pelagianism (rationalistic view of human nature).
 
 ## Discussion:
 

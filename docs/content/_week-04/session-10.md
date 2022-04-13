@@ -21,11 +21,11 @@ Standing refers to our legal position with Christ in the heavenlies—that is, o
 
    As stated previously, this term refers to exculpating the guilty on account of the substitutionary death of Christ.
 
-   - a. Consequently, the status of the person is transformed by the action of “justification,” not the character.
+   - Consequently, the status of the person is transformed by the action of “justification,” not the character.
 
-   - b. While no longer condemned legally, he may not be all that righteous in ontological sense (that is, in his being), at least not at the outset of being forensically justified.
+   - While no longer condemned legally, he may not be all that righteous in ontological sense (that is, in his being), at least not at the outset of being forensically justified.
 
-   - c. It is akin to adopting a child into one’s family; after proper documents are signed, that child is now a son. He may misbehave or act waywardly but that does not annul his legal standing in the family.
+   - It is akin to adopting a child into one’s family; after proper documents are signed, that child is now a son. He may misbehave or act waywardly but that does not annul his legal standing in the family.
 
 2. Positional sanctification.
 
@@ -33,9 +33,9 @@ Standing refers to our legal position with Christ in the heavenlies—that is, o
 
    It is as if the sanctified individual had never sinned, just like the sinless Christ.
 
-   - a. It is not something achieved or attained by effort; rather, it is received as a gift from God as a result of faith in Christ. Paul, while explaining his conversion to King Agrippa, says, “Those who are sanctified by faith in [Christ]…” (Acts 26:18).
+   - It is not something achieved or attained by effort; rather, it is received as a gift from God as a result of faith in Christ. Paul, while explaining his conversion to King Agrippa, says, “Those who are sanctified by faith in [Christ]…” (Acts 26:18).
 
-   - b. When Jude says that God is able to “present us before his glorious presence without fault” (1:26), he wasn’t thinking about an actual state obtained by believers through their perfect moral and spiritual life, but how God will choose to see them in Christ.
+   - When Jude says that God is able to “present us before his glorious presence without fault” (1:26), he wasn’t thinking about an actual state obtained by believers through their perfect moral and spiritual life, but how God will choose to see them in Christ.
 
 3. Therefore, salvation past refers to the fact that the believers have been declared righteous once and for all in a positional and ontological sense, “since [God] has rescued us from the dominion of darkness and brought us into the kingdom of the Son…” (Col. 1:13-14b).
 
@@ -49,11 +49,11 @@ A young believer with a delicate conscience, after sinning, may feel like God ha
 
 2. There are three main changes.
 
-   - a. Before: In the dominion of darkness, the devil had “the power of death over this subjects, holding them “in slavery by their fear of death” (Heb. 2:15).
+   - Before: In the dominion of darkness, the devil had “the power of death over this subjects, holding them “in slavery by their fear of death” (Heb. 2:15).
 
      After: Jesus freed them by “destroy[ing] the devil’s work” (1 Jn. 3:8b) through his death (Heb. 2:14). We are now free from the penalty of sin.
 
-   - b. Before: the devil, being “the accuser of …brothers, accuse[d] them before …God day and night (Rev. 12:10b).
+   - Before: the devil, being “the accuser of …brothers, accuse[d] them before …God day and night (Rev. 12:10b).
 
      After: Jesus “canceled the written code, with its regulations, that was against us and that stood opposed to us; he took it away, nailing it to the cross” (Col. 2:14).
 
@@ -61,7 +61,7 @@ A young believer with a delicate conscience, after sinning, may feel like God ha
 
       2. Even if our walk with God is unfaithful at any given moment, we can be assured that we’re still a child of God. (The doctrine of adoption is in view here.)
 
-   - c. Before: Unbelievers, being slaves to the devil (2 Pet. 2:19b), “used to offer the parts of [their] body in slavery to impurity and to every-increasing wickedness” (Rom. 6:19).
+   - Before: Unbelievers, being slaves to the devil (2 Pet. 2:19b), “used to offer the parts of [their] body in slavery to impurity and to every-increasing wickedness” (Rom. 6:19).
 
      After: Now in the kingdom of the Son and empowered by the Holy Spirit, the believers can “offer [themselves] to God, as those who have been brought from death to life; and offer the parts of [their] body to him as instruments of righteousness” (Rom. 6:13).
 
@@ -82,11 +82,11 @@ A young believer with a delicate conscience, after sinning, may feel like God ha
 
    According to this, the believers already have the following things in the heavenly realms regardless of whether they are presently struggling with sins or not.
 
-   - a. The hope of eternal life (since the penalty of sin has been paid)
+   - The hope of eternal life (since the penalty of sin has been paid)
 
-   - b. The riches of God’s glorious inheritance in his holy people (the enemy, therefore, cannot condemn them since they have been made holy before God).
+   - The riches of God’s glorious inheritance in his holy people (the enemy, therefore, cannot condemn them since they have been made holy before God).
 
-   - c. The same power that was used to exert Christ from the death (thus, they can truly live for God, now).
+   - The same power that was used to exert Christ from the death (thus, they can truly live for God, now).
 
 # II. State
 
@@ -125,7 +125,7 @@ This is an issue that Jesus, Paul and Peter all address.
 
 2. What, then, is the power of sin?
 
-   - a. Paul, in his first epistle to the Corinthians says,
+   - Paul, in his first epistle to the Corinthians says,
 
      > Therefore, if anyone is in Christ, he is a new creation; the old has gone, the new has come! (2 Cor. 5:17)
 
@@ -135,9 +135,9 @@ This is an issue that Jesus, Paul and Peter all address.
 
      > I know that nothing good lives in me, that is, in my sinful nature…. Now if I do what I do not want to do, it is no longer I who do it, but it is sin living in me that does it. (Rom. 7:20)
 
-   - b. Whereas the sinful nature monopolizes the will of the unregenerate man, thereby inducing him to be a slave to sin, after the rebirth however, its power over the regenerate man is restrained by the Holy Spirit.
+   - Whereas the sinful nature monopolizes the will of the unregenerate man, thereby inducing him to be a slave to sin, after the rebirth however, its power over the regenerate man is restrained by the Holy Spirit.
 
-   - c. The power of sin now has a serious competition in its battle for the will of the regenerate man. Paul describes this inner battle in this way:
+   - The power of sin now has a serious competition in its battle for the will of the regenerate man. Paul describes this inner battle in this way:
 
      > For the sinful nature desires what is contrary to the Spirit, and the Spirit what is contrary to the sinful nature. They are in conflict with each other, so that you do not do what you want. (Gal. 5:17-8)
 
@@ -173,9 +173,9 @@ Everything in the world that pollutes both body and spirit, or as Paul put it el
 
 2. Thus, Paul commanded the Corinthian believers to thoroughly purify themselves from the pattern of this world out of respect for God.
 
-   - a. From the Greek word katharizō, translated here as “purify,” derives the English word “cauterize”: to burn or sear to prevent infection.
+   - From the Greek word katharizō, translated here as “purify,” derives the English word “cauterize”: to burn or sear to prevent infection.
 
-   - b. Paul, therefore, was not suggesting some behavioral modification; rather, he was gunning for a thorough expunging of sin that can really do some serious harm.
+   - Paul, therefore, was not suggesting some behavioral modification; rather, he was gunning for a thorough expunging of sin that can really do some serious harm.
 
      In his letter to Timothy, Paul put this in another way:
 

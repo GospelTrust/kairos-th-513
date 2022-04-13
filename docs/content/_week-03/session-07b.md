@@ -17,13 +17,13 @@ Predestination means that eternal destination of people is already decided by Go
 
 1. The sinners’ response of faith and repentance were the result of God’s prior electing grace; that is, God predisposed their wills to respond to His call.
 
-   - a. Salvation, therefore, is a matter of divine election apart from human merit or divine knowledge; it was decided before anything humans did or did not do.
+   - Salvation, therefore, is a matter of divine election apart from human merit or divine knowledge; it was decided before anything humans did or did not do.
 
-   - b. In this way, election is based on the sovereign will of God.
+   - In this way, election is based on the sovereign will of God.
 
      That is, he didn’t choose to believe; rather, he predetermined to do so.
 
-   - c. Some Calvinists uphold a dual predestination of some to salvation and others to condemnation.
+   - Some Calvinists uphold a dual predestination of some to salvation and others to condemnation.
 
 2. Supporting passages for the unconditional election of Calvinism:
 
@@ -43,11 +43,11 @@ Predestination means that eternal destination of people is already decided by Go
 
 3. There are several problems, real or imagined, with this view:
 
-   - a. God’s election seems quite arbitrary
+   - God’s election seems quite arbitrary
 
-   - b. It impairs human free will.
+   - It impairs human free will.
 
-   - c. No verse in the Scripture states that God makes some people incapable of believing, on account that they are not elected for salvation.
+   - No verse in the Scripture states that God makes some people incapable of believing, on account that they are not elected for salvation.
 
 ## B. A counter view proposed by Jacobus Arminius (1560-1609)
 
@@ -57,7 +57,7 @@ This Dutch theologian broke away from Calvinism because he felt that predestinat
 
    > Though he did not deny election he based it not on a divine arbitrary decree, but upon God's foreknowledge of man's merit.
 
-   - a. In Calvinism, God’s electing grace is based on his unilateral decree (Eph. 1:11) that prompts a response of faith among the chosen and their turning to God;
+   - In Calvinism, God’s electing grace is based on his unilateral decree (Eph. 1:11) that prompts a response of faith among the chosen and their turning to God;
 
       1 Peter 1:2, however, seems to back Arminius’ view: “To God’s elect…  who have been chosen according to the foreknowledge of God.”
 
@@ -67,7 +67,7 @@ This Dutch theologian broke away from Calvinism because he felt that predestinat
 
          God, “foreseeing [men’s] potential faith and the fact that they would turn to Him when they heard the gospel,” sealed their response with election.”
 
-   - b. Despite this difference, those who categorically accuse Arminianism of humanism should know how similar Calvinism and Arminianism are, at least at the outset. In fact, it was Arminius who made the following statement:
+   - Despite this difference, those who categorically accuse Arminianism of humanism should know how similar Calvinism and Arminianism are, at least at the outset. In fact, it was Arminius who made the following statement:
 
      > That God, by an eternal and unchangeable purpose in Jesus Christ his son, before the foundation of the world were laid, determined to save, out of the human race which had fallen into sin, in Christ, for Christ's sake and through Christ, those who through the grace of the Holy Spirit shall believe on the same his Son….
 
@@ -90,9 +90,9 @@ This Dutch theologian broke away from Calvinism because he felt that predestinat
 
 3. This view also has some problems, real or imagined.
 
-   - a. Salvation seems to be a result of human decision.
+   - Salvation seems to be a result of human decision.
 
-   - b. Difficult to see why the term “election” is used since God merely seals what humans have decided.
+   - Difficult to see why the term “election” is used since God merely seals what humans have decided.
 
 ## Discussion:
 

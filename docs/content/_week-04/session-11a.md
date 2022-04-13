@@ -23,11 +23,11 @@ What does Paul think that the devil is up to?
 
    What does this mean?
 
-   - a. The enemy has always tried to put doubts in what God says.
+   - The enemy has always tried to put doubts in what God says.
 
      He asked Eve, “Did God really say?” (Gn. 3:1); the devil began the second temptation of Jesus with this line: “If you are the Son of God…” (Matt. 4:6).
 
-   - b. He continues to put doubts in the minds of believers, particularly those who are new to the Christian faith and those who carry a lot of hurts from the past:
+   - He continues to put doubts in the minds of believers, particularly those who are new to the Christian faith and those who carry a lot of hurts from the past:
 
      > “You are not saved”; “God won’t forgive you”; “Neither God nor anyone loves you”; No one believes in you; “You are accepted as long as you do a good job.”
 
@@ -37,11 +37,11 @@ What does Paul think that the devil is up to?
 
    What the enemy wants to accomplish is to hinder the believers from of this process so that they will never reach that optimal state. What does this entail?
 
-   - a. First: While the relationship with God is always secure, the affected believers may fall out of fellowship with God (1 Jn. 1:6 ), resulting in the loss of joy and peace.
+   - First: While the relationship with God is always secure, the affected believers may fall out of fellowship with God (1 Jn. 1:6 ), resulting in the loss of joy and peace.
 
-   - b. Second: Instead of enjoying the freedom available in Christ, they constantly feel guilty and condemned, and are subjected to God’s constant discipline, for “God disciplines us for our good, that we may share in his holiness” (Heb. 12:10).
+   - Second: Instead of enjoying the freedom available in Christ, they constantly feel guilty and condemned, and are subjected to God’s constant discipline, for “God disciplines us for our good, that we may share in his holiness” (Heb. 12:10).
 
-   - c. Third: Ultimately, their lives are unfruitful and ineffective to serve God’s purpose since “without holiness (separation from the pattern of this world—italic mine) no one will see the Lord” (Heb 12:14b).
+   - Third: Ultimately, their lives are unfruitful and ineffective to serve God’s purpose since “without holiness (separation from the pattern of this world—italic mine) no one will see the Lord” (Heb 12:14b).
 
 # III. The Means of Sanctification
 
@@ -57,11 +57,11 @@ It must begin with understanding and then accepting God’s truth. Jesus says:
 
 1. Paul says that in order to avoid conforming to the pattern of the world, the believers need to be transformed by the renewing of their minds. But renew the mind with what?
 
-   - a. The Greek word for “renewal” in this context derives from the root word kainos, which means “new as to different nature” as opposed to old.
+   - The Greek word for “renewal” in this context derives from the root word kainos, which means “new as to different nature” as opposed to old.
 
-   - b. This is none other than God’s unchanging truth found in the Scripture about who He is, what He has done and continues to do for us in Christ, etc.
+   - This is none other than God’s unchanging truth found in the Scripture about who He is, what He has done and continues to do for us in Christ, etc.
 
-   - c. Then, we “will be able to test and approve what God's will is— his good, pleasing and perfect will” (Rom. 12:2).
+   - Then, we “will be able to test and approve what God's will is— his good, pleasing and perfect will” (Rom. 12:2).
 
 2. Progressively, as a result of obedience to the will of God, believers can possess the sanctified character
 
@@ -79,9 +79,9 @@ Prayer offers many benefits to the believers, two of which are experiencing the 
 
    > Do not be anxious about anything, but in everything, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus. (Phil. 4:6-7)
 
-   - a. For instance, when we have fallen momentarily, a prayer of confession can restore our fellowship with Him (1 Jn. 1:9), thereby, restoring the peace of God in our hearts.
+   - For instance, when we have fallen momentarily, a prayer of confession can restore our fellowship with Him (1 Jn. 1:9), thereby, restoring the peace of God in our hearts.
 
-   - b. In this way, the lies of the devil that try to knock down the believers from their secure position (e.g., “You are not truly saved”) and a deceitful voice from the hurtful past (e.g., “God can no longer love me”) are thwarted.
+   - In this way, the lies of the devil that try to knock down the believers from their secure position (e.g., “You are not truly saved”) and a deceitful voice from the hurtful past (e.g., “God can no longer love me”) are thwarted.
 
 2. Boldness to separate.
 
@@ -89,9 +89,9 @@ Prayer offers many benefits to the believers, two of which are experiencing the 
 
    Luke reports that after the early Christians in Jerusalem prayed, “they were all filled with the Holy Spirit and spoke the word of God boldly” (Acts 4:31).
 
-   - a. Certainly, boldness itself is not sufficient to separate oneself from the glamorous pattern of this world, the alluring schemes of the devil and the effects of painful past experiences; however, it is necessary to make a decisive break from them, especially at the outset of sanctification.
+   - Certainly, boldness itself is not sufficient to separate oneself from the glamorous pattern of this world, the alluring schemes of the devil and the effects of painful past experiences; however, it is necessary to make a decisive break from them, especially at the outset of sanctification.
 
-   - b. Christ told the parable of the persistent widow (Lk. 18:1-8) and the man who asks his friend for bread at midnight (Lk. 11:5-8) to underscore the importance of “boldness” in the Christian life in general and prayer in particular.
+   - Christ told the parable of the persistent widow (Lk. 18:1-8) and the man who asks his friend for bread at midnight (Lk. 11:5-8) to underscore the importance of “boldness” in the Christian life in general and prayer in particular.
 
 ## C. The third step
 
@@ -103,9 +103,9 @@ This is something that Peter, Paul, and James all agree on.
 
    > Though now for a little while you may have had to suffer grief in all kinds of trials. These have come so that your faith--of greater worth than gold, which perishes even though refined by fire--may be proved genuine and may result in praise, glory and honor when Jesus Christ is revealed …for you are receiving the goal of your faith, the salvation of your souls. (1 Pet. 1:6-9)
 
-   - a. “You are receiving the goal of your faith, the salvation of your soul” refers to salvation present, that is, sanctification (i.e., working out your salvation in the present).
+   - “You are receiving the goal of your faith, the salvation of your soul” refers to salvation present, that is, sanctification (i.e., working out your salvation in the present).
 
-   - b. Trials and difficult circumstances purify the motives and lives of believers so that they will follow Jesus for the right reason.
+   - Trials and difficult circumstances purify the motives and lives of believers so that they will follow Jesus for the right reason.
 
 2. The apostle Paul considered his trial in Philippi, where he was falsely imprisoned and beaten, as God’s way of testing his heart. He writes:
 
@@ -113,9 +113,9 @@ This is something that Peter, Paul, and James all agree on.
 
    > 4 On the contrary, we speak as men approved by God to be entrusted with the gospel. We are not trying to please men but God, who tests our hearts” (1 Thess. 2:2-4).
 
-   - a. The right motive is to please God, not men.
+   - The right motive is to please God, not men.
 
-   - b. When the motive is impure, people will stop working out their salvation at the first sign of inconvenience or difficulty.
+   - When the motive is impure, people will stop working out their salvation at the first sign of inconvenience or difficulty.
 
 3. James also writes:
 
