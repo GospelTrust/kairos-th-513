@@ -123,9 +123,9 @@ In what sense is today’s church doing the same as what the 1st century Jewish 
      - Undermines the power of justification to transform lives.
      - (Future justification) is work-based (entire life which implies work).
 
-  - c. It is ironic that Wright is accused of presenting his version of forensic or legal condition of justification, instead of transformation of vital reality or character, since that was his complaint against the traditional view on justification.
+   - It is ironic that Wright is accused of presenting his version of forensic or legal condition of justification, instead of transformation of vital reality or character, since that was his complaint against the traditional view on justification.
 
-  - d. Disliking the traditional view on justification, Dallas Willard said (sarcastically):
+   - Disliking the traditional view on justification, Dallas Willard said (sarcastically):
 
     > No one is in this ‘saved’ condition until declared to be so by God. We do not enter it by something that happens to us, or in virtue of a reality that moves into place in our life, even if that reality is God himself.
 
@@ -147,11 +147,11 @@ In what sense is today’s church doing the same as what the 1st century Jewish 
 
 1. First, the belief that the Jews were not preoccupied with righteousness obtained from works of the law is not necessarily true.
 
-  - a. “Documents from around the time of Paul state that some Jews believed obedience to the law was rewarded on the final day with salvation:
+   - “Documents from around the time of Paul state that some Jews believed obedience to the law was rewarded on the final day with salvation:
 
      “The one who does righteousness stores up life for himself with the Lord” (Psalms of Solomon, c. 50 B.C.). “Miracles, however, will appear at their own time to those who are saved by their works” (2 Baruch, c. A.D. 100).
 
-  - b. What does this mean?
+   - What does this mean?
 
       1. “Paul’s understanding of justification makes sense, then, as a criticism of the observance of the law as a whole (not just circumcision, Sabbath observance, and food laws) as the means to eternal life.”21
 
