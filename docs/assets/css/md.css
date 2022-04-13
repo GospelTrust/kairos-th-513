@@ -22,3 +22,10 @@ tr:nth-child(odd) {
   background-color: #333;
 }
 
+ol > li > ul > li {
+  list-style: lower-alpha;
+}
+
+ol > li > ul > li > ol > li {
+  list-style: lower-roman;
+}
