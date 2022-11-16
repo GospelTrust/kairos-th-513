@@ -1,0 +1,56 @@
+week-01:
+  title: 'Week 1'
+  segment: ['week', 1]
+  begin: 2022-03-13
+  end: 2022-03-19
+  theme: c1
+  items:
+    - syllabus
+    - session-01
+    - session-02
+    - session-03
+
+week-02:
+  title: 'Week 2'
+  segment: ['week', 2]
+  begin: 2022-03-20
+  end: 2022-03-26
+  theme: c3
+  items:
+    - session-04
+    - session-05
+    - session-06
+
+week-03:
+  title: 'Week 3'
+  segment: ['week', 3]
+  begin: 2022-03-27
+  end: 2022-04-02
+  theme: c5
+  items:
+    - session-07a
+    - session-07b
+    - session-08
+    - session-09
+
+week-04:
+  title: 'Week 4'
+  segment: ['week', 4]
+  begin: 2022-04-03
+  end: 2022-04-09
+  theme: c7
+  items:
+    - session-10
+    - session-11a
+    - session-11b
+    - session-12
+
+week-05:
+  title: 'Week 5'
+  segment: ['week', 5]
+  begin: 2022-04-10
+  end: 2022-04-16
+  theme: c9
+  items:
+    - session-13
+

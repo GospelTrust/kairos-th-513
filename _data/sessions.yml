@@ -1,0 +1,138 @@
+syllabus:
+  segment: 'week-01'
+  title: 'TH-513 Soteriology I'
+  icon: info
+  header: 'Syllabus'
+  type: 'Information'
+  url: 'syllabus'
+
+session-01:
+  segment: 'week-01'
+  title: 'Polemics over Soteriology'
+  icon: web_stories
+  header: 'Session 1'
+  type: 'Resources'
+  url: 'session-01'
+
+session-02:
+  segment: 'week-01'
+  title: 'Depravity of Man'
+  icon: web_stories
+  header: 'Session 2'
+  type: 'Resources'
+  url: 'session-02'
+
+session-03:
+  segment: 'week-01'
+  title: 'Regeneration'
+  icon: web_stories
+  header: 'Session 3'
+  type: 'Resources'
+  url: 'session-03'
+
+session-04:
+  segment: 'week-02'
+  title: 'Justification'
+  icon: web_stories
+  header: 'Session 4'
+  type: 'Resources'
+  url: 'session-04'
+  part: A
+
+session-05:
+  segment: 'week-02'
+  title: 'Justification'
+  icon: web_stories
+  header: 'Session 5'
+  type: 'Resources'
+  url: 'session-05'
+  part: B
+
+session-06:
+  segment: 'week-02'
+  title: 'Redemption'
+  icon: web_stories
+  header: 'Session 6'
+  type: 'Resources'
+  url: 'session-06'
+  part: A
+
+session-07a:
+  segment: 'week-03'
+  title: 'Redemption'
+  icon: web_stories
+  header: 'Session 7a'
+  type: 'Resources'
+  url: 'session-07a'
+  part: B
+
+session-07b:
+  segment: 'week-03'
+  title: 'Predestination'
+  icon: web_stories
+  header: 'Session 7b'
+  type: 'Resources'
+  url: 'session-07b'
+  part: A
+
+session-08:
+  segment: 'week-03'
+  title: 'Predestination'
+  icon: web_stories
+  header: 'Session 8'
+  type: 'Resources'
+  url: 'session-08'
+  part: B
+
+session-09:
+  segment: 'week-03'
+  title: 'Introduction to Sanctification'
+  icon: web_stories
+  header: 'Session 9'
+  type: 'Resources'
+  url: 'session-09'
+
+session-10:
+  segment: 'week-04'
+  title: 'Standing Before Christ'
+  icon: web_stories
+  header: 'Session 10'
+  type: 'Resources'
+  url: 'session-10'
+  part: A
+
+session-11a:
+  segment: 'week-04'
+  title: 'Standing Before Christ'
+  icon: web_stories
+  header: 'Session 11a'
+  type: 'Resources'
+  url: 'session-11a'
+  part: B
+
+session-11b:
+  segment: 'week-04'
+  title: 'Key to Sanctification'
+  icon: web_stories
+  header: 'Session 11b'
+  type: 'Resources'
+  url: 'session-11b'
+  part: A
+
+session-12:
+  segment: 'week-04'
+  title: 'Key to Sanctification'
+  icon: web_stories
+  header: 'Session 12'
+  type: 'Resources'
+  url: 'session-12'
+  part: B
+
+session-13:
+  segment: 'week-05'
+  title: 'Christology'
+  icon: web_stories
+  header: 'Session 13'
+  type: 'Resources'
+  url: 'session-13'
+
