@@ -17,11 +17,11 @@ The most important aspect of the Lamb that was slain is that through it an adequ
 
 2. What is God’s righteous requirement?
 
-   - a. The Greek verb hilaskōmai literally means, “to placate” as in averting wrath.
+   - The Greek verb hilaskōmai literally means, “to placate” as in averting wrath.
 
      In English, the word “atonement” means amends or reparation made for an injury or wrong.
 
-   - b. The animals used in the Passover sacrifice, whose shed blood averted coming God’s wrath, were unblemished lambs.
+   - The animals used in the Passover sacrifice, whose shed blood averted coming God’s wrath, were unblemished lambs.
 
      The apostles Peter, Paul and John, then, projected that imagery unto Christ, making him “a lamb without blemish or defect” (1 Pet. 1:19b), whose “precious blood” (1 Pet. 1:19a ) “save[s sinners] “from God’s wrath” (Rom. 5:9).
 
@@ -33,15 +33,15 @@ The most important aspect of the Lamb that was slain is that through it an adequ
 
 3. This view of atonement runs parallel to the medieval theologian Anselm’s satisfaction theory.
 
-   - a. He stated: “Sin runs up a debt with God which humans can never themselves repay. But Christ’s death was of such worth that it satisfied God’s offended majesty and earned a reward. Hence the Father gives humanity salvation on account of the merits of Christ.”
+   - He stated: “Sin runs up a debt with God which humans can never themselves repay. But Christ’s death was of such worth that it satisfied God’s offended majesty and earned a reward. Hence the Father gives humanity salvation on account of the merits of Christ.”
 
-   - b. To the question of why the punishment was necessary, Anselm responded: “It is not enough simply to restore what has been taken away.
+   - To the question of why the punishment was necessary, Anselm responded: “It is not enough simply to restore what has been taken away.
 
      (Your child was told not to throw the ball inside the house; he did and as a result a vase was broken. It is not enough that he glues it back);
 
      but, in consideration of the insult offered, more than what was taken away must be rendered back.”
 
-   - c. Then, he considered the opposite case of leaving the sin unpunished.
+   - Then, he considered the opposite case of leaving the sin unpunished.
 
       1. “Let us consider whether God could properly [cancel] sin by mercy alone without satisfaction. So to [cancel] sin would be simply to abstain from punishing it. And since only possible way of correcting sin, for which no satisfaction has been made, is to punish; not to punish it, is to [cancel] it uncorrected.”
 
@@ -63,11 +63,11 @@ The most important aspect of the Lamb that was slain is that through it an adequ
    `1 Cor. 11:23-6`:
    > For I received from the Lord what I also passed on to you: The Lord Jesus, on the night he was betrayed, took bread, 24 and when he had given thanks, he broke it and said, “This is my body, which is for you; do this in remembrance of me.” 25 In the same way, after supper he took the cup, saying, “This cup is the new covenant in my blood; do this, whenever you drink it, in remembrance of me.” 26 For whenever you eat this bread and drink this cup, you proclaim the Lord’s death until he comes.
 
-   - a. What the broken bread represents (i.e., the torn curtain that separated the Holy of Holies from the Holy Place)
+   - What the broken bread represents (i.e., the torn curtain that separated the Holy of Holies from the Holy Place)
 
       It represents the broken body of Jesus that took the punishment for our sins by being “pierced for our transgressions” and “crushed for our iniquities” (Is. 53:5).
 
-   - b. The shed blood of Christ (that took away sins) represents God’s permanent forgiveness of sins and his willingness to forget about it.
+   - The shed blood of Christ (that took away sins) represents God’s permanent forgiveness of sins and his willingness to forget about it.
 
       `Heb. 10:16a, 17`:
       > This is the covenant I will make with them after that time, says the Lord…. 17 Then he adds: ‘Their sins and lawless acts I will remember no more.’
@@ -97,17 +97,17 @@ In short, it is eternal life. Paul says,
 
    Repentance is the effect of having understood what Jesus did (dying for our sins so that we are not consumed by God’s wrath): a decision to turn from sin.
 
-   - a. Some advocate that repentance is a change of opinion about who Christ is (i.e., the Son of God), which is already included in believing; it doesn’t include contrition over sins and turning from them.
+   - Some advocate that repentance is a change of opinion about who Christ is (i.e., the Son of God), which is already included in believing; it doesn’t include contrition over sins and turning from them.
 
-   - b. On the contrary, others teach as if they expect the obedient life to manifest in its fullest measure from the outset of the Christian life.
+   - On the contrary, others teach as if they expect the obedient life to manifest in its fullest measure from the outset of the Christian life.
 
       Its leading advocate John MacArthur once said, “Faith is not complete unless it is obedient.”
 
 3. The position presented in this study is different from these.
 
-   - a. Upon placing faith in the work and person of Christ, and as the Holy Spirit regenerates that person at the same time, there ought to be an inward repentance consisting of contrition over sins and a desire, intent, and will to turn from sin.
+   - Upon placing faith in the work and person of Christ, and as the Holy Spirit regenerates that person at the same time, there ought to be an inward repentance consisting of contrition over sins and a desire, intent, and will to turn from sin.
 
-   - b. The actual changes in behavior and how quickly these changes may occur, are largely dependent on the degree to which the believers cooperate with the sanctifying work of the Holy Spirit.
+   - The actual changes in behavior and how quickly these changes may occur, are largely dependent on the degree to which the believers cooperate with the sanctifying work of the Holy Spirit.
 
       This will be fully addressed in later chapters.
 
@@ -119,7 +119,7 @@ In light of our study on regeneration, justification and redemption, the logical
 
 2. Recognition of one’s sinfulness and sins.
 
-   - a. → Which leads to contrition (“I am sorry for my sins.”)
+   - → Which leads to contrition (“I am sorry for my sins.”)
 
       1. Peter said before Jesus:
 
@@ -129,13 +129,13 @@ In light of our study on regeneration, justification and redemption, the logical
 
          > Woe to me…. I am ruined! For I am a man of unclean lips. (Is. 6:5)
 
-   - b. → Which then leads to repentance (turning from sin)
+   - → Which then leads to repentance (turning from sin)
 
       1. Inward: this refers to having the desire, intent, will and attitude to turn from sin.
 
       2. Outward: this does not necessarily mean that this person will turn from all his actual sins right away.
 
-   - c. Having been made alive by God, sinners are now able to recognize the following:
+   - Having been made alive by God, sinners are now able to recognize the following:
 
       1. They are “a prisoner of sin” (Gal. 3:22).
 
@@ -183,10 +183,10 @@ Read over the material covered in the last class and the additional Bible readin
 
 ### Answer:
 
-   - a. The ransom theory posits that through sin mankind became subject to the devil; the mark of this subjection was death. God in his grace wished to free men, but he was unable to because the devil’s claim was just.”
+   - The ransom theory posits that through sin mankind became subject to the devil; the mark of this subjection was death. God in his grace wished to free men, but he was unable to because the devil’s claim was just.”
 
-   - b. “Consequently, to neutralize Satan’s claim a ransom had to be paid in the form of a valuable person over whom Satan had no right—a sinless man. Thus, the devil was tricked when Christ was crucified, because the Son of God was sinless; now God can with justice save whomsoever he please.
+   - “Consequently, to neutralize Satan’s claim a ransom had to be paid in the form of a valuable person over whom Satan had no right—a sinless man. Thus, the devil was tricked when Christ was crucified, because the Son of God was sinless; now God can with justice save whomsoever he please.
 
-   - c. But we shouldn’t think that the devil forced Jesus to do this; according to Jn, 10:17-8, no one takes away life away from Jesus, but he lays it down of his own accord.
+   - But we shouldn’t think that the devil forced Jesus to do this; according to Jn, 10:17-8, no one takes away life away from Jesus, but he lays it down of his own accord.
 
-   - d. The righteous requirement of God is placating his anger toward sin. For to satisfy his anger, the sin cannot be properly cancelled unless punishment for sin has been carried out. To cancel unpunished sin would be treating the sinful and the sinless alike which wouldn’t reflect God’s nature.
+   - The righteous requirement of God is placating his anger toward sin. For to satisfy his anger, the sin cannot be properly cancelled unless punishment for sin has been carried out. To cancel unpunished sin would be treating the sinful and the sinless alike which wouldn’t reflect God’s nature.

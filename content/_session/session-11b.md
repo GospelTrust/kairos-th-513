@@ -29,13 +29,13 @@ This indicates that the believers are already abundantly filled with the Holy Sp
 
 2. Thus, Paul commanded the Ephesian believers, “Do not get drunk on wine, which leads to debauchery. Instead, be filled with the Spirit” (Eph. 5:18).
 
-   - a. Was the apostle merely reminding them that the Holy Spirit lives in them? No.
+   - Was the apostle merely reminding them that the Holy Spirit lives in them? No.
 
      While positionally, the “body is a temple of the Holy Spirit, who is in “the believers” (1 Cor. 6:19), the Spirit, who is a person, can be grieved (Eph. 4:30) as well as be quenched (1 Thess. 5:19) when sins are committed and then harbored.
 
-   - b. In his letter to the Ephesians, Paul tells them to “speak[] to one another with psalms, hymns, and songs from the Spirit. Sing and make music from your heart to the Lord,…” (Eph. 5:19), in order to be filled by the Holy Spirit.
+   - In his letter to the Ephesians, Paul tells them to “speak[] to one another with psalms, hymns, and songs from the Spirit. Sing and make music from your heart to the Lord,…” (Eph. 5:19), in order to be filled by the Holy Spirit.
 
-   - c. Luke points to prayer as being a key to being filled.
+   - Luke points to prayer as being a key to being filled.
 
      Regarding the early believers in Jerusalem, he said, “After they prayed …they were all filled with the Holy Spirit and spoke the word of God boldly” (Acts 4:31).
 

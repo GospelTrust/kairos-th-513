@@ -49,17 +49,17 @@ Total depravity of man, unconditional election, limited atonement, irresistible 
 
 1. Centered on God’ sovereignty, it espouses “double election” that predestines some to be saved and others to be lost forever.
 
-   - a. Though Calvin called it an “awful decree,” he, nevertheless, advocated this doctrine since nobody deserves salvation and only through God’s grace and mercy that some are saved.
+   - Though Calvin called it an “awful decree,” he, nevertheless, advocated this doctrine since nobody deserves salvation and only through God’s grace and mercy that some are saved.
 
-   - b. Once saved, God gives the elect the grace to persevere in faith until the very end; that is, the truly saved will not renounce their faith because God perseveres with them.
+   - Once saved, God gives the elect the grace to persevere in faith until the very end; that is, the truly saved will not renounce their faith because God perseveres with them.
 
 2. What about those who seemed to believe but did not persevere in faith?
 
-   - a. In reference to them, the Reformed theologian Michael Horton writes:
+   - In reference to them, the Reformed theologian Michael Horton writes:
 
      > Did they ever really possess saving, justifying faith, or where they likely the seeds that fell on rocky ground or were chocked by the weeds before they took root (Lk. 8:14-5)? Apparently the latter.
 
-   - b. Then, he quotes 1 John 2:19 in which apostle John alluded to those who used to worship and possibly served with him, but now they were part of the Docetics who denied the true humanity of Christ (1 Jn. 4:3; 2 Jn. 1:9):
+   - Then, he quotes 1 John 2:19 in which apostle John alluded to those who used to worship and possibly served with him, but now they were part of the Docetics who denied the true humanity of Christ (1 Jn. 4:3; 2 Jn. 1:9):
 
      > They went out from us, but they did not really belong to us. For if they had belonged to us, they would have remained with us; but their going showed that none of them belonged to us.
 

@@ -56,11 +56,11 @@ There are at least three ways in which God, through divine choosing, separates t
 
 3. In the NT, Jesus chose for himself twelve disciples and sanctified them for their future ministries.
 
-   - a. Thus, in his prayer to the Father, Jesus petitioned:
+   - Thus, in his prayer to the Father, Jesus petitioned:
 
      > Sanctify them by the truth; your word is truth. As you sent me into the world, I have sent them into the world. For them I sanctify myself, that they too may be truly sanctified. My prayer is not for them alone. I pray also for those who will believe in me through their message. (Jn. 17:15-20)
 
-   - b. Furthermore, the very meaning of the word “church” (ekklesia) is “called out” or “separated,” and to each believer, the same call still remains.
+   - Furthermore, the very meaning of the word “church” (ekklesia) is “called out” or “separated,” and to each believer, the same call still remains.
 
 {% include session/youtube.html id='qeTNRKk00yw' %}
 
@@ -78,17 +78,17 @@ Paul was in shock to hear that someone attending the Corinthian Church was havin
 
    In a later epistle to Timothy, Paul, in addressing the problem of some Christian men not providing for his immediate family, called out the irresponsible men as being “worse than an unbeliever” (1 Tim. 5:8).
 
-   - a. In both cases, Paul’s point of reference was the unbelieving world.
+   - In both cases, Paul’s point of reference was the unbelieving world.
 
-   - b. This shows that he was quite conscious about how the world might perceive the new faith. That is to say, Paul was clearly sensitive about the importance of Christian conduct exceeding the sinful conducts of the people of the world.
+   - This shows that he was quite conscious about how the world might perceive the new faith. That is to say, Paul was clearly sensitive about the importance of Christian conduct exceeding the sinful conducts of the people of the world.
 
-   - c. What is not surprising is Paul’s instruction to excommunicate this wayward member from the church (1 Cor. 5:5, 13); the clarification that followed shows his concern that he is not misunderstood.
+   - What is not surprising is Paul’s instruction to excommunicate this wayward member from the church (1 Cor. 5:5, 13); the clarification that followed shows his concern that he is not misunderstood.
 
 2. Separation from what? In 1 Corinthians 5:9-11, Paul says:
 
    > I have written you in my letter not to associate with sexually immoral people— 10 not at all meaning the people of this world who are immoral, or the greedy and swindlers, or idolaters. In that case you would have to leave this world. 11 But now I am writing to you that you must not associate with anyone who calls himself a brother but is sexually immoral or greedy, an idolater or slanderer, a drunkard or a swindler. With such a man do not even eat.
 
-   - a. Does Paul mean avoiding any contact with unbelievers and sinners?
+   - Does Paul mean avoiding any contact with unbelievers and sinners?
 
      Evidently, Paul was concerned that the Corinthian believers might construe his disciplinary measure to mean avoiding any contact with unbelievers and sinners in Corinth, a city infamous for immorality due in large part to its 1,000 temples prostitutes.
 
@@ -98,7 +98,7 @@ Paul was in shock to hear that someone attending the Corinthian Church was havin
 
       2. Clearly, Christians are not to separate themselves from the world; instead, they are to stay in the world, or as Paul put it, “Each one should remain in the situation which he was in when God called him” (7:20).
 
-   - b. Nevertheless, Christians are to separate themselves from how the people of this world, described by Paul as immoral, greedy, deceitful and idolatrous, live.
+   - Nevertheless, Christians are to separate themselves from how the people of this world, described by Paul as immoral, greedy, deceitful and idolatrous, live.
 
       1. So, when Paul quoted Isaiah 52:11—“Therefore come out from them and be separate”—in his second letter to the Corinthians (2 Cor. 6:17a), he was saying that they should live differently from how other Corinthians live.
 
@@ -106,7 +106,7 @@ Paul was in shock to hear that someone attending the Corinthian Church was havin
 
          > Do not conform any longer to the pattern of this world. (Rom. 12:2a)
 
-   - c. Now, Now, consider the following example that comes from Singapore involving the wife of a megachurch pastor named Sun Ho. She is a singer and dancer with some following in Asia who attempted to break into the American music scene. It was done under the rubric of introducing “Jesus culture” to pop-culture.
+   - Now, Now, consider the following example that comes from Singapore involving the wife of a megachurch pastor named Sun Ho. She is a singer and dancer with some following in Asia who attempted to break into the American music scene. It was done under the rubric of introducing “Jesus culture” to pop-culture.
 
       1. But, looking at the music video featuring her and other scantily dressed women dancing and gyrating, one wonders whether this “of the world” or “in the world” (trying to glorify God).
 
@@ -150,11 +150,11 @@ Even so, it is what Paul said about this messed up Corinthian congregation that 
 
 1. The Triune Godhead is holy and devoid of any sins.
 
-   - a. God told Moses to take off his sandals because the place where he was standing was holy ground (Ex. 3:4-5); apostle John added, “God is light; in him there is no darkness at all” (1 Jn. 1:5).
+   - God told Moses to take off his sandals because the place where he was standing was holy ground (Ex. 3:4-5); apostle John added, “God is light; in him there is no darkness at all” (1 Jn. 1:5).
 
-   - b. Jesus proclaimed, “I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life” (Jn. 8:12).
+   - Jesus proclaimed, “I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life” (Jn. 8:12).
 
-   - c. Of course, the Spirit of God is holy.
+   - Of course, the Spirit of God is holy.
 
 2. Thus, apostle Peter says, “But as he who called you is holy, you also be holy in all your conduct, 16 since it is written, “You shall be holy, for I am holy” (1 Pet. 1:15-6).
 
@@ -162,21 +162,21 @@ Even so, it is what Paul said about this messed up Corinthian congregation that 
 
 1. Paul states that the believers are like “a letter from Christ …written not with ink but with the Spirit of the living God …known and read by everybody” (2 Cor. 3:3, 2).
 
-   - a. However, unless the believer displays a distinctive lifestyle befitting Christ, the world will not be impressed with his message. Thus, the Hebrews writer says, “Make every effort …to be holy; without holiness no one will see the Lord” (Heb. 12:14b).
+   - However, unless the believer displays a distinctive lifestyle befitting Christ, the world will not be impressed with his message. Thus, the Hebrews writer says, “Make every effort …to be holy; without holiness no one will see the Lord” (Heb. 12:14b).
 
-   - b. And without holiness (e.g., having the right heart, avoid sinning, doing good deeds, etc.), the believers are unable to “shine before men” (Matt. 5:16a) as the salt and light of the world (5:13-14).
+   - And without holiness (e.g., having the right heart, avoid sinning, doing good deeds, etc.), the believers are unable to “shine before men” (Matt. 5:16a) as the salt and light of the world (5:13-14).
 
-   - c. The purpose of the light is so that “they may see your good deeds and praise your Father in heaven” (5:16b); however, that will not take place unless the world sees holiness in the believers.
+   - The purpose of the light is so that “they may see your good deeds and praise your Father in heaven” (5:16b); however, that will not take place unless the world sees holiness in the believers.
 
 2. Ultimately, its saddest outcome is hindering the gospel ministry.
 
    In Genesis 12:3, God, through Abraham, commissioned the nation of Israel to be the channel of God’s blessings to the world, saying, “All peoples on earth will be blessed through you.” This is a prototype for the Great Commission (Matt. 28:19-20).
 
-   - a. Prophet Isaiah, regarding the purpose of Israel in the world, says, “Nations will come to your light, and kings to the brightness of your dawn” (Is. 60:3).
+   - Prophet Isaiah, regarding the purpose of Israel in the world, says, “Nations will come to your light, and kings to the brightness of your dawn” (Is. 60:3).
 
-   - b. However, the light of Israel was very dim because, instead of being different from the Canaanite nations, they lived just like them.
+   - However, the light of Israel was very dim because, instead of being different from the Canaanite nations, they lived just like them.
 
-   - c. Consequently, Israel became very ineffectiveness in being the channel of God’s blessings to the nations. To that end, Prophet Jeremiah says,
+   - Consequently, Israel became very ineffectiveness in being the channel of God’s blessings to the nations. To that end, Prophet Jeremiah says,
 
      > If you put your detestable idols out of my sight and no longer go astray, and if in a truthful, just and righteous way you swear, ‘As surely as the LORD lives,’ then the nations will invoke blessings by him and in him they will boast. (Jer. 4:1a-2)
 
@@ -206,7 +206,7 @@ Sanctification is absolutely needed to separate the believers, particularly rece
 
    Consider these three reasons:
 
-   - a. First, the thought flow of Romans is quite linear:
+   - First, the thought flow of Romans is quite linear:
  Chapter 3—All have sinned; 4—Justification by faith; 5—Subsequent peace with God; 6—Now living for God; 7—Back to pre-conversion days?
 
       1. No, it is more likely that in Chapters 7 and 8, Paul delves into the struggles involved in the Christian life.
@@ -215,9 +215,9 @@ Sanctification is absolutely needed to separate the believers, particularly rece
 
          > If we say we have no sin, we deceive ourselves, and the truth is not in us…. 10 If we say we have not sinned, we make him a liar, and his word is not in us.
 
-   - b. Second, Paul uses present tense throughout Romans 7.
+   - Second, Paul uses present tense throughout Romans 7.
 
-   - c. Third, Paul’s description of his legalistic righteousness as being “faultless” (Phil. 3:6) during his pre-conversion days does not correspond to his intense inner turmoil described in Romans 7.
+   - Third, Paul’s description of his legalistic righteousness as being “faultless” (Phil. 3:6) during his pre-conversion days does not correspond to his intense inner turmoil described in Romans 7.
 
 4. Thus, through sanctification, the believers must trust that Jesus will bring forth the victory over their sinful nature, as Paul confidently asserted,
 

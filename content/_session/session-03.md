@@ -45,7 +45,7 @@ In 2 Corinthians 4:4, he adds, “The god of this age has blinded the minds of u
 
    The answer is found by way of comparing Islam and Christianity.
 
-   - a. Human nature in Islamic viewpoint.
+   - Human nature in Islamic viewpoint.
 
      - In the Koran (30:30), the human nature is described as either good or at least neutral (everyone born Islam).
 
@@ -55,7 +55,7 @@ In 2 Corinthians 4:4, he adds, “The god of this age has blinded the minds of u
 
      - Instead, Islam stresses the reading and memorization of Koran, believing that the knowledge of the will of Allah will restore people to their original nature.
 
-   - b. What Christianity advocates.
+   - What Christianity advocates.
 
      - The knowledge of God’s will is critical to transforming the mind.
 
@@ -95,11 +95,11 @@ In order for sinners to believe Jesus for salvation, thereby being united with G
 
    > I tell you the truth, no one can enter the kingdom of God unless he is born of water and the Spirit. Flesh gives birth to flesh, but the Spirit gives birth to spirit (Jn. 3:5-6).
 
-   - a. When the spiritually “blind” and “deaf” Nicodemus failed to understand the words of Jesus, this expert on the Scripture responded with a nonsensical statement:
+   - When the spiritually “blind” and “deaf” Nicodemus failed to understand the words of Jesus, this expert on the Scripture responded with a nonsensical statement:
 
      > Surely he cannot enter a second time into his mother’s womb to be born!
 
-   - b. Jesus didn’t make him feel any better when he said,
+   - Jesus didn’t make him feel any better when he said,
 
      > You are Israel’s teacher and do not understand these things? (3:10).
 
@@ -131,15 +131,15 @@ How would he have responded to the question of, “Is regeneration necessary to 
 
 3. What does the Bible appear to teach?
 
-   - a. Arminius view on regeneration (i.e., the will of regenerate man is so enabled that he can choose to believe or not believe) certainly is mindful of human responsibility.
+   - Arminius view on regeneration (i.e., the will of regenerate man is so enabled that he can choose to believe or not believe) certainly is mindful of human responsibility.
 
-   - b. Nevertheless, the biblical idea behind regeneration seems to equate regeneration with being saved.
+   - Nevertheless, the biblical idea behind regeneration seems to equate regeneration with being saved.
 
-   - c. While Arminianism better captures our actual experiences (accepting/rejecting the gospel), Calvinism better reflects the Scripture.
+   - While Arminianism better captures our actual experiences (accepting/rejecting the gospel), Calvinism better reflects the Scripture.
 
 4. A clarification
 
-   - a. Some opponents of Arminianism mischaracterize it as semi-Pelagian.
+   - Some opponents of Arminianism mischaracterize it as semi-Pelagian.
 
      Pelagius, a 4th century British monk, taught:
 
@@ -147,9 +147,9 @@ How would he have responded to the question of, “Is regeneration necessary to 
 
      - It left human nature unimpaired for good.
 
-   - b. Sometimes they go as far as to say Arminius denied original sin.
+   - Sometimes they go as far as to say Arminius denied original sin.
 
-   - c. As noted earlier, these were never part of Arminius’ teaching.
+   - As noted earlier, these were never part of Arminius’ teaching.
 
 ## D. The result of regeneration
 

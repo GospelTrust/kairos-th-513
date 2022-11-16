@@ -93,25 +93,25 @@ The devil, in tempting Jesus following his 40-day fast, made an extraordinary cl
 
 1. What Jesus said and didn’t say in response to the devil’s temptation is very telling.
 
-   - a. First, Jesus rebuffed this temptation with a deft response:
+   - First, Jesus rebuffed this temptation with a deft response:
 
      > It is written: ‘Worship the Lord your God and serve him only.’
 
-   - b. However, he did not challenge the devil’s premise that “all the kingdoms of the world are his and that they were given to him?”
+   - However, he did not challenge the devil’s premise that “all the kingdoms of the world are his and that they were given to him?”
 
-   - c. This, in effect, implies that the devil was telling a truth.
+   - This, in effect, implies that the devil was telling a truth.
 
 2. But who gave the kingdoms of the world to the devil? God?
 
    No, it was lost when Adam gave into the devil’s temptation at the garden.
 
-   - a. When God created Adam, He granted him the absolute power and authority to rule over all the rest of creations:
+   - When God created Adam, He granted him the absolute power and authority to rule over all the rest of creations:
 
      > God blessed them and said to them, ‘Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish of the sea and the birds of the air and over every living creature that moves on the ground’ (Gn. 1:28).
 
-   - b. In light of Peter’s assertion, “A man is a slave to whatever has mastered him” (2 Pet. 2:19b), Adam, upon being mastered by the devil, ceded the governance of the earth to Satan.
+   - In light of Peter’s assertion, “A man is a slave to whatever has mastered him” (2 Pet. 2:19b), Adam, upon being mastered by the devil, ceded the governance of the earth to Satan.
 
-   - c. And this is how devil became:
+   - And this is how devil became:
 
      - “The ruler of the kingdom of the air” (Eph. 2:2)
      - “The dominion of darkness” (Col. 1:13).
@@ -119,9 +119,9 @@ The devil, in tempting Jesus following his 40-day fast, made an extraordinary cl
 
 3. Another consequence of being born into this world.
 
-   - a. In light of Jesus’ statement, “Everyone who sins is a slave to sin” (Jn. 8:34), Adam, by giving into the enemy’s ploy, thereby willfully disobeying God, became his slave.
+   - In light of Jesus’ statement, “Everyone who sins is a slave to sin” (Jn. 8:34), Adam, by giving into the enemy’s ploy, thereby willfully disobeying God, became his slave.
 
-   - b. What did this mean for Adam’s descendants? Not only was Adam’s unrighteousness imputed on them, but his slavery to the devil as well.
+   - What did this mean for Adam’s descendants? Not only was Adam’s unrighteousness imputed on them, but his slavery to the devil as well.
 
       1. Thus, Paul states, “Formerly, when you did not know God, you were slaves to those who by nature are not gods” (Gal. 4:8)
 
@@ -148,9 +148,9 @@ But once sin was introduced into the world, it first resulted in spiritual death
 
 1. Spiritual death is a state of separation from God because, as a result of Adam’s sin, God’s Spirit left him, for “light” and “darkness” cannot CO-exist.
 
-   - a. Apostle John writes, “God is light; in him there is no darkness at all” (1 Jn. 1:5). Adam’s banishment from the Garden reflects the departure of God’s Spirit from Adam and Eve.
+   - Apostle John writes, “God is light; in him there is no darkness at all” (1 Jn. 1:5). Adam’s banishment from the Garden reflects the departure of God’s Spirit from Adam and Eve.
 
-   - b. Other than that, there was no clear sign of death after their sin; thus, some may wonder, especially after noting that Adam lived until the age of 930 years (Gn. 4:4-5), why he didn’t die right away.
+   - Other than that, there was no clear sign of death after their sin; thus, some may wonder, especially after noting that Adam lived until the age of 930 years (Gn. 4:4-5), why he didn’t die right away.
 
 2. To respond to this question, we need to understand how God created Adam in the first place.
 
@@ -190,9 +190,9 @@ When Adam sinned, while the Spirit of God left him, the spirit of man, that is, 
 
 2. It is like a fresh bouquet of flowers that look very alive, but they are actually dead.
 
-   - a. From the very moment they were uprooted from the ground (spiritual death), they suffered death.
+   - From the very moment they were uprooted from the ground (spiritual death), they suffered death.
 
-   - b. In a few days, its outward appearance will reflect it (physical death).
+   - In a few days, its outward appearance will reflect it (physical death).
 
 ### B. How did the departure of the Spirit affect the image of God in man?
 
@@ -200,17 +200,17 @@ The Greek word eikon (“image” in English) means “correspondence to the ori
 
 1. One is the narrow image.
 
-   - a. This refers to the original righteousness, knowledge of God, perfect purity, special awareness of God, which Adam possessed because the Spirit of God was in him.
+   - This refers to the original righteousness, knowledge of God, perfect purity, special awareness of God, which Adam possessed because the Spirit of God was in him.
 
-   - b. However, once the Spirit left Adam, he ceased to be God-like in some important ways because the narrow image of God was lost.
+   - However, once the Spirit left Adam, he ceased to be God-like in some important ways because the narrow image of God was lost.
 
-   - c. And this state is what is meant by the phrase “spiritually dead” or “totally depraved” (discussed later).
+   - And this state is what is meant by the phrase “spiritually dead” or “totally depraved” (discussed later).
 
 2. The other is the broad image of God:
 
-   - a. This refers to that which was created in man when the Spirit of God entered Adam to form spirit within him, thus enabling him to possess the intellect, mind, soul and spirit (i.e., the rational nature of God).
+   - This refers to that which was created in man when the Spirit of God entered Adam to form spirit within him, thus enabling him to possess the intellect, mind, soul and spirit (i.e., the rational nature of God).
 
-   - b. Despite the Fall, man, though spiritually dead to God (being devoid of the Spirit), continues to be a spiritual being, which distinguishes him from animals; this gives humanity an intrinsic worth that raises mankind above all animals.
+   - Despite the Fall, man, though spiritually dead to God (being devoid of the Spirit), continues to be a spiritual being, which distinguishes him from animals; this gives humanity an intrinsic worth that raises mankind above all animals.
 
 ## VII. What the Depraved Man is Incapable, as well as Capable of Doing
 
@@ -226,19 +226,19 @@ Dead people cannot respond to external stimulus, whether it be an offering of a 
 
 2. This raises the question of whether the spiritually dead (i.e., the unregenerate person) possesses free will in the spiritual realm?
 
-   - a. Recognizing the loss of the narrow image of God in the unregenerate man, Arminius commented:
+   - Recognizing the loss of the narrow image of God in the unregenerate man, Arminius commented:
 
      > Man has not saving grace himself, not of the working of his own free-will. In his state of apostasy and sin he can for himself and by himself think nothing that is good—nothing, that is, truly good, such as saving faith, above all.
 
-   - b. “So, man is a free agent in the sense that he is not controlled by any force outside of himself, but since he can’t originate the love of God in his heart, he is bound and fixed under the power of evil.”
+   - “So, man is a free agent in the sense that he is not controlled by any force outside of himself, but since he can’t originate the love of God in his heart, he is bound and fixed under the power of evil.”
 
 3. In effect, the unregenerate man is not at liberty to choose between good and evil, but only to choose between greater and lesser evil, which is not free will at all.
 
-   - a. While the “will can make decisions and take actions,... it is not free to cooperate with the grace of God.
+   - While the “will can make decisions and take actions,... it is not free to cooperate with the grace of God.
 
-   - b. The will is so twisted and corrupted... that it has no ability or desire to choose for God or for salvation.”
+   - The will is so twisted and corrupted... that it has no ability or desire to choose for God or for salvation.”
 
-   - c. Paul says, “The sinful mind is hostile to God. It does not submit to God's law, nor can it do so” (Rom. 8:7). It means that while man still has the ability to exercise volitions but he is unable to exercise holy volitions.
+   - Paul says, “The sinful mind is hostile to God. It does not submit to God's law, nor can it do so” (Rom. 8:7). It means that while man still has the ability to exercise volitions but he is unable to exercise holy volitions.
 
 {% include session/youtube.html id='91QihmJxUJE' %}
 
@@ -254,17 +254,17 @@ Because God’s broad image (i.e., His rational nature) remains in the fallen ma
 
    Note that the doctrine of depravity of man asserts the inability of the unregenerate man to choose good over evil in the spiritual realm, which raises the question of whether he is capable of choosing good over evil in the realm of morality and civility.
 
-   - a. The Bible certainly presents several cases of unregenerate people doing what Reformed theologian R. C. Sproul calls “works of civil virtue.”2
+   - The Bible certainly presents several cases of unregenerate people doing what Reformed theologian R. C. Sproul calls “works of civil virtue.”2
 
       1. It was none other than Jesus who affirmed that even an evil father is capable of doing some good: “If you then, being evil, know how to give good gifts to your children...” (Matt. 7:11).
 
       2. The pagan islanders of Malta showed “unusual kindness” to Paul and others (Acts 28:1).
 
-   - b. How is that possible?
+   - How is that possible?
 
      The only reason unregenerate “men, who have been made in God’s likeness” (James 3:9), are still capable of doing works of civil virtue is because “the requirements of [His] law are written on their hearts” (Rom. 2:14) as part of God’s broad image.
 
-   - c. So why did God leave His broad image in the fallen man?
+   - So why did God leave His broad image in the fallen man?
 
       1. In short, it’s because God loves those whom He created regardless whether or not they believe Him.
 
@@ -286,11 +286,11 @@ Because God’s broad image (i.e., His rational nature) remains in the fallen ma
 
 3. Able to think and be creative.
 
-   - a. Man’s ability to think and be creative was on full display when Adam “gave names to all the livestock, the birds of the air and all the beasts of the field” (Gn. 2:20).
+   - Man’s ability to think and be creative was on full display when Adam “gave names to all the livestock, the birds of the air and all the beasts of the field” (Gn. 2:20).
 
-   - b. When Apostle Paul, while preaching to the pagans of Athens, said, “As some of your own poets have said, ‘We are his offspring’ (Acts 17:28), he, in effect, affirmed that natural man (represented by pagan poets) is capable of ascertaining some truth.
+   - When Apostle Paul, while preaching to the pagans of Athens, said, “As some of your own poets have said, ‘We are his offspring’ (Acts 17:28), he, in effect, affirmed that natural man (represented by pagan poets) is capable of ascertaining some truth.
 
-   - c. This is why competent and creative artists, even if they do not believe in God, are still capable to capturing the type of beauty and design that can elicit, “God saw that it was good” (Gn. 1:18).
+   - This is why competent and creative artists, even if they do not believe in God, are still capable to capturing the type of beauty and design that can elicit, “God saw that it was good” (Gn. 1:18).
 
 {% include session/youtube.html id='fc_JqEX4af8' %}
 
@@ -306,9 +306,9 @@ This is to ask, “Can our capacity to perform the works of civil virtue, sense 
 
 1. First, man’s capacity for civil virtue, made possible by the broad image of God still remaining in man, does not make up for the loss of the narrow image of God that resulted in the Spirit vacating himself from the fallen man.
 
-   - a. This cataclysmic loss cannot be undone “by observing the law” (Rom. 3:20a) since all it takes to be condemned as a sinner is breaking just one law (James 2:10-1), which we have all done—multiple times.
+   - This cataclysmic loss cannot be undone “by observing the law” (Rom. 3:20a) since all it takes to be condemned as a sinner is breaking just one law (James 2:10-1), which we have all done—multiple times.
 
-   - b. Whatever amount of civil virtues a man may accumulate, they are not sufficient to earn God’s acceptance because, ultimately, the unregenerate man does nothing out of love for God.
+   - Whatever amount of civil virtues a man may accumulate, they are not sufficient to earn God’s acceptance because, ultimately, the unregenerate man does nothing out of love for God.
 
      The great Church Father Augustine said, “So, man is a free agent in the sense that he is not controlled by any force outside of himself, but since he can’t originate the love of God in his heart, he is bound and fixed under the power of evil.”
 
@@ -320,9 +320,9 @@ This is to ask, “Can our capacity to perform the works of civil virtue, sense 
 
    Effects of the Fall:
 
-   - a. Human observations and thoughts often get distorted because of the corrupt heart (nature of man).
+   - Human observations and thoughts often get distorted because of the corrupt heart (nature of man).
 
-   - b. The conscience works but not as well; it’s like a broken clock that tells the right time—twice a day.
+   - The conscience works but not as well; it’s like a broken clock that tells the right time—twice a day.
 
 ### B. Is there hope?
 
